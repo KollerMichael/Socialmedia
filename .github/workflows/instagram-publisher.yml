@@ -1,0 +1,36 @@
+name: Instagram Publisher
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # alle 10 Minuten prüfen, ob etwas fällig ist
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = Zugang testen · dry-run = nur anzeigen · publish = wirklich posten"
+        type: choice
+        options: [check, dry-run, publish]
+        default: check
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet requests pyyaml pillow
+      - name: Posts veröffentlichen
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MODE: ${{ github.event.inputs.mode || 'publish' }}
+        run: python instagram/ig_publish.py
