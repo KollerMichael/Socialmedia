@@ -3,6 +3,11 @@ name: Instagram Publisher
 on:
   schedule:
     - cron: "*/10 * * * *"   # alle 10 Minuten prüfen, ob etwas fällig ist
+  push:                      # sofort laufen, wenn der Zeitplan geändert wird
+    branches: [main]
+    paths:
+      - "instagram/posts.yml"
+      - ".github/workflows/instagram-publisher.yml"
   workflow_dispatch:
     inputs:
       mode:
