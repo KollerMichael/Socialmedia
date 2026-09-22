@@ -1,6 +1,3 @@
-# test
-line2
-    indented
 #!/usr/bin/env python3
 """Instagram Publisher für @medical.athletic.coach – postet direkt über die Meta Graph API.
 
