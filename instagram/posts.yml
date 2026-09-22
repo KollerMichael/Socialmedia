@@ -1,4 +1,4 @@
-# Zeitplan für @medical.athletic.coach
+# Zeitplan für @medical.athletic.coach (Systemnutzer-Schlüssel aktiv)
 # Nur Einträge mit "approved: true" werden gepostet (Freigabe vor jeder Veröffentlichung).
 # time: "JJJJ-MM-TT HH:MM" in Wiener Zeit. Der Job läuft alle 10 Minuten – je nach
 #       GitHub-Auslastung kann ein Post einige Minuten später erscheinen.
