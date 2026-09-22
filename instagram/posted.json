@@ -1,7 +1,8 @@
 {
   "2026-09-22_polarisiert_story": {
-    "status": "error",
-    "error": "Graph API POST 17841440359894145/media: Error validating access token: The session is invalid because the user logged out. (code 190, subcode 467)",
-    "at": "2026-09-22T10:09:07.811931+02:00"
+    "status": "posted",
+    "media_id": "18622262506044497",
+    "permalink": "",
+    "at": "2026-09-22T10:21:51.590231+02:00"
   }
 }
