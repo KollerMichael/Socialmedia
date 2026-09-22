@@ -1,0 +1,30 @@
+# Zeitplan für @medical.athletic.coach
+# Nur Einträge mit "approved: true" werden gepostet (Freigabe vor jeder Veröffentlichung).
+# time: "JJJJ-MM-TT HH:MM" in Wiener Zeit. Der Job läuft alle 10 Minuten – je nach
+#       GitHub-Auslastung kann ein Post einige Minuten später erscheinen.
+# type: carousel (2–10 Bilder) | image | story (1 Bild/Video, keine Caption) | reel (1 Video)
+# media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
+# Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
+
+- id: 2026-09-22_polarisiert_story
+  type: story
+  time: "2026-09-22 08:00"
+  media:
+    - PolarisiertStory.png
+  approved: true
+
+# Vorlage Karussell:
+# - id: 2026-09-24_thema_karussell
+#   type: carousel
+#   time: "2026-09-24 18:00"
+#   media: [ThemaSlide1.png, ThemaSlide2.png, ThemaSlide3.png]
+#   caption: |
+#     Hook-Zeile …
+#
+#     📩 Fragen oder Termin? Melde dich bei der Sportordination:
+#     🌐 www.sportordination.com
+#     ✉️ office@sportordination.com
+#     📞 +43 1 2280028
+#
+#     #Sportordination #medicalathleticcoach
+#   approved: false
