@@ -24,13 +24,17 @@ SCHEDULE = DIR / "posts.yml"
 STATE = DIR / "posted.json"
 JPG_DIR = DIR / "_jpg"
 TZ = ZoneInfo(os.environ.get("TIMEZONE", "Europe/Vienna"))
-API = f"https://graph.facebook.com/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
+GRAPH_VERSION = os.environ.get("GRAPH_VERSION", "v23.0")
 MODE = os.environ.get("MODE", "publish").strip().lower()
 MAX_LATE_H = float(os.environ.get("MAX_LATE_HOURS", "12"))   # ältere, verpasste Posts nicht mehr nachholen
 REPO = os.environ.get("GITHUB_REPOSITORY", "KollerMichael/Socialmedia")
 BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
-USER = os.environ.get("IG_USER_ID", "")
-TOKEN = os.environ.get("IG_ACCESS_TOKEN", "")
+USER = os.environ.get("IG_USER_ID", "").strip()
+TOKEN = os.environ.get("IG_ACCESS_TOKEN", "").strip()
+# Schlüssel aus "API-Einrichtung mit Instagram-Login" beginnen mit "IG" und laufen über graph.instagram.com,
+# Schlüssel aus "API-Einrichtung mit Facebook-Login" (meist "EAA…") über graph.facebook.com.
+HOST = "graph.instagram.com" if TOKEN.startswith("IG") else "graph.facebook.com"
+API = f"https://{HOST}/{GRAPH_VERSION}"
 
 IMG = {".jpg", ".jpeg", ".png", ".webp"}
 VID = {".mp4", ".mov"}
@@ -196,6 +200,54 @@ def due(p, now):
     return t, now >= t
 
 
+def diagnose():
+    """Prüft Schlüssel und Konto-ID und zeigt, welche ID die richtige wäre."""
+    log(f"Schlüsseltyp: {'Instagram-Login (graph.instagram.com)' if HOST.startswith('graph.instagram') else 'Facebook-Login (graph.facebook.com)'}")
+    candidates = []
+    try:
+        if HOST.startswith("graph.instagram"):
+            me = api("GET", "me", fields="user_id,username")
+            log(f"Schlüssel gehört zu @{me.get('username')}")
+            candidates.append((str(me.get("user_id")), me.get("username")))
+        else:
+            me = api("GET", "me", fields="id,name")
+            log(f"Schlüssel gehört zu: {me.get('name')} (Typ Benutzer oder Seite)")
+            try:
+                pages = api("GET", "me/accounts", fields="id,name,instagram_business_account{id,username}").get("data", [])
+                for pg in pages:
+                    iba = pg.get("instagram_business_account")
+                    log(f"  Seite '{pg.get('name')}' → Instagram: {('@' + iba['username'] + ' ID ' + iba['id']) if iba else 'nicht verknüpft'}")
+                    if iba:
+                        candidates.append((iba["id"], iba.get("username")))
+            except RuntimeError:
+                pass
+            try:  # Seiten-Schlüssel: die Seite selbst abfragen
+                own = api("GET", "me", fields="instagram_business_account{id,username}").get("instagram_business_account")
+                if own:
+                    log(f"  Diese Seite ist verknüpft mit @{own.get('username')} ID {own['id']}")
+                    candidates.append((own["id"], own.get("username")))
+            except RuntimeError:
+                pass
+    except RuntimeError as e:
+        sys.exit(f"❌ Schlüssel ungültig oder ohne Berechtigung: {e}")
+
+    try:
+        acc = api("GET", USER, fields="username")
+        lim = api("GET", f"{USER}/content_publishing_limit", fields="config,quota_usage")
+        log(f"✅ Zugang ok: @{acc.get('username')} – IG_USER_ID passt.")
+        log(f"   Posting-Limit: {json.dumps(lim.get('data', lim), ensure_ascii=False)}")
+    except RuntimeError as e:
+        log(f"❌ IG_USER_ID passt nicht zu diesem Schlüssel: {e}")
+        if candidates:
+            for cid, name in candidates:
+                log(f"👉 Richtige IG_USER_ID wäre vermutlich: {cid} (@{name}) – bitte das Secret damit ersetzen.")
+        else:
+            log("👉 Kein Instagram-Business-Konto über diesen Schlüssel gefunden. Beim Erzeugen des Schlüssels "
+                "Facebook-Seite UND Instagram-Konto freigeben und die Berechtigungen instagram_basic, "
+                "instagram_content_publish, pages_show_list, pages_read_engagement, business_management wählen.")
+        sys.exit(1)
+
+
 def main():
     if not USER or not TOKEN:
         msg = "Secrets IG_USER_ID und IG_ACCESS_TOKEN fehlen (GitHub → Settings → Secrets and variables → Actions)."
@@ -205,10 +257,7 @@ def main():
         return
 
     if MODE == "check":
-        me = api("GET", USER, fields="username,name")
-        lim = api("GET", f"{USER}/content_publishing_limit", fields="config,quota_usage")
-        log(f"✅ Zugang ok: @{me.get('username')} ({me.get('name')})")
-        log(f"   Posting-Limit: {json.dumps(lim.get('data', lim), ensure_ascii=False)}")
+        diagnose()
         return
 
     posts = yaml.safe_load(SCHEDULE.read_text(encoding="utf-8")) or []
