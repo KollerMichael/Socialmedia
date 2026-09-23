@@ -6,6 +6,39 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-23_alltag_karussell
+  type: carousel
+  time: "2026-09-23 17:00"
+  media: [AlltagSlide1.png, AlltagSlide2.png, AlltagSlide3.png, AlltagSlide4.png, AlltagSlide5.png, AlltagSlide6.png, AlltagSlide7.png, AlltagSlide8.png]
+  caption: |
+    Hart trainiert – und dann den ganzen Tag sitzen? 🪫
+
+    Dein Training dauert eine Stunde. Was machst du mit den restlichen 15 wachen Stunden?
+
+    Training ist wichtig – keine Frage. Aber der Alltag ist ein Hebel, den viele unterschätzen. In einer großen Studie ging über 8 Jahre ein Plus von rund 4.300 Schritten pro Tag mit gleich viel mehr Ausdauer-Fitness einher wie 17 Minuten zügiges Training täglich.
+
+    Das heißt: Stiege statt Lift, eine Station früher aussteigen, alle 30 Minuten kurz aufstehen, mit dem Rad zur Arbeit. Kleine Dinge – aber jeden Tag.
+
+    Im Profifußball schauen wir nicht nur auf die Trainingseinheit, sondern auf die ganze Belastung über den Tag. Das kannst du auch. Wisch dich durch die 5 Hebel und such dir einen aus, mit dem du morgen startest.
+
+    👉 Welcher Hebel ist dein Einstieg? Schreib die Nummer in die Kommentare – und speicher dir den Post für später.
+
+    Hinweis: Hast du Herzprobleme oder Risikofaktoren? Lass das vor intensiven Einheiten ärztlich abklären.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #fitness #athletiktraining #sportmedizin #alltagsaktivität #leistungsdiagnostik #schritte #wiensport #gesundheit
+  approved: true
+
+- id: 2026-09-23_alltag_story
+  type: story
+  time: "2026-09-23 17:05"
+  media: [AlltagStory.png]
+  approved: true
+
 - id: 2026-09-22_carbs_karussell
   type: carousel
   time: "2026-09-23 09:10"
