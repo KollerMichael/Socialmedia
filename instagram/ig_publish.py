@@ -27,6 +27,7 @@ TZ = ZoneInfo(os.environ.get("TIMEZONE", "Europe/Vienna"))
 GRAPH_VERSION = os.environ.get("GRAPH_VERSION", "v23.0")
 MODE = os.environ.get("MODE", "publish").strip().lower()
 MAX_LATE_H = float(os.environ.get("MAX_LATE_HOURS", "12"))   # ältere, verpasste Posts nicht mehr nachholen
+WAIT_MAX_MIN = float(os.environ.get("WAIT_MAX_MIN", "0") or 0)  # Lauf wartet auf Posts, die innerhalb dieser Minuten fällig werden
 REPO = os.environ.get("GITHUB_REPOSITORY", "KollerMichael/Socialmedia")
 BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
 USER = os.environ.get("IG_USER_ID", "").strip()
@@ -260,8 +261,48 @@ def main():
         diagnose()
         return
 
+    failed = False
+    while True:
+        failed, nxt = run_once() or failed, None
+        if MODE != "publish" or WAIT_MAX_MIN <= 0:
+            break
+        nxt = next_due()
+        if not nxt:
+            break
+        wait = (nxt - dt.datetime.now(TZ)).total_seconds()
+        if wait > WAIT_MAX_MIN * 60:
+            log(f"Nächster Post {nxt:%d.%m. %H:%M} – übernimmt ein späterer Lauf.")
+            break
+        log(f"⏳ Warte {wait/60:.0f} Min. bis {nxt:%H:%M}, damit der Post pünktlich erscheint …")
+        time.sleep(max(0, wait) + 20)
+    if failed:
+        sys.exit(1)
+
+
+def load():
     posts = yaml.safe_load(SCHEDULE.read_text(encoding="utf-8")) or []
     state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
+    return posts, state
+
+
+def next_due():
+    posts, state = load()
+    now = dt.datetime.now(TZ)
+    times = []
+    for p in posts:
+        if p.get("approved") is not True or state.get(str(p.get("id")), {}).get("status") in ("posted", "skipped_late"):
+            continue
+        try:
+            t, is_due = due(p, now)
+        except Exception:
+            continue
+        if not is_due:
+            times.append(t)
+    return min(times) if times else None
+
+
+def run_once():
+    posts, state = load()
     now = dt.datetime.now(TZ)
     log(f"Lauf {now:%Y-%m-%d %H:%M} ({TZ}) · Modus {MODE} · {len(posts)} Einträge im Plan")
 
@@ -310,8 +351,7 @@ def main():
     if MODE == "publish":
         STATE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
         git_push("Instagram: Status aktualisiert")
-    if failed:
-        sys.exit(1)
+    return failed
 
 
 if __name__ == "__main__":
