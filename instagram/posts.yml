@@ -6,6 +6,45 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-24_gelenke_karussell
+  type: carousel
+  time: "2026-09-24 14:00"
+  media: [GelenkeSlide1.png, GelenkeSlide2.png, GelenkeSlide3.png, GelenkeSlide4.png, GelenkeSlide5.png, GelenkeSlide6.png, GelenkeSlide7.png]
+  caption: |
+    Macht Laufen deine Knie kaputt? Für die meisten: nein. 🦵
+
+    Eine große Meta-Analyse mit über 114.000 Menschen zeigt: Freizeitläufer hatten seltener Arthrose an Hüfte und Knie (3,5 %) als Menschen, die wenig aktiv sind (10,2 %). Knorpel mag regelmäßige Belastung – wie ein Schwamm, der durch Druck und Entlastung versorgt wird.
+
+    Wann ist Vorsicht angesagt?
+    👉 nach Verletzungen wie Kreuzband- oder Meniskusschaden
+    👉 bei Übergewicht – jeder Schritt bringt mehr Last aufs Gelenk
+    👉 bei jahrelangem extremem Wettkampf-Umfang (Eliteläufer: 13,3 %)
+    Meist heißt das nicht: aufhören. Sondern: klug einsteigen und richtig dosieren.
+
+    So schützt du deine Gelenke:
+    💪 Krafttraining mindestens 2 × pro Woche – Kniebeuge, Ausfallschritt, Wadenheben, Hüfte
+    📈 Keine Monster-Läufe: Ein Lauf max. ca. 10 % länger als dein längster der letzten 30 Tage. Schon 10–30 % mehr gingen in einer Studie mit 64 % mehr Verletzungsrisiko einher.
+    🐢 Die meisten Läufe locker, wenige intensiv
+    😴 Pausen einplanen
+
+    Hinweis: Schmerz oder Schwellung im Gelenk, die bleiben? Ärztlich abklären lassen.
+
+    Wie viele Kilometer läufst du pro Woche? Schreib's in die Kommentare 👇
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #running #gelenke #arthrose #krafttraining #sportmedizin #athletiktraining #wiensport
+  approved: true
+
+- id: 2026-09-24_gelenke_story
+  type: story
+  time: "2026-09-24 14:10"
+  media: [GelenkeStory.png]
+  approved: true
+
 - id: 2026-09-24_zone2_karussell
   type: carousel
   time: "2026-09-24 07:00"
