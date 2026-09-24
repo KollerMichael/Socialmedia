@@ -6,6 +6,35 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-25_rad_karussell
+  type: carousel
+  time: "2026-09-25 07:00"
+  media: [RadSlide1.png, RadSlide2.png, RadSlide3.png, RadSlide4.png, RadSlide5.png, RadSlide6.png, RadSlide7.png]
+  caption: |
+    Mehr Kilometer – ohne Knie-Stress? Steig aufs Rad. 🚴
+
+    Beim Laufen landest du bei jedem Schritt mit etwa dem 2- bis 3-Fachen deines Körpergewichts. Am Rad fällt dieser Aufprall weg. So kannst du deinen Trainingsumfang steigern, ohne Knie, Hüfte und Sehnen zusätzlich zu belasten – und bringst Abwechslung in dein Training. In Studien verbesserte Radtraining die VO2max ähnlich wie Lauftraining.
+
+    Achtung beim Puls: Am Rad liegt deine Herzfrequenz bei gleicher Intensität meist niedriger – oft etwa 10–15 Schläge pro Minute. Deine Lauf-Pulszonen passen also nicht 1:1 aufs Rad. Der Unterschied ist individuell verschieden. Am genauesten bestimmst du deine Rad-Zonen mit einer Leistungsdiagnostik am Ergometer (Laktat und/oder Spiroergometrie) – zum Beispiel bei uns in der Sportordination.
+
+    Wann passt das Rad am besten? In der Grundlagenphase kannst du viel Umfang am Rad sammeln. Je näher der Wettkampf rückt, desto laufspezifischer wird dein Training. Denn: Rad ersetzt Laufen nicht ganz – für deine Laufzeit brauchst du Laufen.
+
+    Fährst du schon Rad als Ausgleich? Schreib's in die Kommentare 👇
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #radfahren #crosstraining #ausdauertraining #leistungsdiagnostik #triathlon #sportmedizin #wiensport
+  approved: true
+
+- id: 2026-09-25_rad_story
+  type: story
+  time: "2026-09-25 07:10"
+  media: [RadStory.png]
+  approved: true
+
 - id: 2026-09-24_gelenke_karussell
   type: carousel
   time: "2026-09-24 14:00"
