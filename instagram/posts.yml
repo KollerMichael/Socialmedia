@@ -6,6 +6,39 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-26_cardiacdrift_karussell
+  type: carousel
+  time: "2026-09-26 07:30"
+  media: [CardiacDriftSlide1.png, CardiacDriftSlide2.png, CardiacDriftSlide3.png, CardiacDriftSlide4.png, CardiacDriftSlide5.png, CardiacDriftSlide6.png, CardiacDriftSlide7.png]
+  caption: |
+    Dein Puls steigt, obwohl du gleich schnell läufst? Das hat einen Namen: Cardiac Drift.
+
+    Bei längeren Einheiten pumpt dein Herz pro Schlag etwas weniger Blut – und gleicht das mit mehr Schlägen aus. Die Gründe: Hitze, Schweißverlust, müde Muskeln und ein zu hohes Tempo.
+
+    Entscheidend ist, wie stark dein Puls steigt. Klettert er bei lockerem Tempo schon in den ersten 60–90 Minuten deutlich (Faustregel: in der 2. Hälfte mehr als ca. 5 % höher), ist deine aerobe Grundlage oft noch ausbaufähig. Ab ca. 1,5–2 Stunden ist etwas Drift auch bei Top-Trainierten normal – vor allem bei Hitze.
+
+    Im lockeren Grundlagentempo, oft „Fettstoffwechseltraining“ genannt, bleibt der Puls meist stabil. Und: Kraft und Stabilität helfen dir, auch müde noch ökonomisch zu laufen. Laufökonomie heißt: wie viel Sauerstoff du bei gleichem Tempo brauchst. In einer aktuellen Studie verschlechterte sich die Laufökonomie nach 90 Minuten Laufen nur noch um ca. 2 % statt um ca. 5 % – nach 10 Wochen Kraft- und Sprungtraining, 2× pro Woche.
+
+    Mit einer Leistungsdiagnostik weißt du, wo deine aerobe Schwelle liegt – und wie locker „locker“ für dich wirklich ist.
+
+    Wie stark driftet dein Puls beim langen Lauf? Schreib’s in die Kommentare 👇 Und speichere dir den Post für deinen nächsten langen Lauf.
+
+    Wichtig: Herzstolpern, Brustdruck oder Schwindel beim Sport? Sofort stoppen und ärztlich abklären lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #ausdauertraining #leistungsdiagnostik #herzfrequenz #krafttraining #sportmedizin #wiensport
+  approved: true
+
+- id: 2026-09-26_cardiacdrift_story
+  type: story
+  time: "2026-09-26 07:35"
+  media: [CardiacDriftStory.png]
+  approved: true
+
 - id: 2026-09-25_rad_karussell
   type: carousel
   time: "2026-09-25 16:38"
