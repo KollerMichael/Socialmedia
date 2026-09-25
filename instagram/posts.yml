@@ -6,6 +6,43 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-26_vo2max_karussell
+  type: carousel
+  time: "2026-09-26 14:00"
+  media: [VO2maxSlide1.png, VO2maxSlide2.png, VO2maxSlide3.png, VO2maxSlide4.png, VO2maxSlide5.png, VO2maxSlide6.png, VO2maxSlide7.png, VO2maxSlide8.png]
+  caption: |
+    Deine Uhr sagt VO2max 52 – aber stimmt das wirklich? ⌚
+
+    Die VO2max zeigt, wie viel Sauerstoff dein Körper pro Minute maximal aufnehmen und in den Muskeln nutzen kann. Stell sie dir als Größe deines Motors vor: Je größer, desto mehr Tempo hältst du – beim Kicken, Laufen oder auf der Stiege zur U-Bahn.
+
+    Warum das zählt? Ausdauer-Fitness gehört zu den stärksten Gesundheitsmarkern. Schon ein kleines Plus (1 MET) geht in Studien mit 10–20 % geringerem Sterberisiko einher.
+
+    Gemessen wird die VO2max mit der Spiroergometrie: Du belastest dich stufenweise auf Laufband oder Rad, eine Maske analysiert jeden Atemzug. Uhren und Formeln rechnen dagegen aus Puls, Tempo und Alter – und liegen im Schnitt oft 5–15 % daneben. Eine Berechnung bleibt eine Berechnung.
+
+    Und das Training? Mehrere Wege führen nach Rom:
+    🟡 Einsteiger: regelmäßig locker bis zügig – das bringt schon viel
+    🟡 Fortgeschrittene: viel Lockeres + 1–2 Intervall-Einheiten pro Woche
+    🟡 Gut Trainierte: gezielte, gut dosierte Reize nahe der VO2max
+    Welcher Weg deiner ist, hängt von deinem Ausgangspunkt ab. Und weil jeder anders auf Trainingsreize reagiert, muss das Training laufend angepasst werden.
+
+    Über 35 mit Risikofaktoren oder Beschwerden? Vor intensivem Training ärztlich abklären lassen.
+
+    Kennst du deinen echten Wert – oder nur den deiner Uhr? Schreib's in die Kommentare 👇
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #vo2max #spiroergometrie #leistungsdiagnostik #ausdauertraining #laufen #sportmedizin #fitness #wiensport
+  approved: true
+
+- id: 2026-09-26_vo2max_story
+  type: story
+  time: "2026-09-26 14:10"
+  media: [VO2maxStory.png]
+  approved: true
+
 - id: 2026-09-26_cardiacdrift_karussell
   type: carousel
   time: "2026-09-26 07:30"
