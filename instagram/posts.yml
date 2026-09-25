@@ -27,13 +27,13 @@
     📞 +43 1 2280028
 
     #Sportordination #medicalathleticcoach #laufen #radfahren #crosstraining #ausdauertraining #leistungsdiagnostik #triathlon #sportmedizin #wiensport
-  approved: true
+  approved: false
 
 - id: 2026-09-25_rad_story
   type: story
   time: "2026-09-25 07:10"
   media: [RadStory.png]
-  approved: true
+  approved: false
 
 - id: 2026-09-24_gelenke_karussell
   type: carousel
