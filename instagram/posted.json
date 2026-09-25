@@ -54,13 +54,15 @@
     "at": "2026-09-24T14:10:55.124452+02:00"
   },
   "2026-09-25_rad_karussell": {
-    "status": "error",
-    "error": "Graph API POST 17841440359894145/media: API access blocked. (code 200, subcode None)",
-    "at": "2026-09-25T16:25:13.227913+02:00"
+    "status": "posted",
+    "media_id": "18461614090140569",
+    "permalink": "https://www.instagram.com/p/DdtsiLroO2U/",
+    "at": "2026-09-25T16:38:58.745147+02:00"
   },
   "2026-09-25_rad_story": {
-    "status": "error",
-    "error": "Graph API POST 17841440359894145/media: API access blocked. (code 200, subcode None)",
-    "at": "2026-09-25T16:25:13.227913+02:00"
+    "status": "posted",
+    "media_id": "17986240952880156",
+    "permalink": "",
+    "at": "2026-09-25T16:38:58.745147+02:00"
   }
 }
