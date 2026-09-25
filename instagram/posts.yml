@@ -8,7 +8,7 @@
 
 - id: 2026-09-25_rad_karussell
   type: carousel
-  time: "2026-09-25 07:00"
+  time: "2026-09-25 16:25"
   media: [RadSlide1.png, RadSlide2.png, RadSlide3.png, RadSlide4.png, RadSlide5.png, RadSlide6.png, RadSlide7.png]
   caption: |
     Mehr Erfolg beim Laufen! Steig auch aufs Rad! 🚴
@@ -27,13 +27,13 @@
     📞 +43 1 2280028
 
     #Sportordination #medicalathleticcoach #laufen #radfahren #crosstraining #ausdauertraining #leistungsdiagnostik #triathlon #sportmedizin #wiensport
-  approved: false
+  approved: true
 
 - id: 2026-09-25_rad_story
   type: story
-  time: "2026-09-25 07:10"
+  time: "2026-09-25 16:25"
   media: [RadStory.png]
-  approved: false
+  approved: true
 
 - id: 2026-09-24_gelenke_karussell
   type: carousel
