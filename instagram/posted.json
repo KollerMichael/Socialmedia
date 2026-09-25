@@ -56,6 +56,11 @@
   "2026-09-25_rad_karussell": {
     "status": "error",
     "error": "Graph API POST 17841440359894145/media: API access blocked. (code 200, subcode None)",
-    "at": "2026-09-25T07:00:20.008909+02:00"
+    "at": "2026-09-25T07:10:20.008924+02:00"
+  },
+  "2026-09-25_rad_story": {
+    "status": "error",
+    "error": "Graph API POST 17841440359894145/media: API access blocked. (code 200, subcode None)",
+    "at": "2026-09-25T07:10:20.008924+02:00"
   }
 }
