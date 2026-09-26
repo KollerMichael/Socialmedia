@@ -6,6 +6,39 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-27_langsamlaufen_karussell
+  type: carousel
+  time: "2026-09-27 09:30"
+  media: [LangsamLaufenSlide1.png, LangsamLaufenSlide2.png, LangsamLaufenSlide3.png, LangsamLaufenSlide4.png, LangsamLaufenSlide5.png, LangsamLaufenSlide6.png, LangsamLaufenSlide7.png]
+  caption: |
+    Der erste Mensch unter 2 Stunden im Marathon lief manche Trainingsläufe mehr als doppelt so langsam wie im Rennen. 🐢
+
+    Eliud Kipchoge lief 2019 in Wien 1:59:40 – das sind 2:50 min/km. Seine lockeren Läufe begann er dagegen oft betont ruhig, teils mit rund 6:00 min/km. Auf 2.400 m Höhe, auf matschigen Feldwegen.
+
+    Kein Zufall: Top-Langstreckenläufer machen rund 4 von 5 Teilen ihres Trainings locker. Viele ruhige Kilometer bauen dein Ausdauer-Fundament auf, du erholst dich schneller – und hast Energie für die Einheiten, die wirklich fordern.
+
+    Aber: Langsam ist nicht gleich locker. Entscheidend ist nicht das Tempo auf der Uhr, sondern deine Intensität im Verhältnis zu deinen individuellen Schwellen. In der Leistungsdiagnostik der Sportordination bestimmen wir per Stufentest deine aerobe Schwelle – die Obergrenze deiner lockeren Läufe.
+
+    Die wenigsten sind zu langsam – die meisten zu schnell unterwegs. Deshalb: Tempo konservativ planen. 1–2 fordernde Einheiten pro Woche reichen meist.
+
+    Neu im Laufsport oder Vorerkrankung? Lass dich vorher ärztlich durchchecken.
+
+    Wie schnell sind deine lockeren Läufe wirklich? Schreib's in die Kommentare 👇
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #lauftraining #ausdauertraining #marathontraining #sportmedizin #kipchoge #running #wiensport
+  approved: true
+
+- id: 2026-09-27_langsamlaufen_story
+  type: story
+  time: "2026-09-27 09:40"
+  media: [LangsamLaufenStory.png]
+  approved: true
+
 - id: 2026-09-26_vo2max_karussell
   type: carousel
   time: "2026-09-26 14:00"
