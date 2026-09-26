@@ -6,6 +6,41 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-28_mitochondrien_karussell
+  type: carousel
+  time: "2026-09-28 07:30"
+  media: [MitochondrienSlide1.png, MitochondrienSlide2.png, MitochondrienSlide3.png, MitochondrienSlide4.png, MitochondrienSlide5.png, MitochondrienSlide6.png, MitochondrienSlide7.png]
+  caption: |
+    Turboboost für deine Leistung und deine Gesundheit – so trainierst du deine Mitochondrien 🔋
+
+    Mitochondrien sind die Kraftwerke in deinen Muskelzellen. Training verändert zwei Dinge: wie viele du hast – und wie gut jedes arbeitet.
+
+    Die Faustregel: Lockere Dauereinheiten (Zone 2 – du kannst dich noch unterhalten) bauen vor allem die Menge auf – mehr Kraftwerke. Intervalle verbessern vor allem die Funktion – jedes Kraftwerk arbeitet besser. Vereinfacht gesagt, denn beide wirken auf beides.
+
+    Und Zone 2? Wirkt – aber es gibt keinen Beleg, dass sie besser ist als intensiveres Training.
+
+    Der Haken: Mehr ist nicht immer besser. In einer kleinen Studie sank die Mitochondrien-Leistung bei 152 Minuten HIIT pro Woche deutlich. Intensität braucht Dosierung und Erholung.
+
+    Stand heute: kombinieren. Viel locker, gezielt hart – z. B. 1–2 intensive Einheiten pro Woche. Auch Ausdauerprofis trainieren so.
+
+    Wie trainierst du – eher locker oder eher Intervalle? Schreib's in die Kommentare 👇 Und speichern für deinen nächsten Trainingsplan.
+
+    ⚠️ Länger inaktiv oder Risikofaktoren? Lass dich vor intensivem Training ärztlich checken – z. B. mit einem Belastungs-EKG.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #mitochondrien #zone2 #hiit #ausdauertraining #sportmedizin #leistungsdiagnostik #fitness #wiensport
+  approved: true
+
+- id: 2026-09-28_mitochondrien_story
+  type: story
+  time: "2026-09-28 07:40"
+  media: [MitochondrienStory.png]
+  approved: true
+
 - id: 2026-09-27_langsamlaufen_karussell
   type: carousel
   time: "2026-09-27 09:30"
