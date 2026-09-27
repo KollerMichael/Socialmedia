@@ -6,6 +6,43 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-30_intervalle_karussell
+  type: carousel
+  time: "2026-09-30 16:30"
+  media: [IntervalleSlide1.png, IntervalleSlide2.png, IntervalleSlide3.png, IntervalleSlide4.png, IntervalleSlide5.png, IntervalleSlide6.png, IntervalleSlide7.png, IntervalleSlide8.png, IntervalleSlide9.png]
+  caption: |
+    Dieser Fehler ruiniert deine Intervalle – und er passiert oft schon am Tag davor.
+
+    Sonntag Long Run. Montag Krafttraining mit Beinen. Dienstag „lockere“ 10 km, die doch etwas zu schnell waren. Mittwoch Intervalle – und die Pace will einfach nicht kommen.
+
+    Vielleicht fehlt dir nicht die Fitness, sondern Erholung. Hartes Beintraining kann bis zu 48 Stunden nachwirken. Wer müde startet, verliert oft genau das, was er trainieren will: Tempo, Technik und die Qualität jeder Wiederholung.
+
+    Du musst nicht für jeden Lauf frisch sein – aber frisch genug für die wichtigen. Mach den Tag vor deiner Schlüsseleinheit wirklich leicht. Ein Ruhetag ist kein verlorener Trainingstag.
+
+    Und wenn du dann frisch bist: Gewinn nicht das erste Intervall. Starte kontrolliert und halte die Qualität bis zur letzten Wiederholung.
+
+    Was machst du am Tag vor deinen Intervallen? 👇
+    🛋️ A – Ruhetag
+    🏃 B – Easy Run
+    🏋️ C – Krafttraining
+    🔥 D – Ganz normal weiter
+
+    Neu im Intervalltraining oder Beschwerden? Lass das vorher ärztlich abklären.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #intervalltraining #lauftraining #regeneration #trainingssteuerung #hobbyläufer #laufenwien #runningcommunity
+  approved: true
+
+- id: 2026-09-30_intervalle_story
+  type: story
+  time: "2026-09-30 16:35"
+  media: [IntervalleStory.png]
+  approved: true
+
 - id: 2026-09-30_zuhart_karussell
   type: carousel
   time: "2026-09-30 07:00"
