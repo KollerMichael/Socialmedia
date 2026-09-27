@@ -6,6 +6,41 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-29_regelmaessigkeit_karussell
+  type: carousel
+  time: "2026-09-29 08:00"
+  media: [RegelmaessigkeitSlide1.png, RegelmaessigkeitSlide2.png, RegelmaessigkeitSlide3.png, RegelmaessigkeitSlide4.png, RegelmaessigkeitSlide5.png, RegelmaessigkeitSlide6.png, RegelmaessigkeitSlide7.png]
+  caption: |
+    3 Wochen nichts. Dann 15 km am Stück. Und jetzt zwickt das Knie. 😬
+
+    Kennst du das? Nicht die eine Wahnsinns-Einheit macht dich fitter – sondern die vielen unspektakulären Läufe dazwischen. Jeder Lauf ist ein kleiner Reiz: Herz, Muskeln und Sehnen passen sich an das an, was du regelmäßig machst. Woche für Woche.
+
+    Der Monster-Lauf dagegen kann nach hinten losgehen: In einer Studie mit über 5.000 Läuferinnen und Läufern stieg das Verletzungsrisiko deutlich, wenn ein einzelner Lauf mehr als 10 % länger war als der längste der letzten 30 Tage.
+
+    Meine 4 Regeln für Konstanz:
+    1️⃣ Fixe Termine – 2–3 Läufe pro Woche in den Kalender
+    2️⃣ Meistens locker – langsamer, als du glaubst
+    3️⃣ Sanft steigern – keine Monster-Läufe
+    4️⃣ Verpasst? Nicht nachholen, einfach weitermachen
+
+    Welche Regel fällt dir am schwersten? 👇 Speichern für deinen nächsten Trainingsplan!
+
+    📩 Du willst wissen, wie locker „locker“ für dich ist? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quelle: Frandsen et al., Br J Sports Med 2025
+
+    #Sportordination #medicalathleticcoach #laufen #lauftraining #ausdauertraining #running #laufenwien #sportmedizin #trainingstipps
+  approved: true
+
+- id: 2026-09-29_regelmaessigkeit_story
+  type: story
+  time: "2026-09-29 08:10"
+  media: [RegelmaessigkeitKarussellStory.png]
+  approved: true
+
 - id: 2026-09-28_hausrunde_karussell
   type: carousel
   time: "2026-09-28 14:00"
