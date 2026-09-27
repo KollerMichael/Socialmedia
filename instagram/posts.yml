@@ -6,6 +6,43 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-28_hausrunde_karussell
+  type: carousel
+  time: "2026-09-28 14:00"
+  media: [HausrundeSlide1.png, HausrundeSlide2.png, HausrundeSlide3.png, HausrundeSlide4.png, HausrundeSlide5.png, HausrundeSlide6.png, HausrundeSlide7.png]
+  caption: |
+    Jahrelang gelaufen – und keine Sekunde schneller? 😤
+
+    Gleiche Runde. Gleiches Tempo. Jede Woche. Deine Hausrunde ist der Sargnagel für deinen Fortschritt – du läufst im Kreis.
+
+    Dein Körper ist ein Anpassungsprofi: Am Anfang fordert dich die Runde – Herz und Muskeln werden fitter. Doch irgendwann ist sie Routine. Kein neuer Reiz = kaum noch Fortschritt.
+
+    Dazu kommt die Grauzone: Immer „mittel“ ist oft zu anstrengend für echte Erholung – und zu locker, um dich wirklich weiterzubringen.
+
+    So machst du's besser:
+    ✅ Die meisten Läufe locker – du kannst dabei plaudern
+    ✅ 1–2× pro Woche intensiv, z. B. 4 x 4 Minuten zügig
+    ✅ Neue Strecken: Hügel, Wald oder Laufbahn
+    ✅ Schritt für Schritt steigern – länger oder schneller
+
+    Neu bei Intervallen und Risikofaktoren oder Vorerkrankungen? Vorher ärztlich abklären lassen.
+
+    Wie oft läufst du deine Hausrunde pro Woche? Schreib's in die Kommentare 👇 und schick den Post deinem Laufpartner.
+
+    📩 Wie schnell ist dein „locker“? Finde es mit einer Leistungsdiagnostik heraus – melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #lauftraining #trainingsfehler #ausdauertraining #intervalltraining #leistungsdiagnostik #wiensport #fitness
+  approved: true
+
+- id: 2026-09-28_hausrunde_story
+  type: story
+  time: "2026-09-28 14:10"
+  media: [HausrundeStory.png]
+  approved: true
+
 - id: 2026-09-28_mitochondrien_karussell
   type: carousel
   time: "2026-09-28 07:30"
