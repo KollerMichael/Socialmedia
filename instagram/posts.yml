@@ -6,39 +6,36 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
-- id: 2026-09-29_regelmaessigkeit_karussell
+- id: 2026-09-29_mehrkm_karussell
   type: carousel
-  time: "2026-09-29 08:00"
-  media: [RegelmaessigkeitSlide1.png, RegelmaessigkeitSlide2.png, RegelmaessigkeitSlide3.png, RegelmaessigkeitSlide4.png, RegelmaessigkeitSlide5.png, RegelmaessigkeitSlide6.png, RegelmaessigkeitSlide7.png]
+  time: "2026-09-29 16:00"
+  media: [MehrKmSlide1.png, MehrKmSlide2.png, MehrKmSlide3.png, MehrKmSlide4.png, MehrKmSlide5.png, MehrKmSlide6.png, MehrKmSlide7.png, MehrKmSlide8.png]
   caption: |
-    3 Wochen nichts. Dann 15 km am Stück. Und jetzt zwickt das Knie. 😬
+    Immer mehr Kilometer – und trotzdem nicht schneller? 😮‍💨
 
-    Kennst du das? Nicht die eine Wahnsinns-Einheit macht dich fitter – sondern die vielen unspektakulären Läufe dazwischen. Jeder Lauf ist ein kleiner Reiz: Herz, Muskeln und Sehnen passen sich an das an, was du regelmäßig machst. Woche für Woche.
+    Mehr Umfang kann dich schneller machen: Dein Herz pumpt mehr Blut pro Schlag, deine Muskeln bauen mehr „Kraftwerke“ (Mitochondrien) und feine Blutgefäße auf. Das ist deine Ausdauerbasis.
 
-    Der Monster-Lauf dagegen kann nach hinten losgehen: In einer Studie mit über 5.000 Läuferinnen und Läufern stieg das Verletzungsrisiko deutlich, wenn ein einzelner Lauf mehr als 10 % länger war als der längste der letzten 30 Tage.
+    Aber Belastung und Erholung müssen zusammenpassen. Wer 40 km pro Woche über Monate gesund und mit guter Qualität läuft, kann besser fahren als jemand, der sich auf 60 km hochschraubt – und dann ständig müde ist oder Training ausfallen lassen muss.
 
-    Meine 4 Regeln für Konstanz:
-    1️⃣ Fixe Termine – 2–3 Läufe pro Woche in den Kalender
-    2️⃣ Meistens locker – langsamer, als du glaubst
-    3️⃣ Sanft steigern – keine Monster-Läufe
-    4️⃣ Verpasst? Nicht nachholen, einfach weitermachen
+    Der häufigste Fehler: Die Kilometer steigen, aber Intervalle, Tempoläufe und lange Läufe bleiben genauso hart. Top-Läufer laufen den Großteil ihrer Kilometer locker. Mehr laufen heißt nicht: alles härter laufen.
 
-    Welche Regel fällt dir am schwersten? 👇 Speichern für deinen nächsten Trainingsplan!
+    Übrigens: In einer großen dänischen Studie mit rund 5.200 Läufern stieg das Verletzungsrisiko nach einzelnen Läufen, die mehr als 10 % länger waren als der längste Lauf der letzten 30 Tage. Also: mit Plan statt blind steigern.
 
-    📩 Du willst wissen, wie locker „locker“ für dich ist? Melde dich bei der Sportordination:
+    Lass uns dein Training optimieren – mehr Qualität statt Quantität.
+    Wie viele Kilometer läufst du aktuell pro Woche? 👇
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
     🌐 www.sportordination.com
     ✉️ office@sportordination.com
     📞 +43 1 2280028
 
-    Quelle: Frandsen et al., Br J Sports Med 2025
-
-    #Sportordination #medicalathleticcoach #laufen #lauftraining #ausdauertraining #running #laufenwien #sportmedizin #trainingstipps
+    #Sportordination #medicalathleticcoach #laufen #running #lauftraining #ausdauertraining #leistungsdiagnostik #marathontraining #regeneration #wiensport
   approved: true
 
-- id: 2026-09-29_regelmaessigkeit_story
+- id: 2026-09-29_mehrkm_story
   type: story
-  time: "2026-09-29 08:10"
-  media: [RegelmaessigkeitKarussellStory.png]
+  time: "2026-09-29 16:05"
+  media: [MehrKmStory.png]
   approved: true
 
 - id: 2026-09-28_hausrunde_karussell
