@@ -6,6 +6,44 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-09-30_zuhart_karussell
+  type: carousel
+  time: "2026-09-30 07:00"
+  media: [ZuHartSlide1.png, ZuHartSlide2.png, ZuHartSlide3.png, ZuHartSlide4.png, ZuHartSlide5.png, ZuHartSlide6.png, ZuHartSlide7.png, ZuHartSlide8.png, ZuHartSlide9.png]
+  caption: |
+    3 Zeichen, dass du zu hart trainierst 👇
+
+    Müde Beine nach einer harten Einheit? Normal – das gehört zum Training dazu. Genauer hinschauen solltest du, wenn sich Warnzeichen über mehrere Tage häufen und die Erholung ausbleibt:
+
+    ① Deine Leistung sinkt – wiederholt, nicht nur an einem schlechten Tag.
+    ② Du bist ständig müde – trotz Schlaf nicht erholt, die Lust aufs Training sinkt.
+    ③ Locker fühlt sich nicht mehr locker an – dein gewohntes Tempo wird plötzlich zur Arbeit.
+
+    Der typische Fehler: Leistung schlechter → noch härter trainieren. So kann sich die Müdigkeit immer weiter aufstauen. Manchmal ist die beste Einheit: keine.
+
+    Wichtig: Nach 1–2 Wochen mit viel Erholung immer noch nicht besser – oder Fieber, Brustschmerz, Herzstolpern? Dann nicht durchtrainieren, sondern ärztlich abklären lassen. Hinter anhaltender Müdigkeit kann auch ein Infekt, Eisenmangel oder zu wenig Energie aus dem Essen stecken.
+
+    Fortschritt entsteht durch Belastung + Erholung.
+
+    Wie gut bist du darin, einen Ruhetag zu machen, wenn dein Körper ihn braucht? 👇
+    A) Kein Problem 😎
+    B) Fällt mir schwer 😅
+    C) Ruhetag? Was ist das? 😂
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #lauftraining #übertraining #regeneration #sportmedizin #running #laufenmachtglücklich #wiensport
+  approved: true
+
+- id: 2026-09-30_zuhart_story
+  type: story
+  time: "2026-09-30 07:05"
+  media: [ZuHartStory.png]
+  approved: true
+
 - id: 2026-09-29_mehrkm_karussell
   type: carousel
   time: "2026-09-29 16:00"
