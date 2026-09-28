@@ -112,5 +112,10 @@
     "media_id": "18107076323266511",
     "permalink": "",
     "at": "2026-09-28T08:25:20.019284+02:00"
+  },
+  "2026-09-28_hausrunde_karussell": {
+    "status": "error",
+    "error": "Graph API POST 17841440359894145/media: Only photo or video can be accepted as media type. (code 9004, subcode 2207052)",
+    "at": "2026-09-28T15:45:28.908625+02:00"
   }
 }
