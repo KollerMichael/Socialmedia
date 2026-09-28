@@ -114,8 +114,15 @@
     "at": "2026-09-28T08:25:20.019284+02:00"
   },
   "2026-09-28_hausrunde_karussell": {
-    "status": "error",
-    "error": "Graph API POST 17841440359894145/media: Only photo or video can be accepted as media type. (code 9004, subcode 2207052)",
-    "at": "2026-09-28T15:45:28.908625+02:00"
+    "status": "posted",
+    "media_id": "18120050125897136",
+    "permalink": "https://www.instagram.com/p/Dd1VlV-oGyo/",
+    "at": "2026-09-28T15:52:20.018061+02:00"
+  },
+  "2026-09-28_hausrunde_story": {
+    "status": "posted",
+    "media_id": "17987161581061003",
+    "permalink": "",
+    "at": "2026-09-28T15:52:20.018061+02:00"
   }
 }
