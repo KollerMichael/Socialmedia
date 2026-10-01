@@ -6,6 +6,36 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-01_laufpartner_karussell
+  type: carousel
+  time: "2026-10-01 08:58"
+  media: [LaufpartnerSlide1.png, LaufpartnerSlide2.png, LaufpartnerSlide3.png, LaufpartnerSlide4.png, LaufpartnerSlide5.png, LaufpartnerSlide6.png, LaufpartnerSlide7.png]
+  caption: |
+    Laufpartner? Für einen locker – für den anderen zu schnell. 🏃‍♀️🏃
+
+    Gleiches Tempo heißt nicht gleiche Belastung. 6:00 min/km kann für dich ein gemütlicher Lauf sein – und für deinen Partner fast am Limit.
+
+    Und weil keiner gern bremst, rutscht das gemeinsame Tempo meist Richtung Schnellere(r). Für den anderen wird so jeder Lauf mittelhart. Echte Erholung fehlt, und harte Einheiten leiden. Über Monate kann die Schere aufgehen.
+
+    Die Lösung: Lockere Läufe im Tempo des Langsameren. Intervalle getrennt, jeder in seinem Bereich, gemeinsam ein- und auslaufen. Und eure Bereiche messen statt schätzen.
+
+    👉 Schick das deinem Laufpartner und plant gemeinsam, was für euch beide passt.
+    💬 Oder schreib's in die Kommentare: Geht es dir beim Laufen um gemeinsame Zeit und der Trainingsreiz ist zweitrangig? Was ist dir wichtiger – Leistungsentwicklung oder Zeit mit deinem Laufpartner?
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #laufpartner #lauftraining #ausdauertraining #leistungsdiagnostik #running #wiensport
+  approved: true
+
+- id: 2026-10-01_laufpartner_story
+  type: story
+  time: "2026-10-01 09:05"
+  media: [LaufpartnerStory.png]
+  approved: true
+
 - id: 2026-09-30_intervalle_karussell
   type: carousel
   time: "2026-09-30 16:30"
