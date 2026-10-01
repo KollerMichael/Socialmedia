@@ -6,6 +6,40 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-02_lauftechnik_karussell
+  type: carousel
+  time: "2026-10-02 15:00"
+  media: [LauftechnikSlide1neu.png, LauftechnikSlide2.png, LauftechnikSlide3.png, LauftechnikSlide4.png, LauftechnikSlide5.png, LauftechnikSlide6.png, LauftechnikSlide7.png, LauftechnikSlide8.png, LauftechnikSlide9.png]
+  caption: |
+    LAUFTECHNIK? Die trainierst du nicht nur beim Laufen. 🏃‍♀️
+
+    Ein leichter, schneller Schritt kommt nicht nur von Kilometern. Er braucht vier Bausteine:
+
+    1️⃣ Lauf-ABC – 5–10 Min Technik-Aufwärmen: Skippings, Kniehebelauf, Anfersen, Hopserlauf.
+    2️⃣ Krafttraining – 2× pro Woche. Studien zeigen: Du brauchst weniger Energie pro Kilometer – wie ein Auto mit weniger Spritverbrauch.
+    3️⃣ Sprünge – Seilspringen, Pogo-Sprünge, Sprunglauf. Schon 5 Minuten Hüpfen pro Tag machten Hobbyläufer in einer Studie nach 6 Wochen bei zügigem Tempo ökonomischer.
+    4️⃣ Mobility – Hüfte, Sprunggelenk, Waden und oberer Rücken. Aber: Dehnen allein schützt nicht vor Verletzungen – Krafttraining senkte sie in Studien deutlich.
+
+    Am meisten bringt die Kombi aus Kraft und Sprüngen. Geduld: Effekte zeigten sich in Studien nach 6–14 Wochen.
+
+    ⚠️ Neu im Training, Schmerzen oder Vorerkrankungen? Lass dich vorher ärztlich abklären und steigere langsam.
+
+    Welchen Baustein lässt du am öftesten weg? Schreib's in die Kommentare 👇 Und speichere dir den Post fürs nächste Training.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #lauftechnik #laufabc #krafttraining #plyometrie #mobility #athletiktraining #wiensport
+  approved: true
+
+- id: 2026-10-02_lauftechnik_story
+  type: story
+  time: "2026-10-02 15:10"
+  media: [LauftechnikStory.png]
+  approved: true
+
 - id: 2026-10-01_wettkampf_karussell
   type: carousel
   time: "2026-10-01 16:00"
