@@ -6,6 +6,35 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-01_wettkampf_karussell
+  type: carousel
+  time: "2026-10-01 16:00"
+  media: [WettkampfSlide1.png, WettkampfSlide2.png, WettkampfSlide3.png, WettkampfSlide4.png, WettkampfSlide5.png, WettkampfSlide6.png]
+  caption: |
+    Wettkampf als Training? Dein Körper zahlt die Rechnung. ⚡
+
+    Trainierst du FÜR den Wettkampf – oder IM Wettkampf? Ich seh's ständig: Jedes Wochenende ein Rennen, weil man ja „dabei besser wird“. Meistens wird man dabei vor allem eines: müde.
+
+    Ein Wettkampf ist Vollgas. Danach braucht dein Körper Erholung – nach einem Marathon sind Muskelwerte oft erst nach 4 bis 8 Tagen wieder normal. In dieser Zeit baust du keine Form auf.
+
+    Meine Faustregel aus der Praxis: Pro Wettkampfkilometer ½ Tag Regeneration. Nach einem 10er also rund 5 Tage, nach einem Marathon rund 3 Wochen – locker bewegen ja, harte Einheiten und neue Rennen nein.
+
+    Form entsteht im Training: Ausdauer-Profis trainieren rund 80 % locker und nur rund 20 % intensiv. Vor dem Hauptrennen fahren sie den Umfang runter und halten die Intensität. Bei über 158.000 Hobby-Marathonläufer:innen waren die mit strengem 3-Wochen-Taper im Mittel rund 5½ Minuten schneller als jene, die kaum reduziert haben.
+
+    Mein Tipp aus dem Profisport: Training ist Training. Wettkampf ist Wettkampf. Plane wenige Hauptrennen – und geh frisch an den Start.
+
+    👇 Wo und wann ist dein nächster Wettkampf? Schreib's in die Kommentare!
+
+    Ab 35 oder mit Risikofaktoren: Vor einer intensiven Wettkampfsaison ärztlich checken lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #triathlon #marathontraining #ausdauertraining #trainingsplanung #leistungsdiagnostik #wettkampf #laufenwien
+  approved: true
+
 - id: 2026-10-01_laufpartner_karussell
   type: carousel
   time: "2026-10-01 08:58"
