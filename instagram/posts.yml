@@ -6,6 +6,37 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-03_mindestreiz_karussell
+  type: carousel
+  time: "2026-10-03 18:27"
+  media: [MindestreizSlide1.png, MindestreizSlide2.png, MindestreizSlide3.png, MindestreizSlide4.png, MindestreizSlide5.png, MindestreizSlide6.png, MindestreizSlide7.png]
+  caption: |
+    KEINE ZEIT – und wieder kein Training? Das Minimum ist kleiner, als du denkst. ⏱️
+
+    Viele denken: Unter einer Stunde Training bringt's nichts. Die Studienlage sagt etwas anderes.
+
+    👣 Schritte: Wer statt 2.000 rund 4.000 Schritte am Tag geht, ist schon deutlich gesünder unterwegs. Bei 7.000 Schritten ist das Sterberisiko in großen Studien fast halbiert. Danach wird der Zusatznutzen kleiner.
+
+    💪 Kraft: Ein fordernder Satz pro Übung, 6–12 Wiederholungen, 2–3 × pro Woche – das bringt schon messbar mehr Kraft. Mehr Sätze bringen mehr, aber Anfangen ist der wichtigste Schritt.
+
+    🏃 Alltag: 3 × am Tag 1–2 Minuten flott – Stiegen statt Lift, zügig zur Bim. Bei Nicht-Sportlern ging das mit fast 40 % geringerem Sterberisiko einher.
+
+    🔁 Stressige Phase? Um dein Niveau zu halten, reicht für einige Wochen eine Krafteinheit pro Woche mit einem Satz pro Übung – solange das Gewicht so schwer bleibt wie bisher. Zum Aufbauen brauchst du mehr.
+
+    Fazit: Jeder Schritt zählt. Jede Wiederholung zählt. Das Minimum ist der Start – nicht das Ziel.
+
+    👇 Wie viel Zeit wendest DU pro Woche für deine Leistung und Gesundheit auf? Schreib's in die Kommentare!
+
+    Neu einsteigen mit Vorerkrankung oder Beschwerden? Vorher ärztlich abklären lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #krafttraining #schritte #gesundheit #athletiktraining #sportmedizin #wiensport #fitness
+  approved: true
+
 - id: 2026-10-03_morgenroutine_karussell
   type: carousel
   time: "2026-10-03 08:31"
