@@ -6,6 +6,41 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-04_dehnen_karussell
+  type: carousel
+  time: "2026-10-04 08:00"
+  media: [DehnenSlide1neu.png, DehnenSlide2.png, DehnenSlide3neu.png, DehnenSlide4.png, DehnenSlide5.png, DehnenSlide6.png, DehnenSlide7.png, DehnenSlide8.png]
+  caption: |
+    DEHNEN? Schützt dich weniger, als du glaubst. 🤸
+
+    Klassisches Dehnen – 30 bis 60 Sekunden halten, passiv – gehört für viele einfach dazu. Die Studienlage ist ernüchternd: Vor Verletzungen schützt es nicht klar, gegen Muskelkater hilft es kaum. Und wer direkt vor Sprints oder Sprüngen lange hält (über 60 Sekunden pro Muskel), bremst kurzfristig seine Schnellkraft.
+
+    🔥 Warm-up: bewegen statt halten. 5–10 Minuten locker einlaufen, dann dynamisch – Beinschwünge, Ausfallschritte mit Drehung, Lauf-ABC, kurze Steigerungen. Im Profifußball Standard: Aktive Aufwärmprogramme wie FIFA 11+ senken das Verletzungsrisiko deutlich.
+
+    🏋️ Mobility: Krafttraining über die volle Bewegung macht dich in Studien ähnlich beweglich wie Dehnen – und dazu stärker. Kniebeuge so tief, wie es sauber geht. Kontrolliert ablassen. Beim rumänischen Kreuzheben die Dehnung hinten spüren.
+
+    ⏱️ Und Dehnen? Gerne – wenn du Zeit übrig hast und es dir guttut, zum Beispiel abends auf der Couch. Aber kürz dafür nie dein Kraft- oder Ausdauertraining.
+
+    Ausnahme: Wer für seinen Sport extreme Beweglichkeit braucht – Turnen, Tanz, Kampfsport – dehnt gezielt weiter.
+
+    👇 Dehnst du noch vor dem Training? Schreib's in die Kommentare – und schick den Post deinem Team.
+
+    Beschwerden oder nach einer Verletzung? Vorher ärztlich abklären lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #dehnen #mobility #aufwärmen #krafttraining #athletiktraining #sportmedizin #wiensport #fitness
+  approved: true
+
+- id: 2026-10-04_dehnen_story
+  type: story
+  time: "2026-10-04 08:10"
+  media: [DehnenStoryneu.png]
+  approved: true
+
 - id: 2026-10-05_schlaf_karussell
   type: carousel
   time: "2026-10-05 07:00"
