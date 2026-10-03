@@ -6,6 +6,46 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-03_morgenroutine_karussell
+  type: carousel
+  time: "2026-10-03 08:31"
+  media: [MorgenroutineSlide1.png, MorgenroutineSlide2.png, MorgenroutineSlide3.png, MorgenroutineSlide4.png, MorgenroutineSlide5.png, MorgenroutineSlide6.png, MorgenroutineSlide7.png, MorgenroutineSlide8.png, MorgenroutineSlide12.png, MorgenroutineSlide13.png]
+  caption: |
+    SCHON WIEDER MÜDE? Dein Körper wartet auf Licht. ☀️
+
+    Kein Training, kein Schwitzen: ein lockerer Spaziergang oder eine ruhige Radrunde am Morgen – Tempo RPE 2 von 10, also leicht. Draußen ist es selbst an trüben Tagen viel heller als drinnen. Dieses Licht stellt deine innere Uhr – du wirst wach und abends früher müde.
+
+    Dazu die Bewegung: Schon eine lockere Einheit hebt bei vielen die Stimmung und macht den Kopf klarer. In einer Studie senkte lockeres Training die Müdigkeit von Bewegungsmuffeln um 65 %.
+
+    So bleibst du dran:
+    1️⃣ Klein starten – 10 Minuten
+    2️⃣ Wenn-dann-Plan: „Wenn ich mein Glas Wasser getrunken habe, ziehe ich die Schuhe an.“
+    3️⃣ Am Abend alles zur Tür legen
+    4️⃣ Gleiche Zeit, gleiche Runde
+    5️⃣ Mach es schön – Lieblingsweg, Podcast
+    6️⃣ Abhaken
+    Und gib dir Zeit: Eine Gewohnheit braucht meist 2–5 Monate, nicht 21 Tage.
+
+    ⏰ Stell dir jetzt den Wecker für morgen und schreib deinen Plan kurz auf: Wann, wo, wie lange.
+    📌 Speichere dir dieses Posting, damit du dich morgen früh daran erinnerst – und schick es deinem Lieblings-Morgenmuffel.
+    Spaziergang oder Rad – was ist dein Favorit? 👇
+
+    Vorerkrankung oder Beschwerden? Vorher ärztlich abklären lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #morgenroutine #gesundegewohnheiten #spazierengehen #radfahren #sportmedizin #wiensport #fitness
+  approved: true
+
+- id: 2026-10-03_morgenroutine_story
+  type: story
+  time: "2026-10-03 08:41"
+  media: [MorgenroutineStory.png]
+  approved: true
+
 - id: 2026-10-02_lauftechnik_karussell
   type: carousel
   time: "2026-10-02 15:00"
