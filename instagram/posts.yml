@@ -6,6 +6,48 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-05_schlaf_karussell
+  type: carousel
+  time: "2026-10-05 07:00"
+  media: [SchlafSlide1.png, SchlafSlide2.png, SchlafSlide3.png, SchlafSlide4.png, SchlafSlide5.png, SchlafSlide6.png, SchlafSlide7.png, SchlafSlide8.png]
+  caption: |
+    SCHLECHT GESCHLAFEN? Kein Eisbad ersetzt Schlaf. 😴
+
+    Für mich als Athletiktrainer im Profifußball ist Schlaf die wichtigste Regenerationsmaßnahme. Er kostet nichts – und wird trotzdem am meisten unterschätzt.
+
+    Warum? Im Tiefschlaf repariert dein Körper, dein Immunsystem tankt auf und dein Kopf wird wieder schnell. Schlafmangel kostet im Schnitt rund 7 % Leistung – bei Technik und Geschick noch mehr.
+
+    1️⃣ Quantität: Erwachsene brauchen 7–9 Stunden, Jugendliche 8–10. Wer viel trainiert, eher Richtung oberes Ende. Ein Powernap von 20–30 Minuten am frühen Nachmittag kann zusätzlich helfen.
+
+    2️⃣ Qualität: Du schläfst in höchstens 30 Minuten ein, wachst maximal einmal länger auf und schläfst mindestens 85 % der Zeit im Bett wirklich.
+
+    3️⃣ Konstanz: In einer Studie mit rund 61.000 Menschen hatten die mit den regelmäßigsten Schlafzeiten ein um rund 30 % geringeres Sterberisiko als die unregelmäßigsten. Darum: gleiche Zeiten – auch am Wochenende.
+
+    💡 Meine Tipps für heute Abend:
+    ☀️ Morgens raus ans Tageslicht – abends Licht dimmen, Handy weg
+    ❄️ Schlafzimmer kühl, dunkel und leise
+    ☕ Letzter Kaffee ca. 9 Stunden vor dem Schlafengehen
+    🍷 Schon 2 Gläser Alkohol stören den Traumschlaf
+    🏃 Hartes Training mindestens 4 Stunden vor dem Schlafen beenden
+
+    👇 Wie viele Stunden schläfst DU im Schnitt? Schreib's in die Kommentare!
+
+    Trotz genug Schlaf dauernd müde, lautes Schnarchen oder Atempausen? Ärztlich abklären lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #schlaf #regeneration #recovery #athletiktraining #sportmedizin #wiensport #fitness
+  approved: true
+
+- id: 2026-10-05_schlaf_story
+  type: story
+  time: "2026-10-05 07:10"
+  media: [SchlafStory.png]
+  approved: true
+
 - id: 2026-10-03_mindestreiz_karussell
   type: carousel
   time: "2026-10-03 18:27"
