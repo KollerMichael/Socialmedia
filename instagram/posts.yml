@@ -6,6 +6,46 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-05_laktat_karussell
+  type: carousel
+  time: "2026-10-05 15:00"
+  media: [LaktatSlide1.png, LaktatSlide2.png, LaktatSlide3.png, LaktatSlide4.png, LaktatSlide5.png, LaktatSlide6.png, LaktatSlide7.png, LaktatSlide8.png]
+  caption: |
+    LAKTATSCHWELLE? Gleiche Kurve – drei verschiedene Ergebnisse. 📈
+
+    „Deine Schwelle liegt bei 260 Watt.“ Klingt eindeutig. Ist es aber nicht.
+
+    🔬 In der Fachliteratur gibt es rund 25 Schwellenkonzepte. Drei bekannte:
+    • Dickhuth: der Punkt mit dem wenigsten Laktat pro Watt – plus 1,5 mmol/L
+    • Dmax: der Punkt, an dem die Kurve am weitesten von der Geraden zwischen erstem und letztem Messwert entfernt ist
+    • Mader: fix 4 mmol/L – für alle gleich
+
+    📊 Auf ein und dieselbe Kurve angewendet, liegen die Ergebnisse in unserem Beispiel 30 Watt auseinander. Bei Dmax reicht es schon, eine Stufe früher aufzuhören – und die Schwelle wandert.
+
+    📉 Noch wichtiger: Zwei Sportler können dieselbe Schwelle haben und trotzdem ganz anders trainieren müssen. Entscheidend ist, wie lange die Kurve flach bleibt, wie rasch sie danach steigt und ob du im Test wirklich ausbelastet warst.
+
+    ⚠️ Tests vergleichen? Nur mit gleichem Protokoll, gleichem Modell und in derselben Sportart. Und mit vollen Speichern: Wenig Kohlenhydrate senken das Laktat – die Kurve sieht dann besser aus, als du in Form bist.
+
+    Fazit: Eine Schwelle ist ein Punkt. Trainieren solltest du nach der ganzen Kurve.
+
+    👇 Welches Modell steht auf deinem letzten Befund? Schreib's in die Kommentare!
+
+    Vorerkrankung oder Beschwerden? Vor einem Ausbelastungstest ärztlich abklären lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laktat #leistungsdiagnostik #laktattest #ausdauertraining #sportmedizin #radsport #laufen #wiensport
+  approved: true
+
+- id: 2026-10-05_laktat_story
+  type: story
+  time: "2026-10-05 15:10"
+  media: [LaktatStory.png]
+  approved: true
+
 - id: 2026-10-04_dehnen_karussell
   type: carousel
   time: "2026-10-04 08:00"
