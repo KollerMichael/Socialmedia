@@ -6,6 +6,46 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-07_atmung_karussell
+  type: carousel
+  time: "2026-10-07 07:20"
+  media: [AtmungSlide1.png, AtmungSlide2.png, AtmungSlide3.png, AtmungSlide4.png, AtmungSlide5.png, AtmungSlide6.png, AtmungSlide7.png, AtmungSlide8.png]
+  caption: |
+    RICHTIG ATMEN? Beim Laufen gilt: Denk nicht dran. 🫁
+
+    Dein Atem ist Gas und Bremse für dein Nervensystem. Schnell und tief atmen macht wach. Langsam atmen bringt dich runter – dann übernimmt der Parasympathikus, dein Erholungsmodus.
+
+    🟨 Box-Atmung – für Ruhe & Fokus
+    4 Sek. ein · 4 Sek. halten · 4 Sek. aus · 4 Sek. halten. 5 Minuten, z. B. vor dem Spiel, der Prüfung oder dem Vortrag. Direkt nach hartem Training lieber ohne Luftanhalten: 5 Sek. ein, 5 Sek. aus.
+
+    ⚡ Wim-Hof-Atmung – der Wachmacher
+    30–40 tiefe Atemzüge, ausatmen, Luft anhalten, dann 15 Sek. tief einatmen und halten. 3–4 Runden. Das Adrenalin steigt – Entspannung ist das keine. Für mehr Leistung im Sport sind die Belege dünn.
+    Wichtig: nur sitzend oder liegend, nie im Wasser, nie am Steuer. Bei Herzproblemen, hohem Blutdruck, Epilepsie oder in der Schwangerschaft vorher ärztlich abklären.
+
+    🧘 Entspannung & Meditation
+    Hinsetzen, Augen zu, 5 Sek. ein, 5 Sek. aus – 5 Minuten am Tag. In einer Studie senkten schon 5 Minuten täglich Angstgefühle, mit Atemübung genauso wie mit Meditation.
+
+    🏃 Und beim Laufen? Lass es atmen.
+    Dein Körper regelt die Atmung automatisch – nach Tempo und Bedarf. Wer beim Laufen ständig auf den Atem achtet, verbraucht in Studien sogar mehr Sauerstoff. Also: Blick nach vorne, Weg genießen, atmen lassen.
+
+    Box oder Wim Hof – was probierst du zuerst? Schreib's in die Kommentare 👇 Und speichern nicht vergessen.
+
+    Ungewohnte Atemnot oder Brustschmerz beim Sport? Ärztlich abklären lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #atmung #breathwork #boxbreathing #wimhof #laufen #entspannung #sportmedizin #athletiktraining
+  approved: true
+
+- id: 2026-10-07_atmung_story
+  type: story
+  time: "2026-10-07 07:30"
+  media: [AtmungStory.png]
+  approved: true
+
 - id: 2026-10-06_coopertest_karussell_v2
   type: carousel
   time: "2026-10-06 14:13"
