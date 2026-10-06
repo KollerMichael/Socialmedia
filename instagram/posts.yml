@@ -6,6 +6,40 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-06_coopertest_karussell
+  type: carousel
+  time: "2026-10-06 13:51"
+  media: [CooperSlide1.png, CooperSlide2.png, CooperSlide3.png, CooperSlide4.png, CooperSlide5.png, CooperSlide6.png, CooperSlide7.png, CooperSlide8.png]
+  caption: |
+    WIE FIT BIST DU? 12 Minuten laufen – eine Zahl. ⏱️
+
+    Der Cooper-Test ist ein Klassiker: 12 Minuten so weit laufen, wie du kannst. Aus deinen Metern lässt sich deine VO2max schätzen – also wie groß dein Motor ist. Eine große Meta-Analyse zählt ihn zu den genauesten Lauf-Feldtests.
+
+    Warum das zählt: Ausdauer-Fitness gilt als einer der stärksten Gesundheits-Marker. Die American Heart Association nennt sie sogar ein Vitalzeichen.
+
+    So machst du's richtig:
+    ✅ flache 400-m-Bahn – Runden zählen statt GPS
+    ✅ ausgeruht, 10–25 °C, wenig Wind
+    ✅ 10–15 Minuten locker einlaufen
+    ✅ gleichmäßig laufen, nicht zu schnell starten – Gehen ist erlaubt
+    ✅ nach 12:00 stehen bleiben, Meter notieren, locker auslaufen
+
+    Faustformel: VO2max ≈ (Meter − 505) : 44,7. Beispiel: 2.400 m ≈ 42 ml/kg/min. Das ist eine Schätzung – Tempo-Einteilung, Tagesform und Wetter spielen mit. Wiederhole den Test alle 6–8 Wochen unter gleichen Bedingungen, dann siehst du deinen Fortschritt.
+
+    ⚠️ Der Cooper-Test ist ein Maximaltest. Untrainiert oder Vorerkrankung? Erst ärztlich abklären. Brustschmerz, Schwindel oder Atemnot → sofort stoppen.
+
+    👇 Wie viele Meter schaffst du in 12 Minuten? Schreib's in die Kommentare!
+
+    📩 Deine VO2max genau messen – per Spiroergometrie? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Cooper 1968, JAMA · Mayorga-Vega et al. 2016, PLOS ONE · AHA Scientific Statement 2016
+
+    #Sportordination #medicalathleticcoach #coopertest #vo2max #laufen #ausdauertraining #fitness #leistungsdiagnostik #sportmedizin #laufenwien
+  approved: true
+
 - id: 2026-10-05_laktat_karussell
   type: carousel
   time: "2026-10-05 15:00"
