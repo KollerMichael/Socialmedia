@@ -6,6 +6,39 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-08_sitzen_karussell
+  type: carousel
+  time: "2026-10-08 16:55"
+  media: [SitzenSlide1.png, SitzenSlide2.png, SitzenSlide3.png, SitzenSlide4.png, SitzenSlide5.png, SitzenSlide6.png, SitzenSlide7.png]
+  caption: |
+    SITZEN SCHWÄCHT DEIN GEHIRN. 🧠
+    Zumindest, wenn du stundenlang ohne Pause sitzt.
+
+    Nach 4 Stunden Sitzen am Stück sinkt die Durchblutung deines Gehirns messbar. Schon 2 Minuten lockeres Gehen alle 30 Minuten verhindern das.
+
+    Und es wird noch besser: Im Gehen hatten Testpersonen der Stanford University im Schnitt 60 % mehr kreative Ideen als im Sitzen – am Laufband drinnen genauso wie draußen.
+
+    Mein Tipp als Athletiktrainer: Ideen sammelst du im Gehen. Knifflige Aufgaben mit nur einer richtigen Lösung erledigst du direkt danach – dann ist dein Kopf wach.
+
+    🔖 Speicher dir den Post und schick ihn jemandem, der gerade zu lange sitzt.
+    💬 Wie lange sitzt du heute schon? Schreib's in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Carter et al. 2018 (J Appl Physiol) · Oppezzo & Schwartz 2014 (Stanford) · Chang et al. 2012 (Meta-Analyse) · Erickson et al. 2011 (PNAS)
+
+    #Sportordination #medicalathleticcoach #gehirn #bewegung #kreativität #bürojob #homeoffice #sportmedizin #athletiktraining #gesundheit
+  approved: true
+
+- id: 2026-10-08_sitzen_story
+  type: story
+  time: "2026-10-08 17:05"
+  media: [SitzenStory.png]
+  approved: true
+
 - id: 2026-10-08_verletzungsfrei_karussell
   type: carousel
   time: "2026-10-08 13:00"
