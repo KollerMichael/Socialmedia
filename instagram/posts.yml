@@ -6,6 +6,38 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-08_verletzungsfrei_karussell
+  type: carousel
+  time: "2026-10-08 13:00"
+  media: [VerletzungsfreiSlide1.jpg, VerletzungsfreiSlide2.jpg, VerletzungsfreiSlide3.jpg, VerletzungsfreiSlide4.jpg, VerletzungsfreiSlide5.jpg, VerletzungsfreiSlide6.jpg, VerletzungsfreiSlide7.jpg, VerletzungsfreiSlide8.jpg]
+  caption: |
+    WIEDER VERLETZT? Fit wird, wer dranbleibt. 🏃‍♀️
+
+    Beim Laufen bringt dich nicht das eine harte Training weiter, sondern Woche für Woche dranzubleiben. Jede Verletzungspause wirft dich zurück.
+
+    Eine große Studie mit über 5.000 Hobbyläufern zeigt: Mehr als 1 von 3 hat sich innerhalb von 18 Monaten verletzt. Viele dieser Pausen lassen sich vermeiden.
+
+    Meine 5 To-dos für verletzungsfreies Laufen:
+    1️⃣ Steigere langsam: Kein Lauf mehr als 10 % länger als dein längster der letzten 30 Tage.
+    2️⃣ Kraft 2× pro Woche: Kniebeuge, Ausfallschritt, Wadenheben, Hüftbrücke.
+    3️⃣ Iss genug: Zu wenig Energie schwächt Knochen und Muskeln.
+    4️⃣ Erhol dich: 7–9 Stunden Schlaf und mindestens ein Ruhetag pro Woche.
+    5️⃣ Hör auf Warnsignale: Schmerz, der beim Laufen zunimmt oder nach 2–3 Tagen Pause bleibt? Pause machen und ärztlich abklären lassen.
+
+    Im Profifußball sagen wir: Die wichtigste Fähigkeit ist Verfügbarkeit. Teams mit weniger Verletzungen schneiden nachweislich besser ab. Beim Hobbylauf ist das nicht anders.
+
+    👉 Speicher dir den Post für deinen nächsten Trainingsplan. Welches To-do fehlt dir noch? Schreib's in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Frandsen et al. 2025 (BJSM) · Lauersen et al. 2014 (BJSM) · IOC-Konsensus REDs 2023 · van Poppel et al. 2021 · Hägglund et al. 2013 (BJSM)
+
+    #Sportordination #medicalathleticcoach #laufen #running #lauftraining #verletzungsprävention #athletiktraining #sportmedizin #wienläuft
+  approved: true
+
 - id: 2026-10-07_atmung_karussell
   type: carousel
   time: "2026-10-07 07:20"
