@@ -6,6 +6,56 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-09_hillworks_karussell
+  type: carousel
+  time: "2026-10-09 08:21"
+  media: [HillworksSlide1.png, HillworksSlide2.png, HillworksSlide3.png, HillworksSlide4.png, HillworksSlide5.png, HillworksSlide6.png, HillworksSlide7.png, HillworksSlide8.png]
+  caption: |
+    HÜGEL HASSEN? Genau dort wirst du schneller. ⛰️
+
+    Bergauf laufen ist Krafttraining in deiner Laufbewegung: Hüfte, Po und Waden müssen dich bei jedem Schritt nach oben drücken – und die Stoßkräfte sind dabei sogar kleiner als in der Ebene.
+
+    📊 Die Studie: 20 gut trainierte Läufer, 6 Wochen Berg-Intervalle → im Schnitt 2 % schneller über 5 km. Bei 25 Minuten sind das rund 30 Sekunden.
+
+    🤔 Kurz oder lang?
+    Bergsprints trainieren Schnellkraft und Laufökonomie – gut für Fußball, 5 km und den Endspurt. Lange Hügel trainieren Kraftausdauer und Ausdauer – gut für 10 km bis Marathon und Trail. Mein Tipp: Kombiniere beide.
+
+    🔥 Variante 1 – Bergsprints (Power)
+    8–10 Sek. maximal bergauf · 2–3 Min. Gehpause · 6–10 Wdh. (Einstieg 4–6) · 6–10 % Steigung
+
+    💪 Variante 2 – Lange Hügel (Kraftausdauer)
+    60–90 Sek. kräftig, gleichmäßig hart · locker zurücktraben · 6–8 Wdh. (Einstieg 4) · 4–6 % Steigung
+    Die letzte Wiederholung so schnell wie die erste.
+
+    🏃 Technik bergauf
+    Kurze, schnelle Schritte · leicht nach vorne lehnen (aus dem Sprunggelenk) · Arme kräftig mitschwingen · Blick nach vorne
+
+    ✅ So baust du's ein
+    1–2× pro Woche statt einer harten Einheit – nicht zusätzlich · pro Woche 1–2 Wiederholungen mehr · bergab locker (bergab steigt die Aufprallkraft deutlich) · Krafttraining bleibt: Hügel ergänzen es, ersetzen es nicht
+    Vorher 10–15 Min. locker einlaufen.
+
+    ⚠️ Wade oder Achillessehne zwickt? Pause machen und abklären lassen. Untrainiert oder Vorerkrankung? Erst ärztlich abklären.
+
+    👉 Speichern & beim nächsten Lauf ausprobieren!
+    Welcher Hügel ist deiner? Schreib's in die Kommentare 👇
+    Deine Zonen messen statt raten – mit einer Leistungsdiagnostik.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Barnes et al. 2013 (IJSPP) · Vernillo et al. 2017 (Sports Med) · Gottschall & Kram 2005 (J Biomech) · Ferley et al. 2014 (JSCR)
+
+    #Sportordination #medicalathleticcoach #hillworks #bergläufe #lauftraining #kraftausdauer #laufökonomie #trailrunning #leistungsdiagnostik #wiensport
+  approved: true
+
+- id: 2026-10-09_hillworks_story
+  type: story
+  time: "2026-10-09 08:31"
+  media: [HillworksStory.png]
+  approved: true
+
 - id: 2026-10-08_sitzen_karussell
   type: carousel
   time: "2026-10-08 16:55"
