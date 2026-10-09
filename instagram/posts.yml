@@ -6,6 +6,47 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-09_knochen_karussell
+  type: carousel
+  time: "2026-10-09 14:00"
+  media: [KnochenSlide1.png, KnochenSlide2.png, KnochenSlide3.png, KnochenSlide4.png, KnochenSlide5.png, KnochenSlide6.png, KnochenSlide7.png, KnochenSlide8.png]
+  caption: |
+    PASSIVITÄT BRICHT DEINE KNOCHEN! 🦴 Klingt hart – aber wer sich kaum bewegt, verliert auf Dauer Knochen.
+
+    Astronauten verlieren ohne Schwerkraft bis zu 1,5 % Knochen an der Hüfte – pro Monat. So viel verlieren ältere Frauen auf der Erde in etwa einem Jahr.
+
+    Dein Sofa ist kein Weltall. Aber das Prinzip ist dasselbe: Dein Knochen ist lebendes Gewebe. Wird er belastet, baut er auf. Wird er geschont, baut er ab.
+
+    Osteoporose kommt leise. Sie tut nicht weh – bis etwas bricht. 1 von 3 Frauen und 1 von 5 Männern über 50 erleidet einen Knochenbruch durch Osteoporose.
+
+    Warum Laufen hilft: Bei jedem Schritt wirkt das 2- bis 3-Fache deines Körpergewichts. Dieser Stoß ist ein Signal für Bein- und Hüftknochen. Radeln und Schwimmen sind super fürs Herz – für die Knochen aber kaum ein Reiz.
+
+    Dein Knochen-Plan:
+    ✅ 4–5× pro Woche auf den Beinen – Laufen, flott Gehen, Stiegen
+    ✅ 2–3× Krafttraining für den ganzen Körper
+    ✅ kleine Sprünge einbauen, langsam steigern
+    ✅ genug essen – viel Training mit zu wenig Energie schwächt die Knochen
+
+    Und das Beste: Knochen reagiert in jedem Alter auf Training – auch nach den Wechseljahren.
+
+    ⚠️ Du hast schon Osteoporose, einen Wirbelbruch oder Schmerzen? Dann neues Training und Sprünge bitte zuerst ärztlich abklären lassen.
+
+    👇 Team Laufschuh oder Team Sofa? Und wie oft pro Woche bringst du deine Knochen in Bewegung? Schreib's in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #osteoporose #knochengesundheit #laufen #running #sportmedizin #athletiktraining #wiensport #fitness
+  approved: true
+
+- id: 2026-10-09_knochen_story
+  type: story
+  time: "2026-10-09 14:10"
+  media: [KnochenStory.png]
+  approved: true
+
 - id: 2026-10-09_hillworks_karussell
   type: carousel
   time: "2026-10-09 08:21"
