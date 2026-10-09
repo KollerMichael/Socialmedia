@@ -312,9 +312,10 @@
     "at": "2026-10-09T08:31:20.044541+02:00"
   },
   "2026-10-09_knochen_karussell": {
-    "status": "error",
-    "error": "Graph API POST 17841440359894145/media: An unknown error occurred (code 1, subcode 99)",
-    "at": "2026-10-09T14:11:05.334309+02:00"
+    "status": "posted",
+    "media_id": "17875825077634835",
+    "permalink": "https://www.instagram.com/p/DeR8lWymI1L/",
+    "at": "2026-10-09T18:31:57.803729+02:00"
   },
   "2026-10-09_knochen_story": {
     "status": "posted",
