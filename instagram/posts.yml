@@ -6,6 +6,49 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-11_laufschuhe_karussell
+  type: carousel
+  time: "2026-10-11 13:12"
+  media: [LaufschuheSlide1.png, LaufschuheSlide2.png, LaufschuheSlide3.png, LaufschuheSlide4.png, LaufschuheSlide5.png, LaufschuheSlide6.png, LaufschuheSlide7.png, LaufschuheSlide8.png]
+  caption: |
+    SIEHT NOCH GUT AUS? INNEN IST ER LÄNGST TOT. 👟 Die Dämpfung lässt nach, lange bevor du es siehst: In einer Laborstudie war der Druck an der Ferse nach 500 km doppelt so hoch – sichtbare Schäden zeigten sich erst ab rund 750 km.
+
+    Und noch etwas: Dein Laufschuh braucht einen Partner.
+
+    In einer Studie mit 264 Hobbyläufern hatten jene, die abwechselnd mehrere Paare liefen, ein um 39 % geringeres Verletzungsrisiko. Ein Beweis ist das nicht – aber ein starkes Signal. Die Vermutung der Forscher: Jeder Schuh belastet Sehnen, Muskeln und Gelenke etwas anders.
+
+    Wichtig: Es geht nicht um die „Erholung“ des Schaums. Pausen retten die Dämpfung kaum. Der Wechsel hilft DIR.
+
+    Wie lange hält ein Laufschuh? Als Richtwert 500–800 km – je nach Modell, Körpergewicht und Untergrund. Carbon-Wettkampfschuhe verlieren ihren Vorteil teils schon nach rund 450 km.
+
+    Ist dein Schuh durch? Check diese 5 Zeichen:
+    1️⃣ Außensohle glatt, der Schaum schaut durch
+    2️⃣ Tiefe Falten oder Risse in der Zwischensohle
+    3️⃣ Der Schuh steht schief auf dem Tisch
+    4️⃣ Fersenkappe weich, Futter durchgescheuert
+    5️⃣ Neues Ziehen nach gewohnten Läufen – dann Schuh checken
+
+    Beschwerden, die nicht weggehen? Ärztlich abklären lassen.
+
+    👉 Und du: Wie viele Laufschuhe hast du? 1, 2–3 oder schon eine ganze Sammlung? Schreib's in die Kommentare!
+    💾 Speichern für deinen nächsten Schuh-Check.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Malisoux et al. 2015 (Scand J Med Sci Sports) · Rodrigo-Carranza et al. 2023 (Scand J Med Sci Sports) · Verdejo & Mills 2004 (J Biomech) · Cook et al. 1985 (Am J Sports Med)
+
+    #Sportordination #medicalathleticcoach #laufschuhe #laufen #running #laufsport #verletzungsprävention #sportmedizin #athletiktraining #wiensport
+  approved: true
+
+- id: 2026-10-11_laufschuhe_story
+  type: story
+  time: "2026-10-11 13:20"
+  media: [LaufschuheStory.png]
+  approved: true
+
 - id: 2026-10-09_knochen_karussell
   type: carousel
   time: "2026-10-09 14:00"
