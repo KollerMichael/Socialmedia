@@ -6,6 +6,47 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-11_ersterkm_karussell
+  type: carousel
+  time: "2026-10-11 16:00"
+  media: [ErsterKmSlide1.png, ErsterKmSlide2.png, ErsterKmSlide3.png, ErsterKmSlide4.png, ErsterKmSlide5.png, ErsterKmSlide6.png, ErsterKmSlide7.png]
+  caption: |
+    ERSTER KILOMETER ZU SCHNELL? Die Rechnung kommt später. 🏃‍♂️💥
+
+    Startschuss, Stimmung, frische Beine – und plötzlich bist du 20 Sekunden pro Kilometer schneller als geplant. Fühlt sich leicht an. Ist es aber nicht.
+
+    Was dabei passiert: Du läufst über deiner Schwelle. Ermüdung staut sich in den Muskeln, deine Kohlenhydrat-Speicher leeren sich schneller und dein Puffer für später ist früh weg. Hinten verlierst du oft mehr Zeit, als du vorne gewonnen hast.
+
+    Das gilt für jede Distanz: Im 10-km-Rennen wird mehr als 1 von 3 Läufern nach der ersten Meile über 10 % langsamer. Beim Vienna City Marathon und Halbmarathon ist in allen Leistungsgruppen die zweite Hälfte langsamer. Der Unterschied: Die Schnellsten schwanken im Tempo nur halb so stark.
+
+    So startest du richtig:
+    ✅ Zieltempo realistisch planen – aus Training oder Leistungsdiagnostik
+    ✅ Erster Kilometer: Zieltempo oder ein paar Sekunden langsamer
+    ✅ Nach 500 m auf die Uhr schauen – nicht dem Feld hinterherlaufen
+    ✅ Ehrlich in den richtigen Startblock stellen
+    ✅ Schneller werden? Erst in der zweiten Hälfte.
+
+    Von 5 km bis Marathon gilt: Lieber ein paar Sekunden zu langsam als zu schnell. Zeit holst du hinten auf – verbrauchte Kraft nicht.
+
+    👇 Markiere eine Person, der das helfen könnte.
+    💬 Kommentiere „ICH“, wenn du selbst schon einmal einen Wettkampf zu schnell angelaufen bist.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Deaner et al. 2016 · Ristanović et al. 2023 · Smyth 2018 · Jones & Vanhatalo 2017
+
+    #Sportordination #medicalathleticcoach #laufen #running #marathontraining #halbmarathon #10km #wettkampf #pacing #laufenwien
+  approved: true
+
+- id: 2026-10-11_ersterkm_story
+  type: story
+  time: "2026-10-11 16:10"
+  media: [ErsterKmStory.png]
+  approved: true
+
 - id: 2026-10-11_laufschuhe_karussell
   type: carousel
   time: "2026-10-11 13:12"
