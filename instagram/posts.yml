@@ -6,6 +6,43 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-12_pacing_karussell
+  type: carousel
+  time: "2026-10-12 11:20"
+  media: [PacingSlide1.png, PacingSlide2.png, PacingSlide3.png, PacingSlide4.png, PacingSlide5.png, PacingSlide6.png, PacingSlide7.png, PacingSlide8.png]
+  caption: |
+    Häng dich dran: Dein Pacemaker führt – du sparst Kraft. 🏃‍♂️
+
+    Egal ob 10 km, Halbmarathon oder Marathon: Der Anfang fühlt sich leicht an – und du gehst zu schnell los. Daten von über 1,7 Millionen Marathonläufern zeigen: Schnelle Starts enden meist mit einer langsameren Zielzeit. Rund 1 von 7 Männern wird in der zweiten Hälfte um mehr als 30 % langsamer. Bei Frauen nur etwa 1 von 20.
+
+    Genau hier hilft dir ein Pacemaker:
+    ⏱️ Er hält das Tempo konstant – ohne Dauerblick auf die Uhr
+    💨 Im Windschatten sparst du Energie
+    🧠 Dein Kopf bleibt frei – er rechnet, du läufst
+    👥 Die Gruppe zieht dich mit, wenn es zäh wird
+
+    Ehrlich gesagt: Er macht dich nicht automatisch schneller. Aber er schützt dich vor dem Fehlstart. Selbst der erste Marathon unter 2 Stunden (London 2026) lief so: Halbzeit nach Pacemaker-Plan, die zweite Hälfte noch schneller.
+
+    Pacer findest du bei vielen Marathons, Halbmarathons und größeren 10-km-Läufen – oder als Trainingspartner bei Intervallen. Mein Tipp: Wähl die Gruppe nach deiner aktuellen Form, nicht nach deinem Traumziel. Und an einem heißen oder schlechten Tag ist die langsamere Gruppe keine Niederlage.
+
+    👇 Markiere deinen Lieblings-Pacemaker in den Kommentaren und teile deine Erfolge mit uns!
+
+    Erster Marathon geplant? Lass dich vorher ärztlich durchchecken.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #pacing #marathontraining #halbmarathon #laufen #running #laufcoach #wienläuft #sportmedizin
+  approved: true
+
+- id: 2026-10-12_pacing_story
+  type: story
+  time: "2026-10-12 11:30"
+  media: [PacingStory.png]
+  approved: true
+
 - id: 2026-10-11_ersterkm_karussell
   type: carousel
   time: "2026-10-11 16:00"
