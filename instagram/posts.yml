@@ -6,6 +6,47 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-13_ausdauerdosis_karussell
+  type: carousel
+  time: "2026-10-13 16:00"
+  media: [AusdauerdosisSlide1.png, AusdauerdosisSlide2.png, AusdauerdosisSlide3.png, AusdauerdosisSlide4.png, AusdauerdosisSlide5.png, AusdauerdosisSlide6.png, AusdauerdosisSlide7.png, AusdauerdosisSlide8.png]
+  caption: |
+    11 MINUTEN AM TAG – reicht das? Für deine Gesundheit: ja, das bringt schon viel. Für mehr Leistung: meist nicht. ⏱️
+
+    ❤️ Gesundheit – das Minimum: 75 Minuten pro Woche zügig bewegen, also rund 11 Minuten am Tag. In einer großen Auswertung mit über 30 Millionen Menschen ging das mit 23 % weniger vorzeitigen Todesfällen und 17 % weniger Herz-Kreislauf-Erkrankungen einher. Flott gehen, Rad fahren, locker laufen – alles zählt.
+
+    🏃 Laufen: Schon einmal pro Woche, unter 50 Minuten und auch langsam war mit einem 27 % geringeren Sterberisiko verbunden. Für ein längeres Leben zählt vor allem eins: überhaupt laufen.
+
+    🎯 Das Ziel für die Gesundheit bleibt: 150–300 Minuten moderat oder 75–150 Minuten intensiv pro Woche (WHO).
+
+    ⚡ Leistung steigern braucht mehr:
+    • mindestens 3 Einheiten pro Woche
+    • rund 80 % wirklich locker, ca. 20 % gezielt intensiv
+    • 1–2 × pro Woche Intervalle, z. B. 4 × 4 Minuten hart mit 3 Minuten locker dazwischen
+    • den Reiz über Wochen langsam steigern – mit genug Erholung
+
+    Häufigster Fehler aus der Praxis: Die lockeren Einheiten sind zu schnell. Dann fehlt die Frische für die harten. Deine lockeren Bereiche bestimmst du am besten per Leistungsdiagnostik – messen statt raten.
+
+    Einsteiger merken anfangs schon mit wenig Training Fortschritte. Wer länger dabei ist, braucht mehr Reiz.
+
+    👇 Was ist dein Ziel: gesund bleiben oder schneller werden? Schreib's in die Kommentare!
+
+    Neu einsteigen oder intensiv trainieren mit Vorerkrankung oder Beschwerden? Vorher ärztlich abklären lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #ausdauertraining #laufen #gesundheit #leistungsdiagnostik #intervalltraining #sportmedizin #wiensport #fitness
+  approved: true
+
+- id: 2026-10-13_ausdauerdosis_story
+  type: story
+  time: "2026-10-13 16:10"
+  media: [AusdauerdosisStory.png]
+  approved: true
+
 - id: 2026-10-13_ziele_karussell
   type: carousel
   time: "2026-10-13 08:27"
