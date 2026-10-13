@@ -8,7 +8,7 @@
 
 - id: 2026-10-13_ausdauerdosis_karussell
   type: carousel
-  time: "2026-10-13 16:00"
+  time: "2026-10-13 17:52"
   media: [AusdauerdosisSlide1.png, AusdauerdosisSlide2.png, AusdauerdosisSlide3.png, AusdauerdosisSlide4.png, AusdauerdosisSlide5.png, AusdauerdosisSlide6.png, AusdauerdosisSlide7.png, AusdauerdosisSlide8.png]
   caption: |
     11 MINUTEN AM TAG – reicht das? Für deine Gesundheit: ja, das bringt schon viel. Für mehr Leistung: meist nicht. ⏱️
@@ -43,7 +43,7 @@
 
 - id: 2026-10-13_ausdauerdosis_story
   type: story
-  time: "2026-10-13 16:10"
+  time: "2026-10-13 17:59"
   media: [AusdauerdosisStory.png]
   approved: true
 
