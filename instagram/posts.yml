@@ -6,6 +6,49 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-13_ziele_karussell
+  type: carousel
+  time: "2026-10-13 08:27"
+  media: [ZieleSlide1.png, ZieleSlide2.png, ZieleSlide3.png, ZieleSlide4.png, ZieleSlide5.png, ZieleSlide6.png]
+  caption: |
+    Dieses Gefühl? Dafür reicht Wünschen nicht. 🎯
+
+    Gute Nachricht zuerst: Vorsätze sind besser als ihr Ruf. In einer schwedischen Studie mit über 1.000 Menschen sagten nach einem Jahr 55 %: geschafft.
+
+    Der Unterschied liegt in der Struktur. Konkrete, fordernde Ziele bringen mehr als „Ich geb mein Bestes“ – das zeigt eine Auswertung von über 140 Studien. Mein Werkzeug dafür: SMARTER.
+
+    S – Specific (spezifisch): „Halbmarathon im Oktober“ statt „fitter werden“
+    M – Measurable (messbar): Zahl, Zeit oder Häufigkeit
+    A – Attractive (attraktiv): Sag, was du tun willst – nicht, was du lassen willst
+    R – Realistic (realistisch): Ist deine Zielzeit realistisch? Plan genug Wochen ein
+    T – Time-bound (terminiert): Datum fürs Ziel plus fixe Trainingszeiten
+    E – Ecology (Ökologie-Check): Was macht dein Ziel mit dir und deinem Umfeld? Passt es zu Familie, Job und deinen Werten?
+    R – Resources (Ressourcen): Was brauchst du dafür? Zeit, Wissen, Ausrüstung – und Menschen, die mitziehen
+
+    Ziele, die zu deinen Werten passen, verfolgst du länger und mit mehr Einsatz.
+
+    Damit du dranbleibst: Mach einen Wenn-Dann-Plan („Wenn Montag 18 Uhr, dann Laufschuhe an“), schreib deinen Fortschritt auf und check alle 4 Wochen, ob du nachjustieren musst. Im Profifußball hat jedes Ziel einen Testtermin.
+
+    Wichtig: SMARTER ist kein Zaubertrick. Die Bausteine dahinter – konkrete Ziele, Wenn-Dann-Pläne, Fortschritt festhalten – sind aber gut untersucht.
+
+    👇 Jetzt du: Was ist DEIN Hauptziel? Schreib's in die Kommentare – wer sein Ziel teilt, bleibt eher dran. Und speichern nicht vergessen!
+
+    Neustart nach langer Pause oder mit Vorerkrankung? Vorher ärztlich abklären lassen.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #zielesetzen #neujahrsvorsätze #motivation #trainingsplan #athletiktraining #laufen #fitness #wiensport
+  approved: true
+
+- id: 2026-10-13_ziele_story
+  type: story
+  time: "2026-10-13 08:37"
+  media: [ZieleStory.png]
+  approved: true
+
 - id: 2026-10-12_pacing_karussell
   type: carousel
   time: "2026-10-12 11:20"
