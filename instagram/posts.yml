@@ -6,6 +6,47 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-15_wearables_karussell
+  type: carousel
+  time: "2026-10-15 16:00"
+  media: [WearablesSlide1.png, WearablesSlide2.png, WearablesSlide3.png, WearablesSlide4.png, WearablesSlide5.png, WearablesSlide6.png, WearablesSlide7.png, WearablesSlide8.png]
+  caption: |
+    DEINE UHR LÜGT? Du bist am Limit – und sie sagt „locker“. ⌚
+
+    Das kann passieren. Deshalb: Diese 5 Dinge muss deine Sportuhr können.
+
+    Rund 48 Millionen Smartwatches und Fitnessbänder wurden weltweit allein von April bis Juni 2026 ausgeliefert (IDC). Die Auswahl ist riesig, für dein Training zählen aber nur wenige Funktionen:
+
+    ✅ GPS für Tempo und Strecke
+    ✅ Brustgurt koppelbar (Bluetooth oder ANT+)
+    ✅ eigene Pulszonen eintragen
+    ✅ Intervalle programmieren
+    ✅ mind. 10 h GPS-Akku + Datenexport (Strava & Co.)
+
+    Warum der Brustgurt? Die Uhr misst den Puls mit Licht durch die Haut. Bei Einheiten mit wenig Dynamik, etwa beim Walken oder lockeren Radfahren, klappt das gut. Beim Laufen und bei Intervallen sind die Werte oft fehlerhaft. Der Brustgurt misst elektrisch, direkt am Herzen, und ist in Studien deutlich genauer.
+
+    Meine 3 Tipps für Hobbysportler (unbezahlte Empfehlung, keine Kooperation · UVP, Stand Oktober 2026):
+    1️⃣ Garmin Forerunner 170 (299 €): Allrounder mit Trainingsbereitschaft, HRV-Status und Barometer
+    2️⃣ Coros Pace 4 (269 €): Dual-Band-GPS und 31 h GPS-Akku
+    3️⃣ Wahoo-Setup: Apple Watch Series 12 (449 €) mit der neuen Wahoo-App + Wahoo TRACKR Brustgurt (89,99 €). Wahoo baut keine eigene Uhr mehr, setzt aber seit September 2026 auf die Apple Watch. Der TRACKR funktioniert auch mit Garmin und Coros.
+
+    Und ganz wichtig: VO2max und Pulszonen aus der Uhr sind Schätzungen. Im Schnitt passen sie gut, bei dir persönlich können sie deutlich daneben liegen. Auch die Formel „220 minus Alter“ trifft deinen Maximalpuls oft nicht. Deine echten Zonen bekommst du aus einer Leistungsdiagnostik.
+
+    Welche Uhr trägst du? Schreib's in die Kommentare 👇 und speicher dir den Post für den nächsten Uhr-Kauf.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #sportuhr #laufuhr #wearables #laufen #pulsuhr #leistungsdiagnostik #trainingstipps #wiensport
+  approved: true
+- id: 2026-10-15_wearables_story
+  type: story
+  time: "2026-10-15 16:10"
+  media: [WearablesStory.png]
+  approved: true
+
 - id: 2026-10-14_trainingsplan_karussell
   type: carousel
   time: "2026-10-14 16:00"
