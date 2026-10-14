@@ -6,6 +6,44 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-14_mindestdosiskraft_karussell
+  type: carousel
+  time: "2026-10-14 07:47"
+  media: [MEDKraftSlide1.png, MEDKraftSlide2.png, MEDKraftSlide3.png, MEDKraftSlide4.png, MEDKraftSlide5.png, MEDKraftSlide6.png]
+  caption: |
+    1 SATZ REICHT? Für deine Gesundheit oft ja. Für Bestleistung nein. 💪
+
+    Keine Zeit für 2 Stunden Gym? Musst du für deine Gesundheit auch nicht.
+
+    Krafttraining muss nicht kompliziert sein. Wie viel du brauchst, hängt von deinem Ziel ab.
+
+    ❤️ Ziel Gesundheit: 2 × pro Woche alle großen Muskelgruppen – Beine, Hüfte, Rücken, Brust, Arme. 1–2 Sätze pro Übung, 8–12 Wiederholungen, die letzten fallen schwer. Schon 1 fordernder Satz pro Übung macht messbar stärker. Bis zum Muskelversagen musst du nicht gehen. Gummiband und Körpergewicht reichen völlig.
+    Rund 30–60 Minuten Kraft pro Woche gehen in Beobachtungsstudien mit 10–20 % geringerem Sterberisiko einher.
+
+    🚀 Der größte Sprung ist der von 0 auf 1: Jedes Krafttraining wirkt besser als keines.
+
+    🏋️ Ziel Leistung: Für mehr Kraft brauchst du schwere Gewichte – rund 80 % deines Maximums (ca. 6–8 Wiederholungen schaffbar), 2–3 Sätze pro Übung, 2–3 × pro Woche. Für Muskelaufbau rund 10 Sätze oder mehr pro Muskel und Woche. Für Schnellkraft 30–70 % – so explosiv wie möglich. Und: Gewicht steigern, sobald es leichter geht.
+
+    📉 Gut zu wissen: Mehr Sätze bringen mehr – aber jeder zusätzliche Satz etwas weniger.
+
+    👇 Was ist dein Ziel? Schreib GESUND oder STÄRKER in die Kommentare!
+
+    Neu einsteigen mit Vorerkrankung oder Beschwerden? Vorher ärztlich abklären lassen. Und immer: Technik vor Gewicht.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #krafttraining #minimumeffectivedose #gesundheit #athletiktraining #sportmedizin #wiensport #fitness
+  approved: true
+
+- id: 2026-10-14_mindestdosiskraft_story
+  type: story
+  time: "2026-10-14 07:54"
+  media: [MEDKraftStory.png]
+  approved: true
+
 - id: 2026-10-13_ausdauerdosis_karussell
   type: carousel
   time: "2026-10-13 17:52"
