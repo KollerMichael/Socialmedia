@@ -6,6 +6,44 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-14_trainingsplan_karussell
+  type: carousel
+  time: "2026-10-14 16:00"
+  media: [TrainingsplanSlide1.png, TrainingsplanSlide2.png, TrainingsplanSlide3.png, TrainingsplanSlide4.png, TrainingsplanSlide5.png, TrainingsplanSlide6.png, TrainingsplanSlide7.png]
+  caption: |
+    Trainingsplan vom Profi kopieren? Schlechte Idee. 👇
+
+    Linear, Wellen, Block, 80/20 – es gibt viele Ansätze. Die Studien zeigen: Die Modelle liegen nah beieinander. Entscheidend ist, dass du die Belastung steigerst, abwechselst und dich erholst.
+
+    Der größte Unterschied zwischen Hobby und Leistungssport liegt nicht im Modell, sondern im Rahmen:
+    ⏱ Profis trainieren als Job – du neben Job und Familie.
+    🎯 Profis planen auf einen Höhepunkt – du auf Gesundheit, Spaß und deine Bestzeit.
+    📊 Profis haben ein Team aus Trainern, Ärzten und Diagnostik – du Pulsuhr, Körpergefühl und Trainingstagebuch.
+    😴 Profis planen Erholung fix ein – bei dir kann Alltagsstress die Erholung bremsen.
+
+    Was du übernehmen solltest: die Prinzipien, nicht den Plan. Großteil locker. Umfang nicht sprunghaft steigern. Leichte Wochen einbauen. Deine Zonen testen statt raten.
+
+    Und das Wichtigste: Konstanz schlägt Perfektion. In einer Studie mit Elite-Leichtathlet:innen erreichten jene, die mehr als 80 % ihrer geplanten Trainingswochen absolvierten, ihr Saisonziel 7-mal häufiger.
+
+    💬 Kommentiere: Welchen Ansatz verfolgst du – und wie konsequent, von 1 bis 10?
+
+    Neu im Training oder Vorerkrankung? Erst ärztlich abklären lassen.
+
+    📩 Dein Plan nach deinen Werten? Leistungsdiagnostik in der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Seiler 2010 (IJSPP) · Moesgaard et al. 2022 & Oliveira et al. 2024 (Sports Med) · Raysmith & Drew 2016 (J Sci Med Sport)
+
+    #Sportordination #medicalathleticcoach #trainingsplan #trainingsplanung #ausdauertraining #laufen #athletiktraining #leistungsdiagnostik #sportmedizin #wiensport
+  approved: true
+- id: 2026-10-14_trainingsplan_story
+  type: story
+  time: "2026-10-14 16:10"
+  media: [TrainingsplanStory.png]
+  approved: true
+
 - id: 2026-10-14_mindestdosiskraft_karussell
   type: carousel
   time: "2026-10-14 07:47"
