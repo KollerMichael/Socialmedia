@@ -6,6 +6,38 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-15_verkuehlt_karussell
+  type: carousel
+  time: "2026-10-15 08:27"
+  media: [VerkuehltSlide1.png, VerkuehltSlide2.png, VerkuehltSlide3.png, VerkuehltSlide4.png, VerkuehltSlide5.png, VerkuehltSlide6.png, VerkuehltSlide7_1.png]
+  caption: |
+    VERKÜHLT – TRAINING JA ODER NEIN?
+
+    Fieber ist eine Red Flag. Ab ca. 38 °C, bei Gliederschmerzen, Schüttelfrost oder Herzrasen in Ruhe heißt es: Pause. Ein Infekt kann auch das Herz mitbetreffen (Herzmuskelentzündung) – selten, aber gefährlich. Fiebersenker ändern daran nichts.
+
+    Nur Schnupfen oder leichtes Halskratzen, kein Fieber, und du fühlst dich fit? Dann ist lockere Bewegung oft möglich: 15–30 Minuten konservativ locker mit RPE 2 von 10 (leicht). Keine Intervalle, kein Tempo. Wird es schlechter, hörst du sofort auf.
+
+    Wettkampf, Match, Intervalle oder Leistungstest? Nein. Dort kannst du die Belastung nicht steuern.
+
+    Mein Tipp aus dem Profifußball: Das Comeback konservativ planen. Erst beschwerdefrei, dann kurz und locker starten, 24 Stunden beobachten, langsam steigern. Brustschmerz, Herzstolpern, Atemnot oder Schwindel beim Training? Sofort stoppen und ärztlich abklären lassen.
+
+    Warst du beim Training oder Wettkampf schon mal angeschlagen? Schreib's in die Kommentare – und speichere dir den Post für die Erkältungszeit.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: IOC-Konsensus Atemwegsinfekte 2022 (Schwellnus et al., BJSM) · Halle et al. 2021, Eur J Prev Cardiol · Universität des Saarlandes, Infektionen im Leistungssport
+
+    #Sportordination #medicalathleticcoach #verkühlt #erkältung #sportmedizin #athletiktraining #laufen #fussball #gesundheit #wiensport
+  approved: true
+- id: 2026-10-15_verkuehlt_story
+  type: story
+  time: "2026-10-15 08:32"
+  media: [VerkuehltStory.png]
+  approved: true
+
 - id: 2026-10-15_wearables_karussell
   type: carousel
   time: "2026-10-15 16:00"
