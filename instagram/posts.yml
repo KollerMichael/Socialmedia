@@ -6,6 +6,44 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-16_stress_karussell
+  type: carousel
+  time: "2026-10-16 13:53"
+  media: [StressSlide1.png, StressSlide2.png, StressSlide3.png, StressSlide4.png, StressSlide5.png, StressSlide6.png, StressSlide7.png, StressSlide8.png]
+  caption: |
+    Am Limit? Stress – Fluch oder Segen? ⚡
+
+    Ohne Stress kein Leben – klingt komisch? Ist Physiologie.
+
+    Stress ist die Antwort deines Körpers auf jede Anforderung: Training, Hitze, Kälte, ein voller Arbeitstag, eine kurze Nacht. Jeder Reiz ist Stress – und genau dieser Reiz bringt dich weiter.
+
+    Cortisol ist dabei kein Feind, sondern lebenswichtig: Es stellt Energie bereit, macht dich morgens wach und bremst Entzündungen. Nach einer harten Einheit steigt es kurz an – völlig normal.
+
+    Entscheidend ist der Rhythmus: morgens hoch, abends tief. Rauf – und wieder runter.
+
+    Problematisch wird Dauerstress ohne Pause: Der Cortisol-Rhythmus gerät aus dem Takt, Schlaf und Abwehr leiden, das Risiko fürs Herz steigt.
+
+    Und: Dein Körper addiert. Training, Job, wenig Schlaf und Sorgen landen auf einem Konto. Studien zeigen: Wer viel Alltagsstress hat, erholt sich langsamer und verletzt sich häufiger. Im Profifußball checken wir deshalb täglich Schlaf und Befinden – nicht nur das Training.
+
+    Dein Ausgleich:
+    🏃 Bewegung – locker, am besten draußen
+    😴 Schlaf – 7–9 Stunden
+    🌬️ Atmung – langsam, lange ausatmen
+    🌳 Natur – schon 20–30 Minuten draußen können das Cortisol senken
+
+    Stressige Woche? Dann heute locker statt Vollgas.
+    Dauerhaft erschöpft, schlaflos oder überfordert? Ärztlich abklären lassen.
+
+    👉 Speichern & verrate mir in den Kommentaren: Wie gleichst DU den Stress aus?
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #stress #cortisol #stressabbau #regeneration #erholung #ausgleich #gesundheit #sportmedizin #athletiktraining
+  approved: true
+
 - id: 2026-10-16_rpuls_karussell
   type: carousel
   time: "2026-10-16 08:29"
