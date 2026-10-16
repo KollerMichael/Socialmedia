@@ -6,6 +6,41 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-16_rpuls_karussell
+  type: carousel
+  time: "2026-10-16 08:18"
+  media: [RPuls_01.png, RPuls_02.png, RPuls_03.png, RPuls_04.png, RPuls_05.png, RPuls_06.png, "https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/mcp-ingest/tmp/2026/10/e594cc6e59725c96/09372f89590b4d558e4e0dcb74d931c5/RPuls_07.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20261016%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261016T061704Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=920ad9012447e5d38bb78e41a5bc918740f0aae5cad537a05f8bf0e49f72b179"]
+  caption: |
+    Dein Puls kann lügen. 🫀 Ruhepuls 48 – und trotzdem nicht fit? Das geht.
+
+    Ein niedriger Ruhepuls ist ein gutes Zeichen: Ein trainiertes Herz pumpt mehr Blut pro Schlag und muss seltener schlagen. Große Studien zeigen: Pro 10 Schläge mehr in Ruhe steigt das Sterberisiko um rund 9 %.
+
+    Aber: Der Ruhepuls ist nur der Leerlauf. Gene, Schlaf, Stress und Medikamente verändern ihn. Wie fit du bist, zeigt sich unter Belastung – also daran, wie weit dein Herz hochfahren kann. Das ist die Herzfrequenzreserve: Maximalpuls minus Ruhepuls.
+
+    Betablocker senken den Ruhepuls – aber auch den Maximalpuls. Die Reserve schrumpft, die maximale Leistung sinkt. Wichtig: Betablocker sind oft medizinisch notwendig. Nie selbst absetzen, Training mit deiner Ärztin/deinem Arzt abstimmen.
+
+    Die gute Nachricht: Dein Motor ist trainierbar. Schon eine Fitness-Stufe mehr – etwa 1 km/h schneller laufen können – geht mit rund 13 % geringerem Sterberisiko einher. Jeder km/h zählt.
+
+    Tiefer Puls und dazu Schwindel, Leistungsknick oder Ohnmacht? Ärztlich abklären lassen.
+
+    Wie fit bist du wirklich? Messen statt raten: Eine Leistungsdiagnostik mit Spiroergometrie zeigt dir VO2max, Maximalpuls, Herzfrequenzreserve und deine Trainingszonen.
+
+    👉 Speichern & schreib in die Kommentare: Wie hoch ist dein Ruhepuls?
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #ruhepuls #herzfrequenz #fitness #ausdauertraining #leistungsdiagnostik #vo2max #sportmedizin #betablocker
+  approved: true
+
+- id: 2026-10-16_rpuls_story
+  type: story
+  time: "2026-10-16 08:28"
+  media: [RPuls_Story.png]
+  approved: true
+
 - id: 2026-10-15_verkuehlt_karussell
   type: carousel
   time: "2026-10-15 08:27"
