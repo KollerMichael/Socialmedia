@@ -434,6 +434,12 @@
   "2026-10-16_rpuls_karussell": {
     "status": "error",
     "error": "Datei nicht öffentlich erreichbar: https://346a933178393d200f7a17065933e0bd.r2.cloudflarestorage.com/upload-post-scheduler/mcp-ingest/tmp/2026/10/e594cc6e59725c96/09372f89590b4d558e4e0dcb74d931c5/RPuls_07.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=60f8f3ff4001196a5ec400f3f9217b68%2F20261016%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261016T061704Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=920ad9012447e5d38bb78e41a5bc918740f0aae5cad537a05f8bf0e49f72b179",
-    "at": "2026-10-16T08:21:35.392442+02:00"
+    "at": "2026-10-16T08:28:20.061572+02:00"
+  },
+  "2026-10-16_rpuls_story": {
+    "status": "posted",
+    "media_id": "18088279025291383",
+    "permalink": "",
+    "at": "2026-10-16T08:28:20.061572+02:00"
   }
 }
