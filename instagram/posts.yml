@@ -6,6 +6,43 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-18_schrittfrequenz_karussell
+  type: carousel
+  time: "2026-10-18 15:00"
+  media: [SchrittfrequenzSlide1.png, SchrittfrequenzSlide2.png, SchrittfrequenzSlide3.png, SchrittfrequenzSlide4.png, SchrittfrequenzSlide5.png, SchrittfrequenzSlide6.png, SchrittfrequenzSlide7.png]
+  caption: |
+    Im Takt? Deine Playlist ist zu langsam. 🎧👟
+
+    Viele Pop-Hits liegen bei nur 90–120 BPM. Selbst schnelle Songs mit 140–150 BPM sind zu langsam, wenn du pro Schlag einen Schritt machst. Hobbyläufer kommen im Schnitt auf rund 165 Schritte pro Minute. Bei der Marathon-WM liefen die Besten 180–190 Schritte pro Minute.
+
+    Warum das zählt: Mit mehr Schritten wird jeder Schritt kürzer und dein Fuß landet näher unter dem Körper. Schon 5 % mehr Schritte senken die Belastung im Knie deutlich.
+
+    Musik hilft dabei: Dein Schritt passt sich unbewusst an den Takt an, und die Anstrengung fühlt sich leichter an.
+
+    So geht's:
+    1️⃣ 30 Sekunden Schritte zählen und × 2 nehmen (oder auf der Uhr nachschauen)
+    2️⃣ 5 % draufrechnen, zum Beispiel 165 → ca. 173
+    3️⃣ Songs mit genau diesem BPM-Wert wählen. Trick: Ein 90-BPM-Song passt auch, wenn du 2 Schritte pro Schlag machst = 180
+    4️⃣ Über einige Wochen langsam steigern. 180 ist ein Richtwert, kein Muss.
+
+    Schmerzen beim Laufen? Ärztlich abklären lassen. Im Straßenverkehr die Musik leiser stellen.
+
+    👉 Und du? Wie hoch ist deine Schrittfrequenz? Hörst du Musik dazu – und passt der Takt? Schreib's in die Kommentare und speichere dir den Post!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #laufen #schrittfrequenz #kadenz #lauftechnik #runningmusic #laufenmitmusik #marathontraining #sportmedizin
+  approved: true
+
+- id: 2026-10-18_schrittfrequenz_story
+  type: story
+  time: "2026-10-18 15:10"
+  media: [SchrittfrequenzStory.png]
+  approved: true
+
 - id: 2026-10-17_musik_karussell
   type: carousel
   time: "2026-10-17 15:00"
