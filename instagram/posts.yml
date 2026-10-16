@@ -6,6 +6,44 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-17_musik_karussell
+  type: carousel
+  time: "2026-10-17 15:00"
+  media: [MusikSlide1.png, MusikSlide2.png, MusikSlide3.png, MusikSlide4.png, MusikSlide5.png, MusikSlide6.png]
+  caption: |
+    Musik an – und plötzlich läuft's? 🎧
+
+    Das ist messbar: Eine große Meta-Analyse mit 139 Studien zeigt, Musik beim Sport hebt die Stimmung, lässt die Anstrengung etwas leichter wirken und bringt ein kleines, aber messbares Leistungsplus. Spannend: Dein Puls ändert sich dabei kaum.
+
+    Warum? Musik lenkt dich von Müdigkeitssignalen ab, weckt Emotionen – und der Beat gibt deiner Bewegung den Rhythmus vor. Wer Schritt oder Tritt an den Takt anpasst, bewegt sich oft sogar ökonomischer.
+
+    So nutzt du's:
+    ▶️ Lockere Einheiten: ruhigere Songs (ca. 115–125 BPM)
+    ▶️ Fordernde Abschnitte: schnellere Songs (ca. 125–140 BPM)
+    ▶️ Deinen Lieblingssong hebst du dir für den härtesten Teil auf
+    ▶️ Draußen: so leise, dass du den Verkehr hörst
+
+    Gut zu wissen: Ganz am Limit dämpft Musik das Anstrengungsgefühl kaum – aber das Training macht trotzdem mehr Spaß.
+
+    👇 Und jetzt du: Teile deinen Lieblings-Sportsong für uns in den Kommentaren!
+    💾 Speichern für deine nächste Playlist.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quelle: Terry et al. 2020, Psychological Bulletin (Meta-Analyse)
+
+    #Sportordination #medicalathleticcoach #trainingsmotivation #workoutmusik #laufen #motivation #sportpsychologie #trainingstipps #athletiktraining #wiensport
+  approved: true
+
+- id: 2026-10-17_musik_story
+  type: story
+  time: "2026-10-17 15:05"
+  media: [MusikStory.png]
+  approved: true
+
 - id: 2026-10-16_stress_karussell
   type: carousel
   time: "2026-10-16 13:53"
