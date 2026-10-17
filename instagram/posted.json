@@ -450,13 +450,15 @@
     "at": "2026-10-16T13:56:10.776479+02:00"
   },
   "2026-10-17_musik_karussell": {
-    "status": "error",
-    "error": "Graph API POST 17841440359894145/media: Unsupported post request. Object with ID '17841440359894145' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (code 100, subcode 33)",
-    "at": "2026-10-17T15:54:36.484175+02:00"
+    "status": "posted",
+    "media_id": "18086825789305697",
+    "permalink": "https://www.instagram.com/p/DemmdLNnSno/",
+    "at": "2026-10-17T19:02:46.537285+02:00"
   },
   "2026-10-17_musik_story": {
-    "status": "error",
-    "error": "Graph API POST 17841440359894145/media: Unsupported post request. Object with ID '17841440359894145' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (code 100, subcode 33)",
-    "at": "2026-10-17T15:54:36.484175+02:00"
+    "status": "posted",
+    "media_id": "17902323735369110",
+    "permalink": "",
+    "at": "2026-10-17T19:02:46.537285+02:00"
   }
 }
