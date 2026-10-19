@@ -6,6 +6,36 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-19_schritte_karussell
+  type: carousel
+  time: "2026-10-19 08:31"
+  media: [SchritteSlide1.png, SchritteSlide2.png, SchritteSlide3.png, SchritteSlide4.png, SchritteSlide5.png, SchritteSlide6.png, SchritteSlide7.png, SchritteSlide8.png]
+  caption: |
+    10.000 Schritte? Schaffst du nie? Musst du auch nicht. 👟
+
+    Die Zahl kommt nämlich aus der Werbung: 1965 kam in Japan ein Schrittzähler auf den Markt: „Manpo-kei“ – übersetzt „10.000-Schritte-Zähler“. Ein starker Name. Aber keine Studie dahinter.
+
+    Inzwischen hat die Forschung nachgezählt: Eine Auswertung von 57 Studien (Lancet Public Health, 2025) zeigt – wer rund 7.000 statt 2.000 Schritte am Tag geht, hat ein um etwa 47 % geringeres Risiko, früh zu sterben. Auch das Risiko für Herz-Kreislauf-Erkrankungen, Demenz und depressive Symptome ist deutlich niedriger. Beim Sterberisiko bringen 10.000 Schritte kaum mehr. Unter 60 lohnt sich ein bisschen mehr (8.000–10.000).
+
+    Mein Tipp aus der Praxis: Sammle deine Schritte im Alltag – zusätzlich zum Training. Dreimal pro Woche Training gleicht viele Stunden Sitzen nicht ganz aus. Stiegen statt Lift, eine Station früher aussteigen, telefonieren im Gehen. 🚶‍♂️
+
+    👇 Und du: Wie viele Schritte machst du am Tag?
+    A unter 4.000 · B 4.000–7.000 · C 7.000–10.000 · D über 10.000
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #10000schritte #schritte #gehen #alltagsbewegung #gesundheit #sportmedizin #bewegung #wiensport
+  approved: true
+
+- id: 2026-10-19_schritte_story
+  type: story
+  time: "2026-10-19 08:36"
+  media: [SchritteStory.png]
+  approved: true
+
 - id: 2026-10-19_entspannung_karussell
   type: carousel
   time: "2026-10-19 15:00"
