@@ -113,7 +113,7 @@
 
 - id: 2026-10-19_entspannung_karussell
   type: carousel
-  time: "2026-10-19 15:00"
+  time: "2026-10-19 16:06"
   media: [EntspannungSlide1.png, EntspannungSlide2.png, EntspannungSlide3.png, EntspannungSlide4.png, EntspannungSlide5.png, EntspannungSlide6.png, EntspannungSlide7.png, EntspannungSlide8.png]
   caption: |
     Zähne zusammenbeißen? Genau das kostet dich Sauerstoff. 😬
@@ -146,7 +146,7 @@
 
 - id: 2026-10-19_entspannung_story
   type: story
-  time: "2026-10-19 15:05"
+  time: "2026-10-19 16:14"
   media: [EntspannungStory.png]
   approved: true
 
