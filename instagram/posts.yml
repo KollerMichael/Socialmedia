@@ -6,6 +6,43 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-20_vitamind_karussell
+  type: carousel
+  time: "2026-10-20 07:00"
+  media: [VitaminDSlide1.png, VitaminDSlide2.png, VitaminDSlide3.png, VitaminDSlide4.png, VitaminDSlide5.png, VitaminDSlide6.png, VitaminDSlide7.png, VitaminDSlide8.png]
+  caption: |
+    Verletzt? Fehlt dir Energie? Vielleicht liegt es nicht nur am Training … 😣
+    Sondern an etwas, das vielen jetzt im Winter fehlt: Vitamin D. ☀️🦴
+
+    Von etwa Oktober bis März steht die Sonne bei uns zu tief. Deine Haut – sonst die Hauptquelle – bildet dann kaum Vitamin D. Über das Essen kommt nur wenig.
+
+    Das Ergebnis: In Europa haben rund 4 von 10 Menschen zu wenig Vitamin D im Blut. Im Winter ist ein deutlicher Mangel etwa doppelt so häufig wie im Sommer. Auch Sportler sind oft betroffen, vor allem in der Halle. Das Tückische: Meist merkst du davon nichts.
+
+    Warum das für Sportler zählt: Vitamin D hilft dir, Kalzium aus dem Essen aufzunehmen – dein Knochen braucht es, um Belastung wegzustecken. Ein niedriger Spiegel geht mit einem höheren Risiko für Ermüdungsbrüche einher. Bei Rekrutinnen gab es mit Vitamin D + Kalzium rund 20 % weniger Ermüdungsbrüche. Bei Muskelverletzungen ist das noch unklar. Und Müdigkeit hat viele Ursachen – ein Mangel kann eine sein. Vitamin D ersetzt keine kluge Belastungssteuerung. 🏃‍♂️
+
+    Trotzdem: Nicht auf Verdacht hochdosieren! 💊
+    Vitamin D ist fettlöslich und wird gespeichert. Zu hohe Dosen über längere Zeit können zu viel Kalzium im Blut verursachen – mit Übelkeit, Muskelschwäche, Herzrhythmusstörungen bis zu Nierenschäden. Durch Sonne passiert das nicht, durch zu hoch dosierte Präparate schon.
+
+    Mein Rat: Messen statt raten. Lass deinen Blutwert bestimmen und besprich die Dosis ärztlich – besonders, wenn du viel drinnen bist, in der Halle trainierst, älter bist, eine dunkle Hautfarbe hast oder Übergewicht. 🩸
+
+    👉 Und du: Wann hast du zuletzt deinen Vitamin-D-Spiegel kontrollieren lassen? A) dieses Jahr B) ist länger her C) noch nie – schreib’s in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Cashman 2016 · Jakobsen 2021 · Lappe 2008 · BfR 2020 · EFSA 2023
+
+    #Sportordination #medicalathleticcoach #vitamind #vitamindmangel #sportmedizin #verletzungsprävention #gesundheit #laufen #blutwerte #wiensport
+  approved: true
+
+- id: 2026-10-20_vitamind_story
+  type: story
+  time: "2026-10-20 07:05"
+  media: [VitaminDStory.png]
+  approved: true
+
 - id: 2026-10-19_schritte_karussell
   type: carousel
   time: "2026-10-19 08:31"
