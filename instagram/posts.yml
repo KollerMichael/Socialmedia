@@ -6,6 +6,45 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-19_entspannung_karussell
+  type: carousel
+  time: "2026-10-19 15:00"
+  media: [EntspannungSlide1.png, EntspannungSlide2.png, EntspannungSlide3.png, EntspannungSlide4.png, EntspannungSlide5.png, EntspannungSlide6.png, EntspannungSlide7.png, EntspannungSlide8.png]
+  caption: |
+    Zähne zusammenbeißen? Genau das kostet dich Sauerstoff. 😬
+
+    Stress, Angst, Druck vor dem Start: Dein Körper schaltet auf Alarm. Der Puls steigt, die Muskeln spannen an – oft arbeiten sogar Gegenspieler mit und bremsen sich gegenseitig. Das kostet Energie, ohne dass du schneller wirst.
+
+    Dazu kommt: Ein angespannter Muskel drückt auf seine eigenen Blutgefäße. Blut und Sauerstoff strömen vor allem dann ein, wenn er kurz locker lässt. Wer dauernd verkrampft, gibt dem Muskel weniger Zeit zum Nachtanken.
+
+    Spannend: In einer Studie mit 24 Läufern waren sie mit einem Lächeln am sparsamsten – bis zu 2,8 % weniger Sauerstoff bei gleichem Tempo. Klein, aber gratis. Und: Lockerheit ist trainierbar.
+
+    Meine 4 Locker-Tricks:
+    1️⃣ Länger aus- als einatmen (z. B. 4 ein, 6 aus)
+    2️⃣ Schultern bewusst fallen lassen
+    3️⃣ Hände locker – als hieltest du einen Chip
+    4️⃣ Kurz lächeln, Kiefer lösen
+
+    Wichtig: Etwas Nervosität ist normal und oft sogar hilfreich. Locker heißt nicht schlaff – Spannung dort, wo sie Kraft bringt. Angst oder Panik im Alltag? Bitte ärztlich abklären lassen.
+
+    👉 Und du? Wie entspannst DU dich? Was sind deine Tricks? Schreib's in die Kommentare! 💬
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Brick et al. 2018 (Psychol Sport Exerc) · Kagaya & Ogita 1992 · Pijpers et al. 2003 · Zaccaro et al. 2018
+
+    #Sportordination #medicalathleticcoach #entspannung #laufökonomie #stressabbau #atmung #mentaltraining #laufen #sportmedizin #athletiktraining
+  approved: true
+
+- id: 2026-10-19_entspannung_story
+  type: story
+  time: "2026-10-19 15:05"
+  media: [EntspannungStory.png]
+  approved: true
+
 - id: 2026-10-18_schrittfrequenz_karussell
   type: carousel
   time: "2026-10-18 15:43"
