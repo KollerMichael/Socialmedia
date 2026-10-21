@@ -6,6 +6,46 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-21_nuechterntraining_karussell
+  type: carousel
+  time: "2026-10-21 14:13"
+  media: [NuechternSlide1.png, NuechternSlide2.png, NuechternSlide3.png, NuechternSlide4.png, NuechternSlide5.png, NuechternSlide6.png, NuechternSlide7.png, NuechternSlide8.png]
+  caption: |
+    Nüchtern trainieren? Für Frauen besonders heikel. ☕❌🏃‍♀️
+
+    Morgens raus, ohne Frühstück – „dann verbrenn ich mehr Fett“. Stimmt nur halb.
+
+    🔥 Im Training verbrennst du nüchtern tatsächlich etwas mehr Fett – im Schnitt rund 3 Gramm pro Einheit. Über Wochen verlierst du aber nicht mehr Körperfett als mit Frühstück. Für den Fettabbau zählt deine Energiebilanz über Tage und Wochen.
+
+    ⏱️ Dauert die Einheit länger als 60 Minuten, bist du mit Essen davor meist leistungsfähiger. Bei kürzeren Einheiten macht es kaum einen Unterschied.
+
+    ♀️ Für Frauen besonders heikel: Das Hormonsystem reagiert empfindlich auf Energiemangel. Wer oft nüchtern trainiert und danach zu wenig isst, rutscht leichter in ein Energieloch – das kann Zyklus, Hormone und Knochen belasten. Zyklus unregelmäßig oder ausgeblieben? Ärztlich abklären lassen.
+
+    ✅ Was trotzdem geht: locker (du kannst dabei reden), kurz (max. 60 Minuten), vorher ein großes Glas Wasser – und danach zeitnah frühstücken, mit Kohlenhydraten und Eiweiß. Intervalle, lange Einheiten und Spieltage gehören nicht auf leeren Magen. Profis tanken an harten Tagen voll.
+
+    Mit Diabetes, in der Schwangerschaft oder bei Medikamenten: vorher ärztlich abklären.
+
+    💬 Machst du noch Nüchterntraining? Schreib's mir in die Kommentare:
+    A) Ja, regelmäßig
+    B) Manchmal
+    C) Nie mehr
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Vieira et al. 2016 (Br J Nutr) · Schoenfeld et al. 2014 (JISSN) · Hackett & Hagstrom 2017 · Aird et al. 2018 (Scand J Med Sci Sports) · Loucks & Thuma 2003 (JCEM) · Fahrenholtz et al. 2018 (Scand J Med Sci Sports) · Papageorgiou et al. 2017 (Bone) · IOC-Konsensus REDs 2023 (BJSM) · Impey et al. 2018 (Sports Med)
+
+    #Sportordination #medicalathleticcoach #nüchterntraining #fastedcardio #frauensport #sporternährung #laufen #sportmedizin #fettverbrennung #wiensport
+  approved: true
+
+- id: 2026-10-21_nuechterntraining_story
+  type: story
+  time: "2026-10-21 14:19"
+  media: [NuechternStory.png]
+  approved: true
+
 - id: 2026-10-20_triathlon_karussell
   type: carousel
   time: "2026-10-20 15:00"
