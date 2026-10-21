@@ -6,6 +6,49 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-23_asphalt_karussell
+  type: carousel
+  time: "2026-10-23 07:00"
+  media: [AsphaltSlide1.png, AsphaltSlide2.png, AsphaltSlide3.png, AsphaltSlide4.png, AsphaltSlide5.png, AsphaltSlide6.png, AsphaltSlide7.png, AsphaltSlide8.png]
+  caption: |
+    „Laufen auf Asphalt ist gefährlich!“ – Mythos oder Wahrheit? 👟🛣️
+    Die kurze Antwort: Nicht, wenn dein Schuh passt.
+
+    Viele flüchten auf Wiese und Waldweg, weil Asphalt „so hart“ ist. Die Forschung sieht das entspannter: Dein Bein arbeitet wie eine Feder. Auf hartem Boden federt es automatisch weicher – schon beim ersten Schritt, ganz unbewusst.
+
+    Weicher Boden dämpft im Labor den Stoß am Schienbein etwas. Auf echten Trails mit Erde und Schotter war aber kein Unterschied zu Asphalt messbar. Und dass weicher Boden vor Verletzungen schützt, ist nicht belegt.
+
+    Was mehr zählt:
+    ✅ Bequem: Ein Schuh, der sich beim Probelaufen gut anfühlt
+    ✅ Gedämpft: Im härteren Schuh gab es in einer Studie mit 848 Hobbyläufern 52 % mehr Verletzungen (vor allem bei leichteren Läufern)
+    ✅ Frisch: nicht durchgelaufen – Richtwert 500–800 km
+    ✅ Sanft steigern: War ein Lauf 10–30 % länger als dein längster der letzten 30 Tage, gab es 64 % mehr Verletzungen
+
+    Neuer Schmerz, der bleibt? Pause machen und ärztlich abklären lassen.
+
+    👇 Und du: Wie viel Asphalt läufst Du?
+    A – fast nur Asphalt
+    B – halb Straße, halb Natur
+    C – meist Wald & Wiese
+    D – Laufband
+    Schreib's in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Ferris et al. 1998/1999 · Mitchell et al. 2023 (Meta-Analyse) · Garcia et al. 2021 · van der Worp et al. 2015 (Review) · Malisoux et al. 2020 (RCT) · Nigg et al. 2015 · Nielsen et al. 2014 · Malisoux et al. 2015 · Frandsen et al. 2025
+
+    #Sportordination #medicalathleticcoach #laufen #laufschuhe #running #lauftraining #verletzungsprävention #sportmedizin #straßenlauf #wiensport
+  approved: true
+
+- id: 2026-10-23_asphalt_story
+  type: story
+  time: "2026-10-23 07:06"
+  media: [AsphaltStory.png]
+  approved: true
+
 - id: 2026-10-22_kaelte_karussell
   type: carousel
   time: "2026-10-22 07:00"
