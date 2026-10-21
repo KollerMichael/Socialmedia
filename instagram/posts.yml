@@ -6,6 +6,48 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-23_sauna_karussell
+  type: carousel
+  time: "2026-10-23 14:00"
+  media: [SaunaSlide1.png, SaunaSlide2.png, SaunaSlide3.png, SaunaSlide4.png, SaunaSlide5.png, SaunaSlide6.png, SaunaSlide7.png]
+  caption: |
+    Sauna: gut fürs Immunsystem – aber bitte nicht vor dem Training 🔥
+
+    Regelmäßig saunieren lohnt sich: In Studien hatten Menschen, die oft in die Sauna gehen, seltener Erkältungen und Lungenentzündungen. Bei 4–7 Saunabesuchen pro Woche war das Risiko für eine Lungenentzündung rund ein Drittel niedriger. Wichtig: Das ist ein Zusammenhang, kein Beweis.
+
+    ❌ Nicht vor Training, Spiel oder Wettkampf: Du startest aufgeheizt, verlierst Flüssigkeit über den Schweiß und dein Blutdruck sinkt. In einer Studie hielten vorgewärmte Radfahrer in der Hitze nur 28 statt 63 Minuten durch.
+
+    ✅ So saunierst du richtig:
+    🌡️ 80–100 °C (finnische Sauna) – Einsteiger auf die untere Bank
+    ⏱️ 8–15 Minuten pro Gang, 2–3 Gänge
+    🧊 Dazwischen abkühlen und ruhen
+    📅 2–3× pro Woche ist ein guter Start
+    💧 Trinken – vorher und danach
+
+    ⚠️ Kein Alkohol. Bei Fieber oder akutem Infekt: keine Sauna. Herz- oder Blutdruckproblem? Erst ärztlich abklären. Schwindel oder Brustschmerz: sofort raus.
+
+    Und du – gehst du in die Sauna?
+    A) Ja, jede Woche
+    B) Ab und zu
+    C) Nie – zu heiß!
+    Schreib's in die Kommentare 👇
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Kunutsor et al. 2017 (Respir Med) · Ernst et al. 1990 (Ann Med) · Laukkanen et al. 2018 (Mayo Clin Proc) · González-Alonso et al. 1999 (J Appl Physiol) · ACSM 2007
+
+    #Sportordination #medicalathleticcoach #sauna #immunsystem #regeneration #sportmedizin #athletiktraining #gesundheit #wiensport #fitness
+  approved: true
+
+- id: 2026-10-23_sauna_story
+  type: story
+  time: "2026-10-23 14:05"
+  media: [SaunaStory.png]
+  approved: true
+
 - id: 2026-10-21_nuechterntraining_karussell
   type: carousel
   time: "2026-10-21 14:13"
