@@ -6,6 +6,43 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-22_hantelmaschine_karussell
+  type: carousel
+  time: "2026-10-22 18:36"
+  media: [HantelMaschineSlide1.png, HantelMaschineSlide2.png, HantelMaschineSlide3.png, HantelMaschineSlide4.png, HantelMaschineSlide5.png, HantelMaschineSlide6.png, HantelMaschineSlide7.png, HantelMaschineSlide8.png]
+  caption: |
+    Hantel oder Maschine – was bringt dir mehr? 🏋️
+
+    Die gute Nachricht: Deine Muskeln wachsen mit beidem. Eine Meta-Analyse mit 13 Studien und über 1.000 Erwachsenen fand beim Muskelaufbau keinen Unterschied. Auch die neuen Empfehlungen des American College of Sports Medicine (2026) sagen: Für die meisten ist das Gerät zweitrangig.
+
+    Der Unterschied liegt im Detail:
+    ✅ Freie Gewichte: Du balancierst das Gewicht selbst – das fordert Koordination. Nah an Sport und Alltag, auch zuhause möglich.
+    ❌ Aber: Technik braucht Zeit und Anleitung. Schwer heben nur mit Sicherung – der häufigste Unfall im Kraftraum ist ein Gewicht, das herunterfällt.
+    ✅ Maschinen: leicht zu lernen, allein sicher bis an die Grenze, gezielt für einzelne Muskeln – gut für den Einstieg und in der Reha.
+    ❌ Aber: feste Bahn, weniger Balance gefordert. Und Kraft ist spezifisch: Du wirst vor allem in der Bewegung stark, die du trainierst.
+
+    Mein Tipp aus dem Athletiktraining: Kombiniere beides. Frei für die Basis, Maschine fürs Detail. Und das Wichtigste: 2× pro Woche dranbleiben – Training, das dir Spaß macht, machst du auch.
+
+    Vorerkrankung, Verletzung oder lange Pause? Lass dich vorher ärztlich durchchecken.
+
+    👇 Und du: Wo machst du dein Krafttraining? A Freihantel · B Maschine · C Beides · D Zuhause
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Haugen et al. 2023, BMC Sports Sci Med Rehabil · ACSM Position Stand 2026, Med Sci Sports Exerc · Kerr et al. 2010, Am J Sports Med
+
+    #Sportordination #medicalathleticcoach #krafttraining #freihantel #fitnessstudio #muskelaufbau #athletiktraining #sportmedizin #fitness #wiensport
+  approved: true
+
+- id: 2026-10-22_hantelmaschine_story
+  type: story
+  time: "2026-10-22 18:42"
+  media: [HantelMaschineStory.png]
+  approved: true
+
 - id: 2026-10-23_asphalt_karussell
   type: carousel
   time: "2026-10-23 07:00"
