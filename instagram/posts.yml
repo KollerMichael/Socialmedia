@@ -6,6 +6,47 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-25_carbonschuhe_karussell
+  type: carousel
+  time: "2026-10-25 14:00"
+  media: [CarbonSlide1.png, CarbonSlide2.png, CarbonSlide3.png, CarbonSlide4.png, CarbonSlide5.png, CarbonSlide6.png, CarbonSlide7.png, CarbonSlide8.png]
+  caption: |
+    Carbonschuhe: Profi-Turbo – auch für dich? 👟⚡
+
+    Superschuhe sieht man heute überall: beim Marathon genauso wie beim Sonntagslauf im Prater. Aber was bringen sie wirklich?
+
+    🔬 Was drinsteckt: ein sehr leichter, stark federnder Schaum, eine Carbonplatte und eine gebogene Sohle. Der Effekt kommt aus dem Zusammenspiel. In einem Test wurde die Platte sogar zerschnitten – der Spareffekt blieb.
+
+    🏃 Profis & schnelle Läufer: Im Labor sparten gut trainierte Läufer bei 14–18 km/h rund 4 % Energie. Eine Meta-Analyse aus 14 Studien zeigt im Schnitt knapp 3 % weniger Energiebedarf. Im Wettkampf zählt jede Sekunde – hier ist der Schuh ein echter Vorteil.
+
+    🙋 Hobbyläufer: Bei 5:00–6:00 min/km war der Vorteil in einer Studie nur noch rund 1 %, bei 6:00 min/km nicht sicher messbar. Nicht jeder profitiert gleich. Der Schuh macht dich schneller – fitter macht dich nur dein Training.
+
+    ⚠️ Langsam umsteigen: In einer Fallserie hatten 5 Läufer und Triathleten nach dem Umstieg eine Stressfraktur im Fuß. Ein Beweis ist das nicht – aber ein Grund, den Schuh schrittweise einzuführen. Schmerzen im Fuß? Ärztlich abklären lassen.
+
+    ✅ Mein Tipp: Carbonschuh für Rennen und ausgewählte schnelle Einheiten, lockere Läufe im normalen Trainingsschuh. Und: bequem muss er sein.
+
+    💬 Und du: Nutzt Du Carbonschuhe? Schreib A, B, C oder D in die Kommentare!
+    A – Ja, im Wettkampf
+    B – Ja, auch im Training
+    C – Nein, brauch ich nicht
+    D – Ich überlege noch
+
+    📩 Laufanalyse oder Leistungsdiagnostik? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Hoogkamer et al. 2018, Sports Med · Kobayashi et al. 2026, Front Sports Act Living · Joubert et al. 2023, Int J Sports Physiol Perform · Healey & Hoogkamer 2022, J Sport Health Sci · Tenforde et al. 2023, Sports Med
+
+    #Sportordination #medicalathleticcoach #laufen #carbonschuhe #running #laufschuhe #marathontraining #sportwissenschaft #lauftraining #wiensport
+  approved: true
+
+- id: 2026-10-25_carbonschuhe_story
+  type: story
+  time: "2026-10-25 14:05"
+  media: [CarbonStory.png]
+  approved: true
+
 - id: 2026-10-25_letzte-mahlzeit_karussell
   type: carousel
   time: "2026-10-25 08:00"
