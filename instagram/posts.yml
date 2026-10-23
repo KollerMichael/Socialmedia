@@ -6,6 +6,49 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-25_letzte-mahlzeit_karussell
+  type: carousel
+  time: "2026-10-25 08:00"
+  media: [MahlzeitSlide1.png, MahlzeitSlide2.png, MahlzeitSlide3.png, MahlzeitSlide4.png, MahlzeitSlide5.png, MahlzeitSlide6.png, MahlzeitSlide7.png, MahlzeitSlide8.png]
+  caption: |
+    Bauch zwickt beim Training? Dann check dein Essens-Timing. ⏰🍝
+
+    Beim Training holen sich deine Muskeln viel Blut – der Magen arbeitet bei harter Belastung auf Sparflamme. Wer mit vollem Bauch startet, riskiert Druck, Krämpfe oder Übelkeit. Beim Laufen öfter als am Rad, weil es den Bauch mehr durchrüttelt.
+
+    Deine Essens-Uhr:
+    🍽️ 2–4 Stunden vorher: Hauptmahlzeit – Nudeln, Reis, Erdäpfel oder Brot, etwas Eiweiß, wenig Fett
+    🍌 30–60 Minuten vorher: kleiner Snack – Banane, Semmel mit Honig, Reiswaffel mit Marmelade
+    💧 Unter 60 Minuten und locker? Dann ist ein Snack kein Muss.
+
+    Lieber nach dem Training: Schnitzel und Pommes, Bohnen und Linsen, der riesige Vollkorn-Salat. Gesund – nur eben nicht direkt davor.
+
+    Mythos: „Ein Snack kurz vorher killt die Leistung.“ Studien zeigen: Die Leistung bleibt meist gleich oder wird sogar besser. Wirst du zittrig, iss den Snack direkt vor dem Start oder beim Aufwärmen.
+
+    Länger als 60 Minuten? Dann bringen Kohlenhydrate vorher meist mehr Leistung. Und harte Intervalle laufen vor allem mit Kohlenhydraten – also nicht leer losstarten.
+
+    So machen's die Profis im Fußball: letzte große Mahlzeit 3–4 Stunden vor Anpfiff, am Spieltag nichts Neues ausprobieren. Und: Der Bauch ist trainierbar. Teste im Training, was du verträgst.
+
+    👇 Und du? Wie lange vor dem Training isst du?
+    A unter 30 Minuten · B 30–60 Minuten · C 1–2 Stunden · D mehr als 2 Stunden
+    Schreib deinen Buchstaben in die Kommentare! 💾 Speichern für deinen nächsten Trainingstag.
+
+    Bauch streikt im Training öfter? Lass es ärztlich abklären.
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: ACSM 2016 · de Oliveira 2014 · Jeukendrup & Killer 2010 · Aird 2018 · UEFA/Collins 2021
+
+    #Sportordination #medicalathleticcoach #sporternährung #essenvordemtraining #laufen #athletiktraining #sportmedizin #fußballtraining #wiensport #fitness
+  approved: true
+
+- id: 2026-10-25_letzte-mahlzeit_story
+  type: story
+  time: "2026-10-25 08:05"
+  media: [MahlzeitStory.png]
+  approved: true
+
 - id: 2026-10-22_hantelmaschine_karussell
   type: carousel
   time: "2026-10-22 18:36"
