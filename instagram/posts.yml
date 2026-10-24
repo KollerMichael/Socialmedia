@@ -6,6 +6,55 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-24_langerlauf_karussell
+  type: carousel
+  time: "2026-10-24 18:33"
+  media: [LangerLaufSlide1.png, LangerLaufSlide2.png, LangerLaufSlide3.png, LangerLaufSlide4.png, LangerLaufSlide5.png, LangerLaufSlide6.png, LangerLaufSlide7.png, LangerLaufSlide8.png]
+  caption: |
+    Langer Lauf: Ab wann schadet er mehr, als er bringt? 🏃‍♂️⏱️
+
+    Der lange Lauf macht dich ausdauernder: Dein Laufstil bleibt länger sparsam, und du kommst schneller ins Ziel. Aber er hat eine Grenze – und die liegt woanders, als viele denken.
+
+    📈 Der Sprung zählt
+    In einer Studie mit über 5.200 Läufern gingen Läufe, die 10–30 % länger waren als der längste Lauf der letzten 30 Tage, mit 64 % mehr Verletzungsrisiko einher. Mehr als doppelt so lang: mehr als doppeltes Risiko. Mehr Wochenumfang zeigte keinen klaren Zusammenhang.
+
+    🚦 War's zu lang? 4 Signale
+    1. Dein Tempo bricht am Ende ein – bei gleicher Anstrengung
+    2. Muskelkater hält länger als 3 Tage
+    3. Du bist tagelang platt, schläfst schlechter, hast keine Lust
+    4. Die nächsten Einheiten fühlen sich schwer an
+    Ein Signal: beobachten. Mehrere zusammen: nächstes Mal kürzer.
+
+    ⛽ Je länger, desto teurer
+    Ab etwa einer Stunde helfen 30–60 g Kohlenhydrate pro Stunde. Mit der Dauer kostet jeder Schritt mehr Energie, und die Erholung dauert länger. Trink nach Durst – nicht literweise.
+
+    ✅ Meine 4 Faustregeln
+    1. Max. 10 % länger als dein längster Lauf der letzten 30 Tage (z. B. 90 Min → max. 99 Min)
+    2. Langer Lauf = max. 25–30 % deiner wöchentlichen Laufzeit
+    3. Für die meisten Hobbyläufer: Deckel bei 2,5–3 Stunden (Erfahrungswert)
+    4. Locker laufen – deutlich langsamer als dein Wettkampftempo
+
+    ⚠️ Stechender Schmerz, Hinken, Brustschmerz oder Schwindel? Lauf abbrechen und ärztlich abklären lassen.
+
+    💬 Wie lange sind deine langen Trainingsläufe?
+    A unter 60 Min · B 60–90 Min · C 1,5–2,5 h · D über 2,5 h – schreib's in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Frandsen et al. 2025 (Br J Sports Med) · Fokkema et al. 2020 (Scand J Med Sci Sports) · Meeusen et al. 2013 (ECSS/ACSM) · Zanini et al. 2025 (Med Sci Sports Exerc) · Wallis & Podlogar 2022 (GSSI) · Hew-Butler et al. 2015 (Clin J Sport Med)
+
+    #Sportordination #medicalathleticcoach #langerlauf #marathontraining #laufen #lauftraining #verletzungsprävention #sportmedizin #ausdauertraining #wiensport
+  approved: true
+
+- id: 2026-10-24_langerlauf_story
+  type: story
+  time: "2026-10-24 18:40"
+  media: [LangerLaufStory.png]
+  approved: true
+
 - id: 2026-10-24_eigengewicht_karussell
   type: carousel
   time: "2026-10-24 09:41"
