@@ -6,6 +6,50 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-24_eigengewicht_karussell
+  type: carousel
+  time: "2026-10-24 09:41"
+  media: [EigengewichtSlide1.png, EigengewichtSlide2.png, EigengewichtSlide3.png, EigengewichtSlide4.png, EigengewichtSlide5.png, EigengewichtSlide6.png, EigengewichtSlide7.png, EigengewichtSlide8.png]
+  caption: |
+    Keine Hantel? Dein Körper ist schwer genug. 💪
+
+    Beim Liegestütz drückst du rund 64 % deines Körpergewichts. Bei 80 kg sind das gut 50 kg – bei jeder Wiederholung.
+
+    Warum das reicht: Dein Muskel wächst durch Spannung, nicht durch Hantelscheiben. Auch leichte Lasten bauen Muskeln auf, wenn die letzten Wiederholungen hart werden. In Studien brachten Liegestütze ähnlich viel Kraft- und Muskelzuwachs wie Bankdrücken bei vergleichbarer Belastung.
+
+    Meine Top 5 ohne Geräte:
+    1️⃣ Liegestütz – Brust, Schulter, Trizeps, Rumpf
+    2️⃣ Bulgarische Kniebeuge – Oberschenkel & Po
+    3️⃣ Rudern an der Stange / Klimmzug – Rücken & Bizeps
+    4️⃣ Einbeiniges Hüftheben – Po & hintere Oberschenkel
+    5️⃣ Seitstütz – seitlicher Rumpf
+
+    So viel reicht: 2× pro Woche, 2–3 Sätze pro Übung. Hör auf, wenn noch 1–3 saubere Wiederholungen gingen. Zu leicht? Nimm die schwerere Stufe: Füße erhöht, einbeinig oder 3 Sekunden langsam runter.
+
+    Bonus: 30–60 Minuten Krafttraining pro Woche gehen in großen Studien mit bis zu 20 % weniger Sterberisiko einher (Beobachtungsstudien – ein Zusammenhang, kein Beweis).
+
+    Fairerweise: Für Maximalkraft-Rekorde sind schwere Gewichte etwas besser. Für Muskeln und Gesundheit reicht dein Körper.
+
+    Vorerkrankung, Bluthochdruck oder Schmerzen? Erst ärztlich abklären lassen.
+
+    👇 Und du: Welches Krafttraining machst Du? Eigengewicht, Hanteln, Geräte – oder noch gar keins?
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Ebben et al. 2011 · Schoenfeld et al. 2017 · Calatayud et al. 2015 · Kikuchi & Nakazato 2017 · Refalo et al. 2023 · Momma et al. 2022 · WHO 2020
+
+    #Sportordination #medicalathleticcoach #krafttraining #bodyweighttraining #calisthenics #homeworkout #eigengewicht #athletiktraining #sportmedizin #wiensport
+  approved: true
+
+- id: 2026-10-24_eigengewicht_story
+  type: story
+  time: "2026-10-24 09:51"
+  media: [EigengewichtStory.png]
+  approved: true
+
 - id: 2026-10-25_carbonschuhe_karussell
   type: carousel
   time: "2026-10-25 14:00"
