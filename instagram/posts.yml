@@ -142,7 +142,7 @@
 
 - id: 2026-10-25_letzte-mahlzeit_karussell
   type: carousel
-  time: "2026-10-25 08:00"
+  time: "2026-10-25 09:45"
   media: [MahlzeitSlide1.png, MahlzeitSlide2.png, MahlzeitSlide3.png, MahlzeitSlide4.png, MahlzeitSlide5.png, MahlzeitSlide6.png, MahlzeitSlide7.png, MahlzeitSlide8.png]
   caption: |
     Bauch zwickt beim Training? Dann check dein Essens-Timing. ⏰🍝
@@ -179,7 +179,7 @@
 
 - id: 2026-10-25_letzte-mahlzeit_story
   type: story
-  time: "2026-10-25 08:05"
+  time: "2026-10-25 09:51"
   media: [MahlzeitStory.png]
   approved: true
 
