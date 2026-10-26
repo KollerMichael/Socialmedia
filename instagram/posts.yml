@@ -6,6 +6,44 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-26_planer-macher_karussell
+  type: carousel
+  time: "2026-10-26 16:18"
+  media: [PlanSlide1.png, PlanSlide2.png, PlanSlide3.png, PlanSlide4.png, PlanSlide5.png, PlanSlide6.png, PlanSlide7.png]
+  caption: |
+    Schon wieder?! Perfekter Plan – und nix gemacht. 😤📋
+
+    Fast jeder Zweite, der sich mehr Bewegung vornimmt, setzt es am Ende nicht um. Am Wissen liegt's selten – meistens am Start.
+
+    Der Planer wartet gern auf den perfekten Moment. Der kommt oft nie. Der Macher rennt sofort los – und macht dabei schnell zu viel auf einmal. Beide haben zur Hälfte recht.
+
+    Was wirklich hilft: ein Satz statt zehn Seiten.
+    👉 „Wenn es Montag 18 Uhr ist, dann gehe ich 30 Minuten raus.“
+    👉 Plan B gleich dazu: „Wenn es regnet, dann 20 Minuten Kraft daheim.“
+    Solche Wenn-dann-Pläne helfen in vielen Studien, wirklich ins Tun zu kommen.
+
+    Im Profifußball ist es genauso: Wir planen die Woche – und passen täglich an Belastung, Schlaf und Befinden an. Plan kurz. Starte klein. Passe an. Und denk dran: Etwas Bewegung ist besser als keine.
+
+    Lange keinen Sport gemacht und Beschwerden? Lass dich vorher ärztlich durchchecken.
+
+    💬 Und du: Bist Du Planer oder Macher? Schreib PLANER, MACHER oder BEIDES in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Feil, Fritsch & Rhodes 2023 (Br J Sports Med) · Gollwitzer & Sheeran 2006 · WHO-Leitlinie Bewegung 2020
+
+    #Sportordination #medicalathleticcoach #mindset #motivation #trainingsplan #dranbleiben #athletiktraining #fitness #laufen #wiensport
+  approved: true
+
+- id: 2026-10-26_planer-macher_story
+  type: story
+  time: "2026-10-26 16:23"
+  media: [PlanStory.png]
+  approved: true
+
 - id: 2026-10-26_pulstempo_karussell
   type: carousel
   time: "2026-10-26 08:40"
