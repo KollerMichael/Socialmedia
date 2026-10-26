@@ -6,6 +6,49 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-26_pulstempo_karussell
+  type: carousel
+  time: "2026-10-26 08:40"
+  media: [PulsTempoSlide1.png, PulsTempoSlide2.png, PulsTempoSlide3.png, PulsTempoSlide4.png, PulsTempoSlide5.png, PulsTempoSlide6.png, PulsTempoSlide7.png, PulsTempoSlide8.png]
+  caption: |
+    Uhr kaputt oder du? Puls 175 – bei lockerem Tempo?! ⌚😤
+
+    Oft ist keins von beiden kaputt. Deine Uhr zeigt dir zwei Wahrheiten: Tempo und Puls.
+
+    Das Tempo ist die äußere Belastung: Was du leistest – objektiv, von außen messbar, sofort ablesbar.
+
+    Der Puls ist die innere Beanspruchung: Was diese Leistung deinen Körper heute kostet. Er reagiert auf Hitze, Hügel, zu wenig Trinken und Müdigkeit. Dasselbe Tempo kann an einem heißen Tag ein ganz anderer Lauf sein – der Puls zeigt dir das.
+
+    Aber der Puls hat Schwächen: Er reagiert verzögert und braucht bis zu 3 Minuten, bis er sich einpendelt. Und bei langen Läufen steigt er bei gleichem Tempo langsam an – der Puls-Drift.
+
+    So setze ich beides ein:
+    ✅ Lockere und lange Läufe, Hitze, Hügel → nach Puls, mit Obergrenze
+    ✅ Kurze Intervalle, Tempoläufe, Wettkampf → nach Tempo
+    ✅ Profis kombinieren: Tempo vorgeben, Puls und Körpergefühl gegenchecken
+    ✅ Gleiches Tempo, tieferer Puls über Wochen = du wirst fitter
+
+    Damit es funktioniert: Brustgurt statt Handgelenk beim Laufen – und deine Zonen messen statt mit „220 minus Alter“ raten.
+
+    Puls ungewöhnlich hoch oder Herzstolpern? Ärztlich abklären lassen.
+
+    👉 Und du: Wie steuerst du dein Training? A Tempo · B Puls · C Gefühl · D Kombi – schreib's in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Impellizzeri et al. 2019 (IJSPP) · Bourdon et al. 2017 (IJSPP) · Coyle & González-Alonso 2001 · Hunt et al. 2015
+
+    #Sportordination #medicalathleticcoach #laufen #herzfrequenz #lauftraining #running #pulsuhr #ausdauertraining #leistungsdiagnostik #wiensport
+  approved: true
+
+- id: 2026-10-26_pulstempo_story
+  type: story
+  time: "2026-10-26 08:46"
+  media: [PulsTempoStory.png]
+  approved: true
+
 - id: 2026-10-24_langerlauf_karussell
   type: carousel
   time: "2026-10-24 18:33"
