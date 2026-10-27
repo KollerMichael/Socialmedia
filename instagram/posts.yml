@@ -6,6 +6,47 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-27_motivation_karussell
+  type: carousel
+  time: "2026-10-27 09:10"
+  media: [MotivationSlide1.png, MotivationSlide2.png, MotivationSlide3.png, MotivationSlide4.png, MotivationSlide5.png, MotivationSlide6.png, MotivationSlide7.png]
+  caption: |
+    Liebe oder Angst – warum trainierst du wirklich? ❤️⚡
+
+    Es gibt zwei Arten, ins Tun zu kommen:
+    ❤️ Liebe: Du trainierst, weil es dir Freude macht und dir wichtig ist. „Ich will.“
+    ⚡ Angst: Du trainierst, um etwas abzuwenden – Kilos, Krankheit, schlechtes Gewissen. „Ich muss – sonst …“
+
+    Die Forschung nennt das selbstbestimmte und kontrollierte Motivation. Eine Übersichtsarbeit mit 66 Studien zeigt: Wer aus Freude trainiert, bleibt eher langfristig dran. Druck und Schuldgefühl fühlen sich dagegen nach Pflicht an – und machen das Dranbleiben schwerer.
+
+    Das Spannende: gleiches Ziel, anderes Gefühl. „Ich muss laufen, sonst nehm ich zu“ ist Angst. „Ich laufe, weil ich Energie für meinen Alltag tanke“ ist Liebe. Gesundheit ist ein super Grund – entscheidend ist, ob es sich nach Wollen oder Müssen anfühlt.
+
+    Angst darf der Startschuss sein. Dranbleiben lässt dich die Freude:
+    ✅ Sport wählen, der dir taugt
+    ✅ im Plauder-Tempo trainieren
+    ✅ kleine Fortschritte feiern
+    ✅ aufs Gefühl achten, nicht nur auf die Waage
+    Neustart mit Beschwerden? Vorher ärztlich abklären lassen.
+
+    💬 Und du? Trainierst Du aus Liebe oder Angst? Schreib's in die Kommentare:
+    A Liebe · B Angst · C Beides · D Weiß ich noch nicht
+
+    📩 Du willst ein Training, das dir Freude macht? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Teixeira et al. 2012 (IJBNPA) · Rhodes & Kates 2015 (Ann Behav Med) · Ingledew & Markland 2008 (Psychol Health) · Segar et al. 2011 (IJBNPA)
+
+    #Sportordination #medicalathleticcoach #motivation #laufen #trainingsmotivation #sportpsychologie #running #fitness #dranbleiben #wiensport
+  approved: true
+
+- id: 2026-10-27_motivation_story
+  type: story
+  time: "2026-10-27 09:15"
+  media: [MotivationStory.png]
+  approved: true
+
 - id: 2026-10-26_planer-macher_karussell
   type: carousel
   time: "2026-10-26 16:18"
