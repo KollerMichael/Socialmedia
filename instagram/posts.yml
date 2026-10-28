@@ -6,6 +6,50 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-28_kaffee_karussell
+  type: carousel
+  time: "2026-10-28 09:12"
+  media: [KaffeeSlide1.png, KaffeeSlide2.png, KaffeeSlide3.png, KaffeeSlide4.png, KaffeeSlide5.png, KaffeeSlide6.png, KaffeeSlide7.png, KaffeeSlide8.png]
+  caption: |
+    Zombie ohne Kaffee?! Dein Körper schreit nach Nachschub. ☕😫⚡
+
+    Oft ist das ein Mini-Entzug – und das steckt dahinter 👇
+
+    Kaffee hat einen schlechten Ruf – zu Unrecht. Über 200 Studien-Auswertungen zeigen: 3–4 Tassen am Tag gehen mit einem geringeren Risiko für Herz-Kreislauf-Krankheiten, Typ-2-Diabetes und Lebererkrankungen einher. Ein Zusammenhang, kein Beweis – aber für die meisten Gesunden ist Kaffee kein Gift, eher ein Plus.
+
+    🔥 Fett-Turbo? Koffein rund 1 Stunde vor dem Training (ca. 3 mg pro kg – bei 70 kg etwa 2 Tassen) lässt dich bei lockerem Ausdauertempo mehr Fett als Brennstoff nutzen. Am stärksten bei Einsteigern. Aber: Mehr Fett verbrennen heißt nicht automatisch abnehmen.
+
+    ❌ Mythen aufgeräumt:
+    – „Kaffee entwässert“ → Bis 4 Tassen hydrieren Kaffee-Gewohnte ähnlich wie Wasser.
+    – „Kaffee schadet dem Herz“ → Bei Gesunden pro Tasse sogar etwas seltener Rhythmusstörungen.
+    – „Kein Kaffee vor dem Sport“ → Koffein steigert die Ausdauerleistung.
+
+    😴 Und das Suchtmittel? Dein Körper gewöhnt sich. Lässt du Koffein weg, kommen nach 12–24 Stunden oft Kopfweh, Müdigkeit und schlechte Laune. Bei Vieltrinkern beendet der erste Kaffee am Morgen vor allem den Mini-Entzug der Nacht – wacher als Nicht-Trinker macht er kaum.
+
+    ✅ So nutzt du Kaffee smart: max. 400 mg Koffein am Tag (≈ 4 Tassen Filterkaffee), letzter Kaffee ca. 9 Stunden vor dem Schlafen, vor dem Training gezielt statt nebenbei. Werkzeug statt Krücke.
+
+    ⚠️ Herzrasen, Bluthochdruck oder schwanger (max. 200 mg/Tag)? Bitte ärztlich abklären.
+
+    👇 Und du – brauchst du Kaffee zum Starten?
+    A Ja, ohne geht nix · B Eine Tasse aus Genuss · C Nur vor dem Training · D Kein Kaffee für mich
+    Schreib's in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Poole 2017 (BMJ) · Collado-Mateo 2020 · Fernández-Sánchez 2024 · Killer 2014 · Kim 2021 · ISSN 2021 · Juliano & Griffiths 2004 · Rogers 2010/13 · EFSA 2015 · Gardiner 2023
+
+    #Sportordination #medicalathleticcoach #kaffee #koffein #sporternährung #fettstoffwechsel #ausdauertraining #fitness #mythen #wiensport
+  approved: true
+
+- id: 2026-10-28_kaffee_story
+  type: story
+  time: "2026-10-28 09:17"
+  media: [KaffeeStory.png]
+  approved: true
+
 - id: 2026-10-27_motivation_karussell
   type: carousel
   time: "2026-10-27 09:10"
