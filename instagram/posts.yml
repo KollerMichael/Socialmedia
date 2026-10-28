@@ -6,6 +6,49 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-28_belastung-beanspruchung_karussell
+  type: carousel
+  time: "2026-10-28 15:00"
+  media: [BelastungSlide1.png, BelastungSlide2.png, BelastungSlide3.png, BelastungSlide4.png, BelastungSlide5.png, BelastungSlide6.png, BelastungSlide7.png, BelastungSlide8.png]
+  caption: |
+    Schon wieder kaputt?! Dein Plan kennt dich nicht. 😤⚡
+
+    Gleiches Tempo – und trotzdem nicht gleich hart?
+
+    Das steckt dahinter: das Belastungs-Beanspruchungs-Konzept.
+
+    🏋️ Belastung ist objektiv. Tempo, Dauer, Kilo, Intervalle – das, was im Plan steht. Für alle gleich.
+
+    ❤️ Beanspruchung ist individuell. Puls, Laktat, wie anstrengend es sich anfühlt und wie lange du dich erholst. Bei jedem anders.
+
+    Beispiel: 45 Minuten bei 6:00 min/km. Für den gut Trainierten lockere Grundlage. Für den Einsteiger fast ein Tempolauf.
+
+    Und auch bei dir selbst schwankt es: Zu wenig Schlaf, viel Stress oder Hitze – und derselbe Lauf fühlt sich plötzlich viel härter an.
+
+    💡 Im Profifußball messen wir deshalb beides: GPS für die Belastung, Puls und Anstrengung (0–10) für die Beanspruchung. Dein Transfer: Plane die Belastung, steuere nach der Beanspruchung. Fühlt sich locker heute hart an? Tempo raus.
+
+    ⚠️ Brustschmerz oder Schwindel im Training? Sofort abbrechen und ärztlich abklären lassen.
+
+    👉 Und du? Was macht dein Training härter als geplant?
+    A Wenig Schlaf · B Stress · C Hitze · D Nach Krankheit
+    Schreib's in die Kommentare und speicher dir den Post!
+
+    📩 Wie stark dich dein Training wirklich beansprucht, zeigt eine Leistungsdiagnostik. Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Rohmert & Rutenfranz (Belastungs-Beanspruchungs-Konzept) · Impellizzeri et al. 2019, IJSPP · Stults-Kolehmainen et al. 2014, JSCR · Front Physiol 2025 (Schlafentzug)
+
+    #Sportordination #medicalathleticcoach #trainingssteuerung #sportwissenschaft #laufen #athletiktraining #leistungsdiagnostik #trainingsplan #fitness #wiensport
+  approved: true
+
+- id: 2026-10-28_belastung-beanspruchung_story
+  type: story
+  time: "2026-10-28 15:05"
+  media: [BelastungStory.png]
+  approved: true
+
 - id: 2026-10-28_streckerkette_karussell
   type: carousel
   time: "2026-10-28 15:00"
