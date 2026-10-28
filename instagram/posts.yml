@@ -6,6 +6,48 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-28_streckerkette_karussell
+  type: carousel
+  time: "2026-10-28 15:00"
+  media: [StreckerketteSlide1.png, StreckerketteSlide2.png, StreckerketteSlide3.png, StreckerketteSlide4.png, StreckerketteSlide5.png, StreckerketteSlide6.png, StreckerketteSlide7.png, StreckerketteSlide8.png]
+  caption: |
+    Kreuzweh?! Wann hast du zuletzt Kniebeugen gemacht? 😖⚡
+
+    Gesäß, vordere Oberschenkel, Waden: Gemeinsam strecken sie Hüfte, Knie und Sprunggelenk – die Streckerkette. Hier sitzen deine größten Muskeln. Der Gesäßmuskel ist sogar der größte Muskel deines Körpers.
+
+    💥 Performance: Jeder Sprint, jeder Sprung, jeder Antritt kommt aus dieser Kette. Studien zeigen: Wer in der Kniebeuge stärker wird, sprintet meist auch schneller. Im Profifußball ist sie deshalb Pflichtprogramm.
+
+    🛡️ Rücken: Rückenschmerzen sind weltweit die Nr. 1 bei Einschränkungen im Alltag. Was vorbeugt: regelmäßig trainieren – am besten kombiniert mit Wissen über deinen Rücken. Rückengurt und Einlagen schützen laut Studien nicht.
+
+    👵 Alter: Vom Sessel aufstehen, Stiegen steigen, Einkäufe tragen – alles Streckerkette. Training mit Kraft + Gleichgewicht senkt die Sturzrate älterer Menschen um rund ein Drittel. Starten kannst du in jedem Alter.
+
+    ✅ So geht die Kniebeuge:
+    • Füße hüft- bis schulterbreit, Zehen leicht nach außen
+    • Hüfte nach hinten-unten – wie auf einen Stuhl setzen
+    • Knie zeigen Richtung Zehen, nicht nach innen
+    • Rücken lang, ganze Fußsohle am Boden
+    • So tief, wie du sauber bleibst
+    Mythos „Knie nie über die Zehen“: Doch, dürfen sie. Hältst du sie zwanghaft zurück, landet mehr Last auf Hüfte und unterem Rücken.
+    Start: 2× pro Woche, 2–3 Sätze à 8–12 Wiederholungen mit dem eigenen Körpergewicht.
+    Akute oder ausstrahlende Rückenschmerzen? Bitte ärztlich abklären lassen.
+
+    👇 Und du: Wann hast DU die letzten Squats gemacht?
+    A Heute · B Diese Woche · C Ist länger her · D Squats? Nie!
+
+    📩 Wie stark ist deine Kette? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #kniebeuge #squats #krafttraining #rückengesundheit #athletiktraining #fitimalter #fußballtraining #wiensport
+  approved: true
+
+- id: 2026-10-28_streckerkette_story
+  type: story
+  time: "2026-10-28 15:06"
+  media: [StreckerketteStory.png]
+  approved: true
+
 - id: 2026-10-28_kaffee_karussell
   type: carousel
   time: "2026-10-28 09:12"
