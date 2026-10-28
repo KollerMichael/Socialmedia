@@ -51,7 +51,7 @@
 
 - id: 2026-10-28_streckerkette_karussell
   type: carousel
-  time: "2026-10-28 15:00"
+  time: "2026-10-28 13:27"
   media: [StreckerketteSlide1.png, StreckerketteSlide2.png, StreckerketteSlide3.png, StreckerketteSlide4.png, StreckerketteSlide5.png, StreckerketteSlide6.png, StreckerketteSlide7.png, StreckerketteSlide8.png]
   caption: |
     Kreuzweh?! Wann hast du zuletzt Kniebeugen gemacht? 😖⚡
@@ -87,7 +87,7 @@
 
 - id: 2026-10-28_streckerkette_story
   type: story
-  time: "2026-10-28 15:06"
+  time: "2026-10-28 13:35"
   media: [StreckerketteStory.png]
   approved: true
 
