@@ -6,6 +6,43 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-29_vitamin-d-winter_karussell
+  type: carousel
+  time: "2026-10-29 15:00"
+  media: [VitDWinterSlide1.png, VitDWinterSlide2.png, VitDWinterSlide3.png, VitDWinterSlide4.png, VitDWinterSlide5.png, VitDWinterSlide6.png, VitDWinterSlide7.png]
+  caption: |
+    Keine Sonne?! Dein Vitamin D rauscht in den Keller. 😤☁️
+
+    Bei vielen sinkt der Spiegel jetzt Monat für Monat – bis März. Von Oktober bis März steht die Sonne bei uns zu tief. Deine Haut bildet dann viel weniger Vitamin D. Weniger heißt aber nicht null: An sonnigen Tagen um die Mittagszeit geht noch etwas – vor allem im Herbst, im Spätwinter und in den Bergen mit Schnee.
+
+    🎯 Zielwert im Sport: über 30 ng/ml (= 75 nmol/l). Unter 20 ng/ml spricht man von Mangel. Tipp: Schau auf deinem Befund nach, in welcher Einheit dein Labor misst.
+
+    ☀️ Sonnentage nutzen! Mittagspause draußen, ein Spaziergang oder eine lockere Laufrunde. Das hilft nicht nur deinem Vitamin D: Tageslicht stellt deine innere Uhr und tut deiner Stimmung gut. Selbst an grauen Tagen ist es draußen viel heller als im Büro.
+
+    Aber ehrlich: Im Winter sind meist nur Gesicht und Hände frei. Sonne allein hält deinen Wert selten über 30. Darum: messen statt raten – vor allem, wenn du viel trainierst, wenig rauskommst oder oft verletzt bist. Ergänzen nur gezielt und nach Rücksprache, nie auf Verdacht hochdosieren.
+
+    Fühlst du dich wochenlang niedergeschlagen? Bitte ärztlich abklären lassen.
+
+    👉 Und du: Kennst du deinen Vitamin-D-Spiegel?
+    A = ja, über 30 · B = ja, darunter · C = keine Ahnung
+    Schreib's in die Kommentare!
+
+    📩 Vitamin D checken lassen? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: DGE/BfR/MRI · Endocrine Society (Holick 2011) · Engelsen 2005 · Burns 2021
+
+    #Sportordination #medicalathleticcoach #vitamind #vitamindmangel #winter #sportmedizin #gesundheit #laufen #blutwerte #wiensport
+  approved: true
+
+- id: 2026-10-29_vitamin-d-winter_story
+  type: story
+  time: "2026-10-29 15:05"
+  media: [VitDWinterStory.png]
+  approved: true
+
 - id: 2026-10-29_morgen-abend_karussell
   type: carousel
   time: "2026-10-29 10:12"
