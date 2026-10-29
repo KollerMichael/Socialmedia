@@ -6,6 +6,45 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-29_morgen-abend_karussell
+  type: carousel
+  time: "2026-10-29 10:12"
+  media: [MorgenAbendSlide1.png, MorgenAbendSlide2.png, MorgenAbendSlide3.png, MorgenAbendSlide4.png, MorgenAbendSlide5.png, MorgenAbendSlide6.png, MorgenAbendSlide7.png, MorgenAbendSlide8.png]
+  caption: |
+    Morgentraining?! Für Eulen bis zu 26 % schwächer. ⏰😤
+
+    Lerche oder Eule? Deine innere Uhr trainiert mit. 🌅🦉
+
+    Manche laufen um 6 Uhr schon ihre Runde. Andere kommen erst am Abend so richtig in Fahrt. Beides ist normal – das ist dein Chronotyp, deine innere Uhr.
+
+    Was die Studien zeigen:
+    ☀️ Kraft, Sprung und Sprint sind bei vielen am Nachmittag und frühen Abend am stärksten. Bei der Ausdauer ist der Unterschied klein.
+    ⏰ Dein Typ verschiebt dein Leistungshoch: Lerchen sind früher am Tag stark, Eulen später. In einer Studie mit Sportlern waren Eulen frühmorgens bis zu 26 % schwächer als zu ihrer Bestzeit.
+    🔁 Dein Körper gewöhnt sich an deine Trainingszeit. Kraft und Muskeln wachsen morgens wie abends ähnlich gut.
+    😴 Training am Abend stört den Schlaf meistens nicht. Nur sehr hartes Training knapp vor dem Schlafengehen kann das Einschlafen verzögern.
+
+    Mein Tipp als Athletiktrainer: Die beste Trainingszeit ist die, die du regelmäßig schaffst. Morgens etwas länger aufwärmen – und hast du einen Wettkampf am Morgen, trainier auch mal früh.
+
+    Und du – was bist du?
+    🌅 A = Lerche
+    🦉 B = Eule
+    🔄 C = irgendwas dazwischen
+    Schreib's in die Kommentare! 👇
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #chronotyp #trainingszeit #morgensport #abendtraining #laufen #krafttraining #sportwissenschaft #wiensport
+  approved: true
+
+- id: 2026-10-29_morgen-abend_story
+  type: story
+  time: "2026-10-29 10:18"
+  media: [MorgenAbendStory.png]
+  approved: true
+
 - id: 2026-10-28_belastung-beanspruchung_karussell
   type: carousel
   time: "2026-10-28 15:00"
