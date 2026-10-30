@@ -6,6 +6,40 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-31_achillodynie_karussell
+  type: carousel
+  time: "2026-10-31 08:00"
+  media: [AchillesSlide1.png, AchillesSlide2.png, AchillesSlide3.png, AchillesSlide4.png, AchillesSlide5.png, AchillesSlide6.png, AchillesSlide7.png, AchillesSlide8.png]
+  caption: |
+    ACHILLES ZWICKT?! Achte auf deinen ersten Schritt. ⚡
+
+    Steif und schmerzhaft beim Aufstehen – und nach ein paar Minuten ist es weg? Das ist der klassische Anlaufschmerz bei einer gereizten Achillessehne (Achillodynie). Weil er sich warmläuft, ignorieren ihn viele monatelang.
+
+    Der Schmerz direkt nach dem Training ist nicht das Thema. Bis 5 von 10 darf es beim Training ziehen. Dein Warnsignal ist der nächste Morgen: Ist der Anlaufschmerz stärker als sonst, war es zu viel.
+
+    Zu wenig ist nicht gut, zu viel auch nicht. Komplett schonen macht die Sehne nicht stärker. Plötzlich mehr Umfang oder Tempo überlastet sie. Load-Management heißt: so viel, wie deine Sehne verträgt.
+
+    Was hilft? Heavy Slow Resistance: schweres, langsames Wadenheben – 3× pro Woche, 3 Sekunden hoch, 3 Sekunden runter, über 12 Wochen. In Studien so wirksam wie exzentrisches Training. Schmerz direkt am Fersenbein-Ansatz? Dann am flachen Boden trainieren statt über die Stufe absenken.
+
+    ⚠️ Knall oder Gefühl wie ein Tritt in die Wade, Zehenstand nicht mehr möglich oder starke Schwellung: sofort ärztlich abklären lassen.
+
+    👉 Kennst du jemanden mit chronischem Achillessehnenschmerz? Markiere ihn in den Kommentaren!
+    💾 Speicher dir den Post für später.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #achillessehne #achillodynie #laufen #sportmedizin #athletiktraining #krafttraining #wiensport #fitness
+  approved: true
+
+- id: 2026-10-31_achillodynie_story
+  type: story
+  time: "2026-10-31 08:06"
+  media: [AchillesStory.png]
+  approved: true
+
 - id: 2026-10-30_haltung2_karussell
   type: carousel
   time: "2026-10-30 15:11"
