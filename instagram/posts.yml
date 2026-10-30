@@ -6,6 +6,47 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-30_arbeitsweg_karussell
+  type: carousel
+  time: "2026-10-30 11:08"
+  media: [ArbeitswegSlide1.png, ArbeitswegSlide2.png, ArbeitswegSlide3.png, ArbeitswegSlide4.png, ArbeitswegSlide5.png, ArbeitswegSlide6.png, ArbeitswegSlide7.png]
+  caption: |
+    Schon wieder Stau?! 😤 Dein Arbeitsweg ist dein Training. 🚲🏃
+
+    Den Weg zur Arbeit machst du sowieso. Warum ihn also absitzen?
+    2 × 15 Minuten zügig gehen oder radeln an 5 Tagen = 150 Minuten Bewegung pro Woche. Genau das empfiehlt die WHO als Minimum – ganz ohne Extra-Termin im Kalender.
+
+    Gehen, Rad, E-Bike oder Laufen: Jeder aktive Weg zählt. Zu weit? Kombinier – eine Station früher aussteigen oder mit dem Rad zum Bahnhof.
+
+    Und es lohnt sich: In Studien mit über 800.000 Berufstätigen hatten Rad-Pendler ein rund 21 % geringeres Sterberisiko, Geh-Pendler rund 13 %. Das sind Zusammenhänge, keine Garantie – aber ein starkes Argument.
+
+    So wird dein Arbeitsweg zum Training:
+    ✅ Hinweg locker = Grundlage
+    ✅ Heimweg mit Umweg (+20 Min.) = längere Einheit
+    ✅ Hin laufen, heim mit den Öffis
+    ✅ Wechselshirt am Vortag ins Büro
+    ⚠️ Harte Intervalle nicht im Stadtverkehr. Im Dunkeln: Licht, Reflektoren & Helm.
+
+    Lange inaktiv oder Beschwerden? Vor dem Start ärztlich abklären lassen.
+
+    👉 Und du? Nutzt du deinen Arbeitsweg zur Bewegung oder zum Training? Schreib’s in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: WHO-Leitlinie 2020 · Dutheil et al. 2020, Sports Med · Dinu et al. 2019, Sports Med
+
+    #Sportordination #medicalathleticcoach #arbeitsweg #radpendeln #aktivmobil #laufen #fitness #gesundheit #trainingsplanung #wiensport
+  approved: true
+
+- id: 2026-10-30_arbeitsweg_story
+  type: story
+  time: "2026-10-30 11:14"
+  media: [ArbeitswegStory.png]
+  approved: true
+
 - id: 2026-10-29_haltung_karussell
   type: carousel
   time: "2026-10-29 17:47"
