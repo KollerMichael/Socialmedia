@@ -766,5 +766,10 @@
     "media_id": "18133007168509343",
     "permalink": "https://www.instagram.com/p/DfHxN1LF7yg/",
     "at": "2026-10-30T15:11:52.920852+01:00"
+  },
+  "2026-10-30_haltung2_story": {
+    "status": "error",
+    "error": "Graph API POST 17841440359894145/media_publish: The requested resource does not exist (code 24, subcode 2207006)",
+    "at": "2026-10-30T15:17:20.105882+01:00"
   }
 }
