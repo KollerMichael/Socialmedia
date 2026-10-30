@@ -768,8 +768,9 @@
     "at": "2026-10-30T15:11:52.920852+01:00"
   },
   "2026-10-30_haltung2_story": {
-    "status": "error",
-    "error": "Graph API POST 17841440359894145/media_publish: The requested resource does not exist (code 24, subcode 2207006)",
-    "at": "2026-10-30T15:17:20.105882+01:00"
+    "status": "posted",
+    "media_id": "18199090699389766",
+    "permalink": "",
+    "at": "2026-10-30T15:20:00.983356+01:00"
   }
 }
