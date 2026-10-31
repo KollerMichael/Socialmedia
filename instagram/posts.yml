@@ -6,6 +6,47 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-10-31_aussenrotatoren_karussell
+  type: carousel
+  time: "2026-10-31 14:48"
+  media: [AussenrotatorenSlide1.png, AussenrotatorenSlide2.png, AussenrotatorenSlide3.png, AussenrotatorenSlide4.png, AussenrotatorenSlide5.png, AussenrotatorenSlide6.png, AussenrotatorenSlide7.png]
+  caption: |
+    Schulterschmerzen? Nach innen: täglich. Nach außen? Fehlanzeige. 🔄
+
+    Laptop, Handy, Lenkrad: Deine Arme sind fast den ganzen Tag vor dem Körper – die Schultern nach innen gedreht. Auch im Sport kommt die Kraft von innen: beim Aufschlag im Tennis oder Padel und bei jedem Kraulzug im Wasser.
+
+    Die Gegenspieler kommen dabei oft zu kurz: deine Außenrotatoren (Untergrätenmuskel und kleiner Rundmuskel). Sie halten den Oberarmkopf zentriert in der Pfanne und bremsen jeden Wurf und Schlag ab. Schwache Außenrotatoren werden mit Schulterverletzungen in Verbindung gebracht – vor allem bei Überkopfsportlern.
+
+    Ein häufiges Beschwerdebild: das Impingement (heute oft „subakromiales Schmerzsyndrom“ genannt) – Schmerz unter dem Schulterdach, wenn du den Arm seitlich oder über Kopf hebst.
+
+    Die gute Nachricht: Gezieltes Training wirkt. Bei Schulterschmerz ist es oft die erste Wahl. Und in einer Studie mit 660 Handball-Profis senkte ein Präventionsprogramm im Aufwärmen – u. a. mit Außenrotations-Training, 3× pro Woche – Schulterprobleme um 28 %.
+
+    💪 3 Übungen für deine Außenrotatoren:
+    1️⃣ Seitlage mit Kurzhantel – Ellbogen am Körper, Unterarm nach oben drehen
+    2️⃣ Band 0° – Ellbogen an der Hüfte (Handtuch dazwischen), Hand nach außen drehen
+    3️⃣ Band 90° – Arm auf Schulterhöhe, Unterarm nach oben drehen (ideal für Überkopfsportler)
+    👉 2–3× pro Woche, 2–3 Sätze à 12–15 Wiederholungen. Leichtes Gewicht, langsam zurückführen, schmerzfrei.
+
+    ⚠️ Schmerz in Ruhe oder in der Nacht, nach einem Sturz, Kraftverlust oder Taubheit im Arm? Bitte zuerst ärztlich abklären lassen.
+
+    🔁 Kennst du jemanden mit Schulterschmerzen? Teile den Beitrag mit ihm oder ihr – und speicher ihn dir für dein nächstes Training.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Andersson et al. 2017, BJSM · Byram et al. 2010, AJSM · Haik et al. 2016, BJSM · Reinold et al. 2004, JOSPT · Batalha et al. 2013, JSCR
+
+    #Sportordination #medicalathleticcoach #schulter #schultertraining #impingement #rotatorenmanschette #athletiktraining #tennis #schwimmen #wiensport
+  approved: true
+
+- id: 2026-10-31_aussenrotatoren_story
+  type: story
+  time: "2026-10-31 14:54"
+  media: [AussenrotatorenStory.png]
+  approved: true
+
 - id: 2026-11-01_hamstrings_karussell
   type: carousel
   time: "2026-11-01 08:00"
