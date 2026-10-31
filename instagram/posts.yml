@@ -6,6 +6,50 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-11-02_zug-vor-druck_karussell
+  type: carousel
+  time: "2026-11-02 14:00"
+  media: [ZugSlide1.png, ZugSlide2.png, ZugSlide3.png, ZugSlide4.png, ZugSlide5.png, ZugSlide6.png, ZugSlide7.png]
+  caption: |
+    17 Muskeln hängen an deinem Schulterblatt. Trainierst Du die richtigen? 💪
+
+    Bankdrücken, Liegestütz, Schulterdrücken – Drücken lieben fast alle. Dazu sitzen wir täglich mit den Armen vorne: Laptop, Handy, Lenkrad. Rücken und Schulterblatt-Muskeln kommen da schnell zu kurz.
+
+    Das zählt: Bis zu 36 % der Verletzungen im Krafttraining betreffen die Schulter. Ein Ungleichgewicht zwischen vorne und hinten gilt als einer der Risikofaktoren.
+
+    Meine Lösung: Pull-Push-Pull.
+    1️⃣ PULL – Rudern mit Kurzhantel oder Kabel
+    2️⃣ PUSH – Liegestütz oder Bankdrücken
+    3️⃣ PULL – Face Pull oder Band auseinanderziehen
+    👉 So machst du 2 × Zug auf 1 × Druck. Drücken bleibt – Ziehen bekommt Vorrang. Als Supersatz sparst du sogar Zeit.
+
+    Blick in den Profisport: Im Profi-Handball senkte ein Programm mit Kräftigung von Schulterblatt und Rotatoren das Risiko für Schulterprobleme um 28 %.
+
+    ⚠️ Schulterschmerzen beim Training? Erst ärztlich abklären lassen.
+
+    💬 Und du? Wie schaut deine Krafttrainingsstrategie aus?
+    A – vor allem Drücken
+    B – vor allem Ziehen
+    C – halbe-halbe
+    D – ab jetzt Pull-Push-Pull
+    Schreib's in die Kommentare! Und speicher dir den Post fürs nächste Training. 📌
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Kolber et al. 2010 & 2014, J Strength Cond Res · Andersson et al. 2017, Br J Sports Med · Zhang et al. 2025, Sports Med
+
+    #Sportordination #medicalathleticcoach #krafttraining #athletiktraining #schultergesundheit #rückentraining #fitness #gymlife #verletzungsprävention #wiensport
+  approved: true
+
+- id: 2026-11-02_zug-vor-druck_story
+  type: story
+  time: "2026-11-02 14:06"
+  media: [ZugStory.png]
+  approved: true
+
 - id: 2026-10-31_achillodynie_karussell
   type: carousel
   time: "2026-10-31 08:22"
