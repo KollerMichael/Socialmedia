@@ -6,6 +6,46 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-11-02_waesche-trick_karussell
+  type: carousel
+  time: "2026-11-02 07:00"
+  media: [WaescheSlide1.png, WaescheSlide2.png, WaescheSlide3.png, WaescheSlide4.png, WaescheSlide5.png, WaescheSlide6.png, WaescheSlide7.png]
+  caption: |
+    SNOOZE?! Dein Morgentraining startet schon am Vorabend. ⏰👟
+
+    Der Wecker läutet, draußen ist es dunkel, das Bett ist warm – und schon wieder gewinnt die Decke. Kennst du? Fast jeder Zweite, der sich mehr Bewegung vornimmt, setzt es am Ende nicht um.
+
+    Mein Mindset-Hack: der Wäsche-Trick 👇
+    1️⃣ Am Abend die Sportsachen vors Bett legen – Shirt, Hose, Socken, Schuhe.
+    2️⃣ Klar vornehmen: „Wenn der Wecker läutet, dann zieh ich sie an.“
+    3️⃣ In der Früh reinschlüpfen und raus. Nicht diskutieren.
+
+    Warum das wirkt: Die Wäsche ist dein sichtbares Startsignal. Die Entscheidung ist schon am Abend gefallen. Und dein Plan ist bereits halb umgesetzt. Studien zeigen: Wer das Losgehen zur Gewohnheit macht, trainiert öfter.
+
+    Fun Fact aus der Verhaltensforschung: Bei einer Autowäsche-Treuekarte mit 2 geschenkten Stempeln wurden fast doppelt so viele Karten voll (34 % statt 19 %). Vorsprung motiviert – vielleicht auch bei der Sportwäsche. 😉
+
+    Gib dir Zeit: Eine neue Gewohnheit braucht meist rund 2 Monate. Gleiche Zeit, gleicher Ablauf – dranbleiben lohnt.
+
+    ⚠️ Morgens ist dein Körper kühler – wärm dich etwas länger auf. Neu im Training oder Beschwerden? Erst ärztlich abklären lassen.
+
+    💬 Und du? Was ist DEIN Mindset-Hack fürs Morgentraining? Schreib's in die Kommentare – ich bin gespannt!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Feil et al. 2023 (BJSM) · Gollwitzer & Sheeran 2006 · Phillips & Gardner 2016 · Kaushal et al. 2017 · Nunes & Drèze 2006 · Singh et al. 2024
+
+    #Sportordination #medicalathleticcoach #morgentraining #mindset #motivation #dranbleiben #gewohnheiten #laufen #fitness #wiensport
+  approved: true
+
+- id: 2026-11-02_waesche-trick_story
+  type: story
+  time: "2026-11-02 07:06"
+  media: [WaescheStory.png]
+  approved: true
+
 - id: 2026-11-01_erschoepfung_karussell
   type: carousel
   time: "2026-11-01 14:00"
