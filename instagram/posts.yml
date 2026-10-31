@@ -6,6 +6,47 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-11-01_erschoepfung_karussell
+  type: carousel
+  time: "2026-11-01 14:00"
+  media: [ErschoepfungSlide1.png, ErschoepfungSlide2.png, ErschoepfungSlide3.png, ErschoepfungSlide4.png, ErschoepfungSlide5.png, ErschoepfungSlide6.png, ErschoepfungSlide7.png]
+  caption: |
+    Niedergeschlagen nach dem Training? Dein Training stresst dich! 😮‍💨
+
+    Das ist keine Entspannung. Viele trainieren, bis gar nichts mehr geht – und schlafen danach auf der Couch ein. Fühlt sich nach „Runterkommen“ an. Ist aber Erschöpfung: Der Akku ist leer, der Körper steckt noch im Stressmodus.
+
+    Nach einer sehr harten Einheit steigt das Stresshormon Cortisol deutlich an. Dein Nervensystem kann danach 48 Stunden und mehr brauchen, bis es wieder voll auf Erholung schaltet. Bei lockerem Training bleibt Cortisol dagegen ruhig.
+
+    Auch beim Auspowern im HIIT-Workout gilt: Der Kopf schaltet ab – der Körper läuft auf Hochtouren. Kommt Stress im Job dazu, addiert sich das. Studien zeigen: Wer viel Alltagsstress hat, erholt sich langsamer vom Training.
+
+    Entspannung ist nicht Energielosigkeit. Entspannung ist Energie mit Richtung: ruhig, wach und voll da.
+
+    So bringst du beides zusammen:
+    ✅ Die meisten Einheiten locker – du kannst dabei reden
+    ✅ Hart nur gezielt, 1–2× pro Woche, mit Pause danach
+    ✅ Runterfahren: 5–10 Minuten auslaufen, langsam ausatmen
+    ✅ Sehr harte Einheiten nicht direkt vor dem Schlafengehen
+
+    Im Profisport wird Erholung genauso geplant wie Belastung.
+
+    Ständig erschöpft, obwohl du Pausen machst? Lass das ärztlich abklären.
+
+    💬 Und du: Wie bringst DU Entspannung und Training zusammen? Schreib's in die Kommentare!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #entspannung #regeneration #hiit #athletiktraining #sportmedizin #stressabbau #trainingsplanung #wiensport
+  approved: true
+
+- id: 2026-11-01_erschoepfung_story
+  type: story
+  time: "2026-11-01 14:06"
+  media: [ErschoepfungStory.png]
+  approved: true
+
 - id: 2026-11-02_zug-vor-druck_karussell
   type: carousel
   time: "2026-11-02 14:00"
