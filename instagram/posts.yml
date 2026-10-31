@@ -6,6 +6,40 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-11-01_hamstrings_karussell
+  type: carousel
+  time: "2026-11-01 08:00"
+  media: [HamstringsSlide1.png, HamstringsSlide2.png, HamstringsSlide3.png, HamstringsSlide4.png, HamstringsSlide5.png, HamstringsSlide6.png, HamstringsSlide7.png, HamstringsSlide8.png]
+  caption: |
+    Kreuzbandriss?! Dein Knie braucht einen Bodyguard. 🦵⚡
+
+    Fast 9 von 10 Kreuzbandrissen im Profifußball passieren ohne direkten Schlag aufs Knie – im Pressing, nach dem Schuss oder bei der Landung nach einem Sprung.
+
+    Deine Hamstrings – die Muskeln an der Oberschenkel-Rückseite – ziehen das Schienbein zurück. Genau das entlastet dein vorderes Kreuzband.
+
+    Präventionsprogramme mit Kraft, Sprung- und Landetraining, Balance und Richtungswechseln senken Kreuzbandrisse in Studien um rund die Hälfte. Hamstring-Kraft ist dabei ein Pflichtbaustein – und schützt nebenbei vor Zerrungen. Im Profifußball betrifft jede 4. Verletzung die Hamstrings.
+
+    Darum gilt bei uns: Hamstrings immer im Fokus. 2× pro Woche, das ganze Jahr – auch in der Saison. 💪
+
+    Schmerzen im Knie oder eine frische Verletzung? Bitte ärztlich abklären lassen.
+
+    👇 Welche ist deine Lieblingsübung für die Hamstrings? Nordic Curl, Rumänisches Kreuzheben, einbeinige Brücke oder Leg Curl? Schreib's in die Kommentare!
+    💾 Speichern für dein nächstes Training.
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #hamstrings #kreuzband #verletzungsprävention #athletiktraining #nordichamstringcurl #fußballtraining #sportmedizin #krafttraining
+  approved: true
+
+- id: 2026-11-01_hamstrings_story
+  type: story
+  time: "2026-11-01 08:05"
+  media: [HamstringsStory.png]
+  approved: true
+
 - id: 2026-11-02_waesche-trick_karussell
   type: carousel
   time: "2026-11-02 07:00"
