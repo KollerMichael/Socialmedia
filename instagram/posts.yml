@@ -6,6 +6,45 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-11-02_dropsaetze_karussell
+  type: carousel
+  time: "2026-11-02 14:22"
+  media: [DropSlide1.png, DropSlide2.png, DropSlide3.png, DropSlide4.png, DropSlide5.png, DropSlide6.png, DropSlide7.png]
+  caption: |
+    Keine Zeit fürs Gym? 1 Dropsatz statt 3 Sätze. ⏱️💪
+
+    Ein Dropsatz geht so: Du trainierst, bis fast keine Wiederholung mehr geht. Dann reduzierst du das Gewicht sofort um ca. 20–25 % – und machst ohne Pause weiter. 2–3 Stufen, fertig.
+
+    Das Spannende: In Studien brachte 1 Dropsatz ähnlich viel Muskelzuwachs wie 3 klassische Sätze. Beim Trizeps dauerte das rund 2½ statt 5 Minuten, beim Bizeps rund 2 statt 7 Minuten. Zwei Meta-Analysen bestätigen: Dropsätze bauen ähnlich viel Muskel auf wie klassisches Training – in rund der halben Zeit.
+
+    So machst du es richtig:
+    ✅ an Kabel, Maschine oder mit Kurzhanteln – schnell umstellbar
+    ✅ nur im letzten Satz einer Übung
+    ✅ 1–2 Übungen pro Einheit reichen
+    ✅ saubere Technik bis zur letzten Wiederholung
+    ❌ nicht bei schweren Kniebeugen oder Kreuzheben mit der Langhantel
+
+    Wichtig: Dropsätze sind intensiv – plane genug Erholung ein. Für Muskelaufbau top, für Maximalkraft bleiben schwere Sätze die Basis. Neu im Krafttraining? Erst die Technik lernen. Bei Herz-Kreislauf-Erkrankung oder Bluthochdruck vor intensivem Krafttraining ärztlich abklären lassen.
+
+    Und du – hast Du schon mal Dropsätze probiert? 👇
+    A) Ja, regelmäßig  B) Einmal probiert  C) Noch nie  D) Ab jetzt!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Fink et al. 2018 · Ozaki et al. 2018 · Coleman et al. 2022 (Meta-Analyse) · Sødal et al. 2023 (Meta-Analyse) · Iversen et al. 2021 (Review)
+
+    #Sportordination #medicalathleticcoach #krafttraining #dropsets #muskelaufbau #athletiktraining #fitness #gymlife #trainingstipps #wiensport
+  approved: true
+
+- id: 2026-11-02_dropsaetze_story
+  type: story
+  time: "2026-11-02 14:28"
+  media: [DropStory.png]
+  approved: true
+
 - id: 2026-10-31_aussenrotatoren_karussell
   type: carousel
   time: "2026-10-31 14:48"
