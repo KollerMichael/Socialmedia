@@ -83,7 +83,7 @@
 
 - id: 2026-11-02_waesche-trick_karussell
   type: carousel
-  time: "2026-11-02 07:00"
+  time: "2026-11-02 07:16"
   media: [WaescheSlide1.png, WaescheSlide2.png, WaescheSlide3.png, WaescheSlide4.png, WaescheSlide5.png, WaescheSlide6.png, WaescheSlide7.png]
   caption: |
     SNOOZE?! Dein Morgentraining startet schon am Vorabend. ⏰👟
@@ -117,7 +117,7 @@
 
 - id: 2026-11-02_waesche-trick_story
   type: story
-  time: "2026-11-02 07:06"
+  time: "2026-11-02 07:22"
   media: [WaescheStory.png]
   approved: true
 
