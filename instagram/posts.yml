@@ -6,6 +6,43 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-11-03_selbstwert_karussell
+  type: carousel
+  time: "2026-11-03 13:30"
+  media: [SelbstwertSlide1.png, SelbstwertSlide2.png, SelbstwertSlide3.png, SelbstwertSlide4.png, SelbstwertSlide5.png, SelbstwertSlide6.png, SelbstwertSlide7.png]
+  caption: |
+    Immer zuletzt dran? Job, Kinder, Haushalt – und du kommst irgendwo ganz hinten. 👀
+
+    Dabei läuft alles, was du für andere tust, über deinen Körper. Er ist deine wichtigste Ressource für Gesundheit – nicht dein Bonus, wenn gerade Zeit bleibt.
+
+    Die WHO ist da klar: Wer sich zu wenig bewegt, hat ein um 20–30 % höheres Sterberisiko. Und weltweit schafft rund 1 von 3 Erwachsenen die Empfehlung nicht.
+
+    Das Schöne: Bewegung stärkt nicht nur Herz und Muskeln, sondern auch dein Körpergefühl – laut Studien schon, bevor sich auf der Waage etwas tut. Jede Einheit ist ein Termin, den du mit dir selbst einhältst.
+
+    So setzt du dich an die 1. Stelle:
+    ✅ Training fix in den Kalender – wie ein Meeting
+    ✅ Mindestens 150 Minuten Bewegung pro Woche + 2× Kraft
+    ✅ 7+ Stunden Schlaf
+    ✅ Lange Pause oder Beschwerden? Vor dem Neustart ärztlich durchchecken lassen
+
+    Im Profifußball ist Erholung Teil des Plans – nicht der Rest, wenn Zeit bleibt. Das darfst du dir auch gönnen.
+
+    👇 Und du: Wer kommt bei dir an erster Stelle?
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    #Sportordination #medicalathleticcoach #selbstwert #selbstfürsorge #gesundheit #bewegung #fitness #sportmedizin #athletiktraining #wiensport
+  approved: true
+
+- id: 2026-11-03_selbstwert_story
+  type: story
+  time: "2026-11-03 13:36"
+  media: [SelbstwertStory.png]
+  approved: true
+
 - id: 2026-11-03_zug-vor-druck2_karussell
   type: carousel
   time: "2026-11-03 07:00"
