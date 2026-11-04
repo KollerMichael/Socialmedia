@@ -6,6 +6,53 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-11-04_spielsport_karussell
+  type: carousel
+  time: "2026-11-04 08:20"
+  media: [SpielSlide1.png, SpielSlide2.png, SpielSlide3.png, SpielSlide4.png, SpielSlide5.png, SpielSlide6.png, SpielSlide7.png, SpielSlide8.png]
+  caption: |
+    Das Kind im Mann? 😄⚽ Lass es raus – es ist dein bestes Intensivtraining.
+
+    Kennst du das? Beim Kicken mit Freunden schaust du nie auf die Uhr. Du jagst dem Ball nach, lachst, sprintest – und merkst erst danach, wie hart du gearbeitet hast.
+
+    Genau das zeigen Studien:
+    ⚽ Beim Freizeitfußball auf dem Kleinfeld liegt dein Puls im Schnitt bei 80–85 % deines Maximums.
+    📈 Bei Untrainierten verbesserte regelmäßiges Kicken Ausdauer und Blutdruck ähnlich gut wie Intervalltraining.
+    😄 Kleinfeldspiele bringen einen ähnlichen Puls wie Intervalle – aber deutlich mehr Spaß.
+    🧠 In einer Befragung von 1,2 Mio. Menschen hing Teamsport mit den wenigsten schlechten Tagen für die Psyche zusammen: 22 % weniger als ohne Sport.
+
+    Warum? Im Spiel bist du ganz im Moment. Dein Kopf ist beim Ball, beim Pass, beim Tor – nicht bei der Anstrengung. Du schaltest ab. Und weil es Spaß macht, bleibst du dran.
+
+    So startest du sicher:
+    ✅ 1–2× pro Woche, kleines Feld, kleine Teams
+    ✅ Gut aufwärmen – ein Programm wie das „11+“ senkt das Verletzungsrisiko im Fußball um rund ein Drittel
+    ✅ Locker starten – Sehnen und Gelenke brauchen Zeit
+    ⚠️ Lange inaktiv, über 35 oder Herz-Kreislauf-Risiko? Vor dem ersten intensiven Spiel ärztlich abklären lassen, z. B. mit einem Belastungs-EKG.
+
+    Fußball, Basketball, Padel, Hockey – egal. Hauptsache Ball und Freunde. Gilt natürlich auch fürs Kind in der Frau. 😉
+
+    👇 Und du? Wie absolvierst Du deine intensiven Trainingsreize?
+    A – Intervalle allein (Laufen, Rad)
+    B – Im Spiel mit anderen
+    C – Kurs oder Gruppe
+    D – Noch gar nicht – ab jetzt!
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Krustrup et al. 2010 (Scand J Med Sci Sports) · Milanović et al. 2015 (Sports Med) · Elbe et al. 2010 (Scand J Med Sci Sports) · Selmi et al. 2020 (Open Access J Sports Med) · Chekroud et al. 2018 (Lancet Psychiatry) · Thorborg et al. 2017 (Br J Sports Med) · ESC-Leitlinie Sportkardiologie 2020
+
+    #Sportordination #medicalathleticcoach #freizeitfußball #spielsport #athletiktraining #intervalltraining #mentalegesundheit #fitness #hobbykicker #wiensport
+  approved: true
+
+- id: 2026-11-04_spielsport_story
+  type: story
+  time: "2026-11-04 08:27"
+  media: [SpielStory.png]
+  approved: true
+
 - id: 2026-11-03_selbstwert_karussell
   type: carousel
   time: "2026-11-03 13:30"
