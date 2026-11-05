@@ -6,6 +6,50 @@
 # media: Dateien im Repo (PNG wird automatisch in JPEG umgewandelt) oder volle https-URLs
 # Fehlerhafte Posts: in instagram/posted.json den Eintrag löschen, dann wird erneut versucht.
 
+- id: 2026-11-05_tracker_karussell
+  type: carousel
+  time: "2026-11-05 08:41"
+  media: [TrackerSlide1.png, TrackerSlide2.png, TrackerSlide3.png, TrackerSlide4.png, TrackerSlide5.png, TrackerSlide6.png, TrackerSlide7.png]
+  caption: |
+    Nicht getrackt = nicht gemacht? 🔋
+
+    Uhr vergessen – also kein Lauf. Akku leer – also keine Einheit. Kennst du das?
+
+    Die Wahrheit: Dein Körper weiß nicht, ob die Uhr mitläuft. Muskeln, Herz und Kreislauf passen sich an das an, was du tust – nicht an das, was die App speichert.
+
+    Tracken ist trotzdem gut. Mit Activity-Tracker gehen Menschen im Schnitt rund 1.800 Schritte mehr pro Tag. Und eine Doku zeigt dir, wie sich deine Belastung über Wochen entwickelt.
+
+    Du bist der beste Tracker – ganz ohne Akku:
+    1️⃣ Dauer in Minuten notieren
+    2️⃣ Wie hart war's? Ehrlich von 0 bis 10
+    3️⃣ Dauer mal Anstrengung = deine Trainingslast (45 Min. × 6 = 270)
+    4️⃣ Ein Wort zu Schlaf, Beinen, Stimmung
+
+    Aus dem Profifußball: In allen befragten Topklubs laufen GPS und Pulsgurt in jedem Training mit. Und trotzdem fragen 2 von 3 Klubs ihre Spieler zusätzlich: Wie hart war's? Eine Übersicht über 56 Studien zeigt: Dein eigenes Gefühl reagiert oft feiner auf Belastung als Blutwerte und Puls.
+
+    Daten sind ein Werkzeug. Nicht dein Chef. Und wenn du dich trotz Pausen dauerhaft müde und schlapp fühlst: ärztlich abklären lassen.
+
+    👇 Und du? Trainierst du auch ohne zu tracken? Oder bist DU der Tracker?
+    A – Ohne Uhr kein Training
+    B – Ich trainiere auch ohne
+    C – Ich bin mein eigener Tracker
+
+    📩 Fragen oder Termin? Melde dich bei der Sportordination:
+    🌐 www.sportordination.com
+    ✉️ office@sportordination.com
+    📞 +43 1 2280028
+
+    Quellen: Ferguson et al. 2022 (Lancet Digital Health) · Foster et al. 2001 (J Strength Cond Res) · Haddad et al. 2017 (Front Neurosci) · Akenhead & Nassis 2016 (IJSPP) · Saw et al. 2016 (Br J Sports Med)
+
+    #Sportordination #medicalathleticcoach #trainingstagebuch #trainingssteuerung #athletiktraining #sportwissenschaft #laufen #wearables #fitness #wiensport
+  approved: true
+
+- id: 2026-11-05_tracker_story
+  type: story
+  time: "2026-11-05 08:47"
+  media: [TrackerStory.png]
+  approved: true
+
 - id: 2026-11-04_spielsport_karussell
   type: carousel
   time: "2026-11-04 08:20"
